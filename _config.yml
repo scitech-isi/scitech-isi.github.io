@@ -1,0 +1,9 @@
+# Site settings
+title: SciTech
+subtitle: "Science Automation Technologies"
+
+exclude:
+  - .jekyll-cache
+  - .idea
+  - README.md
+  - LICENSE
