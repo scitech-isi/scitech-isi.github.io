@@ -15,8 +15,9 @@ permalink: /people
 
         <h3>Current Members</h3>
 
-        {% assign members = site.data.people | where: 'alumni', nil %}
+        {% assign members = site.data.people %}
         {% for p in members %}
+        {% unless p.alumni %}
         <div class="member">
             <img src="/images/people/{{ p.photo }}" alt="{{ p.name }}"/>
             <div class="social">
@@ -38,6 +39,7 @@ permalink: /people
                 <div class="position">{{ p.position }}</div>
             </div>
         </div>
+        {% endunless %}
         {% endfor %}
 
         <br/><br/>
