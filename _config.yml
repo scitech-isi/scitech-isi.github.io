@@ -8,5 +8,13 @@ exclude:
   - README.md
   - LICENSE
 
+# scholar
+scholar:
+  sort_by: author
+  group_by: year
+  group_order: descending
+  type_order: [article, inproceedings, phdthesis, techreport]
+  bibliography_template: bib
+
 plugins:
   - jekyll-scholar
