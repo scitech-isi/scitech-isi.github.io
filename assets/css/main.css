@@ -3653,6 +3653,39 @@ body.is-menu-visible #menu {
     font-size: 0.8em;
 }
 
-@media screen and (max-width: 736px) {
+.alumni {
+    border: 1px solid #ccc;
+    min-height: 4em;
+    max-height: 4em;
+    min-width: 15em;
+    max-width: 15em;
+    display: inline-block;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding: 0.5em;
+}
 
+.alumni img {
+    width: 2.5em;
+    float: left;
+    padding-top: 0.25em;
+    border-radius: 50%;
+}
+
+.alumni .info {
+    padding-left: 0.5em;
+    float: left;
+    max-width: 11em;
+}
+
+.alumni .title {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+.alumni .position {
+    text-transform: uppercase;
+    color: #999;
+    font-size: 0.7em;
+    line-height: 1.2em;
 }

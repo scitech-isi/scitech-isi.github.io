@@ -13,9 +13,12 @@ permalink: /people
             </div>
         </header>
 
-        {% for p in site.data.people %}
+        <h3>Current Members</h3>
+
+        {% assign members = site.data.people | where: 'alumni', nil %}
+        {% for p in members %}
         <div class="member">
-            <img src="/images/people/{{ p.photo }}"/>
+            <img src="/images/people/{{ p.photo }}" alt="{{ p.name }}"/>
             <div class="social">
                 {%if p.website %}
                 <a href="{{ p.website }}" target="_blank"><i class="fa fa-link"></i></a><br/>
@@ -33,6 +36,24 @@ permalink: /people
             <div class="info">
                 <div class="title">{{ p.name }}{% if p.degree %}, {{ p.degree}} {% endif %}</div>
                 <div class="position">{{ p.position }}</div>
+            </div>
+        </div>
+        {% endfor %}
+
+        <br/><br/>
+        <h3>Alumni</h3>
+
+        {% assign alumni = site.data.people | where: 'alumni', true %}
+        {% for p in alumni %}
+        <div class="alumni">
+            <img src="/images/people/{{ p.photo }}" alt="{{ p.name }}"/>
+            <div class="info">
+                <div class="title">
+                    {{ p.name }}
+                </div>
+                <div class="position">
+                    {{ p.position }}
+                </div>
             </div>
         </div>
         {% endfor %}
