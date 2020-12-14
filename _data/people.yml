@@ -1,0 +1,77 @@
+- name: Ewa Deelman
+  degree: Ph.D.
+  position: Research Professor, Research Director
+  website: http://deelman.isi.edu
+  linkedin: https://www.linkedin.com/in/ewa-deelman-44533428
+  twitter: https://twitter.com/EwaDeelman
+  email: deelman@isi.edu
+  photo: deelman.jpg
+
+- name: Rafael Ferreira da Silva
+  degree: Ph.D.
+  position: Research Assistant Professor, Research Lead
+  website: https://rafaelsilva.com
+  linkedin: https://www.linkedin.com/in/rafaelfsilva
+  email: rafsilva@isi.edu
+  photo: ferreiradasilva.jpg
+
+- name: Karan Vahi
+  degree: M.S.
+  position: Senior Computer Scientist
+  linkedin: https://www.linkedin.com/in/karanvahi
+  photo: vahi.jpg
+
+- name: Mats Rynge
+  degree: B.S.
+  position: Senior Computer Scientist
+  linkedin: https://www.linkedin.com/in/mats-rynge-23050882
+  photo: rynge.jpg
+
+- name: Loïc Pottier
+  degree: Ph.D.
+  position: Computer Scientist
+  website: http://loicpottier.com
+  photo: pottier.jpg
+
+- name: Rajiv Mayani
+  degree: M.S.
+  position: Research Programmer II
+  linkedin: https://www.linkedin.com/in/rajivmayani
+  photo: mayani.jpg
+
+- name: Ryan Tanaka
+  degree: M.S.
+  position: Programmer Analyst II
+  linkedin: https://www.linkedin.com/in/ryan-tanaka/
+  photo: tanaka.jpg
+
+- name: Wendy Whitcup
+  position: Project Manager
+  email: wwhitcup@isi.edu
+  photo: whitcup.jpg
+
+- name: Ciji Davis
+  position: Project Specialist
+  linkedin: https://www.linkedin.com/in/cijidavis/
+  email: cdavis@isi.edu
+  photo: davis.jpg
+
+- name: George Papadimitriou
+  position: Graduate Research Assistant (Ph.D.)
+  website: https://papajim.eu
+  linkedin: https://gr.linkedin.com/in/george-papadimitriou-05931060
+  photo: papadimitriou.png
+
+- name: Tu Mai Anh Do
+  position: Graduate Research Assistant (Ph.D.)
+  photo: do.jpg
+
+- name: Patrycja Krawczuk
+  position: Graduate Research Assistant (Ph.D.)
+  photo: krawczuk.jpg
+
+- name: Tainã Coleman
+  degree: M.S.
+  position: Graduate Research Assistant (Ph.D.)
+  website: http://tainacoleman.com
+  photo: coleman.jpg

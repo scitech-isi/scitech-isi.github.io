@@ -3596,3 +3596,63 @@ body.is-menu-visible #menu {
     }
 
 }
+
+.member {
+    border: 1px solid #ccc;
+    min-height: 18em;
+    max-height: 18em;
+    max-width: 14em;
+    display: inline-block;
+    margin-right: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.member img {
+    width: 12em;
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+    float: left;
+    position: relative;
+}
+
+.member .social {
+    padding: 0.5em;
+    float: left;
+    position: relative;
+    border-left: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    min-height: 15.1em;
+    max-height: 15.1em;
+    min-width: 30px;
+    font-size: 0.8em;
+    color: #999;
+    text-align: center;
+    line-height: 2em;
+}
+
+.member .social a {
+    border-bottom: 0;
+}
+
+.member .info {
+    padding: 0.5em;
+    line-height: 1.2em;
+    float: left;
+    background-color: #f7f7f7;
+    min-height: 5.8em;
+    min-width: 13.8em;
+}
+
+.member .title {
+    font-weight: bold;
+}
+
+.member .position {
+    text-transform: uppercase;
+    color: #999;
+    font-size: 0.8em;
+}
+
+@media screen and (max-width: 736px) {
+
+}

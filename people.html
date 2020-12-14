@@ -1,0 +1,41 @@
+---
+layout: default
+title: People
+permalink: /people
+---
+
+<div id="main">
+    <article class="post">
+        <header>
+            <div class="title">
+                <h2>People</h2>
+                <p>Researchers, developers, staff, and students</p>
+            </div>
+        </header>
+
+        {% for p in site.data.people %}
+        <div class="member">
+            <img src="/images/people/{{ p.photo }}"/>
+            <div class="social">
+                {%if p.website %}
+                <a href="{{ p.website }}" target="_blank"><i class="fa fa-link"></i></a><br/>
+                {% endif %}
+                {%if p.email %}
+                <a href="mailto:{{ p.email }}"><i class="fas fa-envelope"></i></a><br/>
+                {% endif %}
+                {%if p.linkedin %}
+                <a href="{{ p.linkedin }}" target="_blank"><i class="fab fa-linkedin-in"></i></a><br/>
+                {% endif %}
+                {% if p.twitter %}
+                <a href="{{ p.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a><br/>
+                {% endif %}
+            </div>
+            <div class="info">
+                <div class="title">{{ p.name }}{% if p.degree %}, {{ p.degree}} {% endif %}</div>
+                <div class="position">{{ p.position }}</div>
+            </div>
+        </div>
+        {% endfor %}
+
+    </article>
+</div>
