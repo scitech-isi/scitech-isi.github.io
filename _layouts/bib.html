@@ -7,9 +7,14 @@
         <i class="fas fa-link"></i>
     </a>
     {% endif %}
-    <a href="/files/publications/{{ entry.key }}.pdf" target="_blank" style="color: #c82333">
+    {% for static_file in site.static_files %}
+    {% assign entry_path = '/files/publications/' | append: entry.key | append: '.pdf' %}
+    {% if static_file.path == entry_path %}
+    <a href="{{ entry_path }}" target="_blank" style="color: #c82333">
         <i class="far fa-file-pdf"></i>
     </a>
+    {% endif %}
+    {% endfor %}
     {{ reference }}
     {% if entry.note %}
     ({{ entry.note }})
