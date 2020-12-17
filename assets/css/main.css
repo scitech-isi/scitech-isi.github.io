@@ -3705,3 +3705,106 @@ body.is-menu-visible #menu {
 .bibliography li {
     margin-bottom: 0.5em;
 }
+
+.publications {
+    max-height: 30em;
+    overflow: auto;
+}
+
+.publication {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+}
+
+.publication .authors {
+    font-size: 0.8em;
+    color: #999;
+    font-style: italic;
+}
+
+.publication .desc {
+    font-size: 0.8em;
+    color: #666;
+}
+
+.project {
+    border: 1px solid #ccc;
+    margin-right: 2em;
+    margin-bottom: 2em;
+    min-width: 15em;
+    max-width: 15em;
+    text-align: center;
+    padding: 0 !important;
+}
+
+.project .header {
+    text-align: left;
+    background: rgba(50, 50, 50, 0.4);
+    min-height: 5em;
+    max-height: 5em;
+}
+
+.project .header .funding {
+    padding-left: 0.5em;
+    font-size: 0.8em;
+    color: #fff;
+    opacity: 0.5;
+}
+
+.project .logo {
+    min-width: 7.5em;
+    max-width: 7.5em;
+    min-height: 7.5em;
+    max-height: 7.5em;
+    border-radius: 0.5em;
+    background-color: #fff;
+    margin: auto;
+    margin-top: -4em;
+    border: 3px solid #fff;
+    box-shadow: #ccc 2px 2px 2px;
+}
+
+.project .logo img {
+    width: 7em;
+    padding: 0.5em;
+}
+
+.project .title {
+    padding: 1em 1.5em;
+    line-height: 1.2em;
+    color: #666;
+    font-weight: bold;
+    min-height: 5.5em;
+}
+
+.project .title a {
+    border-bottom: 0;
+}
+
+.project .description {
+    color: #999;
+    font-size: 0.8em;
+    padding: 0.5em 1em;
+    text-align: left;
+    line-height: 1.2em;
+    min-height: 9em;
+}
+
+.project .social {
+    padding: 1em 2em;
+}
+
+.project .social ul {
+    margin: 0;
+}
+
+.project .social ul li {
+    display: inline-block;
+    margin-right: 1em;
+}
+
+.project .social ul li a {
+    color: #999;
+    border-bottom: 0;
+}

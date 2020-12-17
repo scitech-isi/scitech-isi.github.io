@@ -1,0 +1,65 @@
+- title: 'CI CoE: Pilot Study for a Cyberinfrastructure Center of Excellence'
+  description: CI CoE provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depends.
+  image: cicoe.png
+  funding: NSF
+  website: https://cicoe-pilot.org
+  twitter: ci_coe
+  youtube: https://www.youtube.com/channel/UCMSTXbSRTiZSVxSiQHFsvGw
+  colors:
+    r: 76
+    g: 175
+    b: 80
+
+- title: 'Pegasus: Automating Compute and Data Intensive Science'
+  description: The Pegasus project encompasses a set of technologies that help workflow-based applications execute in a number of different environments including desktops, campus clusters, grids, and clouds. Pegasus bridges the scientific domain and the execution environment by automatically mapping high-level workflow descriptions onto distributed resources.
+  image: pegasus.png
+  funding: NSF
+  website: https://pegasus.isi.edu
+  youtube: https://www.youtube.com/channel/UCwJQln1CqBvTJqiNr9X9F1Q
+  colors:
+    r: 70
+    g: 154
+    b: 152
+
+- title: 'Panorama 360: Performance Data Capture and Analysis for End-to-end Scientific Workflows'
+  description: Provide a resource for the collection, analysis, and sharing of performance data about end-to-end scientific workflows executing on DOE facilities.
+  image: panorama.png
+  funding: DOE
+  website: https://panorama360.github.io
+
+- title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
+  description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
+  image: analytics4md.png
+  funding: NSF
+  website: https://analytics4md.org
+  colors:
+    r: 216
+    g: 76
+    b: 39
+
+- title: 'FlyNet: An On-the-fly Deeply Programmable End-to-end Network-Centric Platform for Edge-to-Core Workflows'
+  description: This project will provide an architecture and tools that will enable scientists to include edge computing devices in their computational workflows. This capability is critical for low latency and ultra-low latency applications like drone video analytics and route planning for drones.
+  image: nologo.png
+  funding: NSF
+  website: http://www.ecs.umass.edu/mi360world/flynet/
+
+- title: 'WRENCH: Workflow Simulation Workbench'
+  description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
+  image: wrench.png
+  funding: NSF
+  website: http://wrench-project.org/
+  twitter: wrenchproject
+  colors:
+    r: 224
+    g: 110
+    b: 56
+
+- title: 'workflowsRI: Infrastructure for Enabling Systematic Development and Research of Workflow Management Systems'
+  description: The goal of the workflowsRI project is to engage with representatives from the workflows community – including researchers, developers, science and engineering users, and cyberinfrastructure experts.
+  image: workflowsri.png
+  funding: NSF
+  website: https://workflowsri.org/
+  colors:
+    r: 30
+    g: 30
+    b: 30

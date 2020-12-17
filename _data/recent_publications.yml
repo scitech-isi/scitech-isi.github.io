@@ -1,0 +1,19 @@
+- title: End-to-End Online Performance Data Capture and Analysis for Scientific Workflows
+  authors: G. Papadimitriou, C. Wang, K. Vahi, R. Ferreira da Silva, A. Mandal, L. Zhengchun R. Mayani, M. Rynge, M. Kiran, V. Lynch, R. Kettimuthu, E. Deelman J. Vetter, I. Foster
+  desc: Future Generation Computer Systems, 2020
+  doi: 10.1016/j.future.2020.11.024
+
+- title: A Lightweight Method for Evaluating In Situ Workflow Efficiency
+  authors: T. Do, L. Pottier, S. Caíno-Lores, R. Ferreira da Silva, M. Cuendet, H. Weinstein, T. Estrada, M. Taufer, E. Deelman
+  desc: Journal of Computational Science, 2020
+  doi: 10.1016/j.jocs.2020.101259
+
+- title: Characterizing, Modeling, and Accurately Simulating Power and Energy Consumption of I/O-intensive Scientific Workflows
+  authors: R. Ferreira da Silva, H. Casanova, A.C. Orgerie, R. Tanaka, E. Deelman, F. Suter
+  desc: Journal of Computational Science, 2020
+  doi: 10.1016/j.jocs.2020.101157
+
+- title: 'The Pegasus Workflow Management System: Translational Computer Science in Practice'
+  authors: E. Deelman, R. Ferreira da Silva, K. Vahi, M. Rynge, R. Mayani, R. Tanaka, W. Whitcup, M. Livny
+  desc: Journal of Computational Science, 2020
+  doi: 10.1016/j.jocs.2020.101200

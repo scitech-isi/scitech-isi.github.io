@@ -1,0 +1,54 @@
+---
+layout: default
+title: Research Projects
+permalink: /projects
+---
+
+<div id="main">
+    <article class="post">
+        <header>
+            <div class="title">
+                <h2>Research Projects</h2>
+                <p>Current Research Projects</p>
+            </div>
+        </header>
+
+        <div class="row">
+            {% for project in site.data.research_projects %}
+            <div class="project">
+                <div class="header"
+                     {%if project.colors %}
+                     style="background: rgba({{project.colors.r}}, {{project.colors.g}}, {{project.colors.b}}, 0.4)"
+                     {% endif %}>
+                    <strong class="funding">{{ project.funding }}</strong>
+                </div>
+                <div class="logo">
+                    <img src="/images/projects/{{ project.image }}" alt="{{ project.title }}"/>
+                </div>
+                <div class="title">
+                    <a href="{{ project.website }}" target="_blank">{{ project.title }}</a>
+                </div>
+                <div class="description">
+                    {{ project.description | truncatewords: 30 }}
+                </div>
+                <div class="social">
+                    <ul>
+                        {% if project.website %}
+                        <li><a href="{{ project.website }}" target="_blank"><i class="fas fa-link"></i></a></li>
+                        {% endif %}
+                        {% if project.twitter %}
+                        <li><a href="https://twitter.com/{{ project.twitter }}" target="_blank"><i
+                                class="fab fa-twitter"></i></a></li>
+                        {% endif %}
+                        {% if project.youtube %}
+                        <li><a href="https://twitter.com/{{ project.twitter }}" target="_blank"><i
+                                class="fab fa-youtube"></i></a></li>
+                        {% endif %}
+                    </ul>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+
+    </article>
+</div>
