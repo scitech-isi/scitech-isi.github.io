@@ -43,6 +43,12 @@
   funding: NSF
   website: http://www.ecs.umass.edu/mi360world/flynet/
 
+- title: 'Dynamo: Delivering a Dynamic Network-Centric Platform for Data-Driven Science'
+  description: Coupled with innovations in network-aware workflow management, DyNamo will bridge a crucial gap between data-driven, observational science workflows and novel network mechanisms and services through engagement with domain scientists from the Collaborative & Adaptive Weather Sensing (CASA) and Ocean Observatory Initiative (OOI) communities.
+  image: dynamo.png
+  funding: NSF
+  website: http://nrig.renci.org/project/dynamo-delivering-a-dynamic-network-centric-platform-for-data-driven-science/
+
 - title: 'WRENCH: Workflow Simulation Workbench'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
   image: wrench.png
@@ -60,6 +66,12 @@
   funding: NSF
   website: https://workflowsri.org/
   colors:
-    r: 30
-    g: 30
-    b: 30
+    r: 0
+    g: 0
+    b: 0
+
+- title: 'CUE4CHNG: Coordinating Curricula and User Preferences to Increase the Participation of Women and Students of Color in Engineering'
+  description: The project uses an exploratory sequential mixed methods design, which begins with exploratory activities and builds to more systematic testing of research questions concerning how particular user preferences influence student participation.
+  image: nologo.png
+  funding: NSF
+  website: https://cue4chng.org
