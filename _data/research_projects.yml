@@ -5,6 +5,7 @@
   website: https://cicoe-pilot.org
   twitter: ci_coe
   youtube: https://www.youtube.com/channel/UCMSTXbSRTiZSVxSiQHFsvGw
+  award: 1842042
   colors:
     r: 76
     g: 175
@@ -16,6 +17,7 @@
   funding: NSF
   website: https://pegasus.isi.edu
   youtube: https://www.youtube.com/channel/UCwJQln1CqBvTJqiNr9X9F1Q
+  award: 1664162
   colors:
     r: 70
     g: 154
@@ -26,28 +28,50 @@
   image: panorama.png
   funding: DOE
   website: https://panorama360.github.io
+  award: DE-SC0012636M
 
 - title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
   description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
   image: analytics4md.png
   funding: NSF
   website: https://analytics4md.org
+  award: 1741040
   colors:
     r: 216
     g: 76
     b: 39
+
+- title: 'CI4Resilience: Leveraging Advanced Cyberinfrastructure and Developing Organizational Resilience for NSF Large Facilities in the Pandemic Era'
+  description: 'This study comprises three main research questions related to NSF large facilities and CI during the pandemic: (a) What types of research activities remain "business as usual" and what types of activities must adapt or stop completely under pandemic conditions (b) If facilities could turn back time, what would they have done to better prepare, dnd (c) What lessons are facilities learning from the current disruptions, and how can these be best disseminated to the facility, CI, and research communities?'
+  image: ci4resilience.png
+  funding: NSF
+  website: https://ci4resilience.org
+  award: 2042054
+  colors:
+    r: 92
+    g: 167
+    b: 194
 
 - title: 'FlyNet: An On-the-fly Deeply Programmable End-to-end Network-Centric Platform for Edge-to-Core Workflows'
   description: This project will provide an architecture and tools that will enable scientists to include edge computing devices in their computational workflows. This capability is critical for low latency and ultra-low latency applications like drone video analytics and route planning for drones.
   image: nologo.png
   funding: NSF
   website: http://www.ecs.umass.edu/mi360world/flynet/
+  award: 2018074
 
 - title: 'Dynamo: Delivering a Dynamic Network-Centric Platform for Data-Driven Science'
   description: Coupled with innovations in network-aware workflow management, DyNamo will bridge a crucial gap between data-driven, observational science workflows and novel network mechanisms and services through engagement with domain scientists from the Collaborative & Adaptive Weather Sensing (CASA) and Ocean Observatory Initiative (OOI) communities.
   image: dynamo.png
   funding: NSF
   website: http://nrig.renci.org/project/dynamo-delivering-a-dynamic-network-centric-platform-for-data-driven-science/
+  award: 1826997
+
+- title: 'IRIS: Integrity Introspection for Scientific Workflows'
+  description: The IRIS project develops an appropriate threat model and incorporate it in an integrity introspection, correlation and analysis framework that collects application and infrastructure data and uses statistical and machine learning (ML) algorithms to perform the needed analysis.
+  image: nologo.png
+  funding: NSF
+  website: http://nrig.renci.org/project/iris-integrity-introspection-for-scientific-workflows/
+  award: 1839900
 
 - title: 'WRENCH: Workflow Simulation Workbench'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
@@ -55,6 +79,7 @@
   funding: NSF
   website: http://wrench-project.org/
   twitter: wrenchproject
+  award: 1923539
   colors:
     r: 224
     g: 110
@@ -65,6 +90,7 @@
   image: robustscience.png
   funding: NSF
   website: https://robustscience.org
+  award: 2028930
   colors:
     r: 170
     g: 176
@@ -75,6 +101,7 @@
   image: workflowsri.png
   funding: NSF
   website: https://workflowsri.org/
+  award: 2016619
   colors:
     r: 0
     g: 0
@@ -84,14 +111,28 @@
   description: The project provides the astrophysics community with a transformative building block to a roadmap for reproducible open science. Findings about the reproducibility process of the EHT and NICER results are captured and disseminated through documentation, data products, and methods used.
   image: nologo.png
   funding: NSF
+  award: 2041901
 
 - title: 'Reproducibility and Cyberinfrastructure for Computational and Data-Enabled Science'
   description: This project seeks to improve understanding of how the scientific community can adapt to the increasing use of computing and large-scale data resources. One challenge is ensuring that computational results -such as those from simulations- are "reproducible", that is, the same results areobtained when one re-uses the same input data, methods, software and analysis conditions. In 2019, the National Academies of Science, Engineering, and Medicine (NASEM) issued a report on "Reproducibility and Replication in Science" with a series of recommendations. The project will assess the implications of these recommendations on the scientific discovery process for computationally and data-enabled research.
   image: nologo.png
   funding: NSF
+  award: 1941443
+
+- title: 'SimCenter: Computational Modeling and Simulation Center'
+  description: 'The SimCenter will provide modeling and simulation tools using a new open-source framework that: (1) addresses various natural hazards, such as windstorms, storm surge, tsunamis, and earthquakes; (2) tackles complex, scientific questions of concern to disciplines involved in natural hazards research, including earth sciences, geotechnical and structural engineering, architecture, urban planning, risk management, social sciences, public policy, and finance; (3) utilizes machine learning to facilitate and improve modeling and simulation using data obtained from experimental tests, field investigations, and previous simulations; (4) quantifies uncertainties associated with the simulation results obtained; (5) utilizes the high-performance parallel computing, dXata assimilation, and related capabilities to easily combine software applications into workflows of unprecedented sophistication and complexity; (6) extends and refines software tools for carrying out performance-based engineering evaluations and supporting decisions that enhance the resilience of communities susceptible to multiple natural hazards; and (7) utilizes existing applications that already provide many of the pieces of desired computational workflows.'
+  image: simcenter.png
+  funding: NSF
+  website: https://simcenter.designsafe-ci.org
+  award: 1612843
+  colors:
+    r: 166
+    g: 69
+    b: 62
 
 - title: 'CUE4CHNG: Coordinating Curricula and User Preferences to Increase the Participation of Women and Students of Color in Engineering'
   description: The project uses an exploratory sequential mixed methods design, which begins with exploratory activities and builds to more systematic testing of research questions concerning how particular user preferences influence student participation.
   image: nologo.png
   funding: NSF
   website: https://cue4chng.org
+  award: 1826632

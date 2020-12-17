@@ -20,7 +20,12 @@ permalink: /projects
                      {%if project.colors %}
                      style="background: rgba({{project.colors.r}}, {{project.colors.g}}, {{project.colors.b}}, 0.4)"
                      {% endif %}>
-                    <strong class="funding">{{ project.funding }}</strong>
+                    <div class="funding">
+                        {{ project.funding }}
+                        {% if project.award %}
+                        {{ project.award }}
+                        {% endif %}
+                    </div>
                 </div>
                 <div class="logo">
                     <img src="/images/projects/{{ project.image }}" alt="{{ project.title }}"/>

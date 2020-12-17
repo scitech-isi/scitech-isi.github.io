@@ -3740,16 +3740,17 @@ body.is-menu-visible #menu {
 
 .project .header {
     text-align: left;
-    background: rgba(50, 50, 50, 0.4);
-    min-height: 5em;
-    max-height: 5em;
+    background: rgba(100, 100, 100, 0.4);
+    min-height: 6em;
+    max-height: 6em;
 }
 
 .project .header .funding {
-    padding-left: 0.5em;
+    padding: 0.5em;
     font-size: 0.8em;
     color: #fff;
     opacity: 0.5;
+    line-height: 1.1em;
 }
 
 .project .logo {
