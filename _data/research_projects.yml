@@ -60,6 +60,16 @@
     g: 110
     b: 56
 
+- title: 'RobustScience: A Community Roadmap to Robust Science in High-throughput Applications'
+  description: The project recruits a cross-disciplinary community working together in three virtual mini-workshops called virtual world cafes to define, design, implement, and use a set of solutions for robust science.
+  image: robustscience.png
+  funding: NSF
+  website: https://robustscience.org
+  colors:
+    r: 170
+    g: 176
+    b: 165
+
 - title: 'workflowsRI: Infrastructure for Enabling Systematic Development and Research of Workflow Management Systems'
   description: The goal of the workflowsRI project is to engage with representatives from the workflows community – including researchers, developers, science and engineering users, and cyberinfrastructure experts.
   image: workflowsri.png
@@ -69,6 +79,16 @@
     r: 0
     g: 0
     b: 0
+
+- title: 'Advancing Reproducibility in Multi-Messenger Astrophysics'
+  description: The project provides the astrophysics community with a transformative building block to a roadmap for reproducible open science. Findings about the reproducibility process of the EHT and NICER results are captured and disseminated through documentation, data products, and methods used.
+  image: nologo.png
+  funding: NSF
+
+- title: 'Reproducibility and Cyberinfrastructure for Computational and Data-Enabled Science'
+  description: This project seeks to improve understanding of how the scientific community can adapt to the increasing use of computing and large-scale data resources. One challenge is ensuring that computational results -such as those from simulations- are "reproducible", that is, the same results areobtained when one re-uses the same input data, methods, software and analysis conditions. In 2019, the National Academies of Science, Engineering, and Medicine (NASEM) issued a report on "Reproducibility and Replication in Science" with a series of recommendations. The project will assess the implications of these recommendations on the scientific discovery process for computationally and data-enabled research.
+  image: nologo.png
+  funding: NSF
 
 - title: 'CUE4CHNG: Coordinating Curricula and User Preferences to Increase the Participation of Women and Students of Color in Engineering'
   description: The project uses an exploratory sequential mixed methods design, which begins with exploratory activities and builds to more systematic testing of research questions concerning how particular user preferences influence student participation.
