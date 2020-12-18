@@ -3809,3 +3809,41 @@ body.is-menu-visible #menu {
     color: #999;
     border-bottom: 0;
 }
+
+.past-project {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+    min-height: 4em;
+}
+
+.past-project .logo {
+    position: relative;
+    float: left;
+    padding-right: 1em;
+}
+
+.past-project .logo img {
+    border-radius: 50%;
+    max-width: 3em;
+    max-height: 3em;
+    min-width: 3em;
+    min-height: 3em;
+    /*border: 1px solid #ccc;*/
+    opacity: 0.8;
+    box-shadow: #ccc 2px 2px 2px;
+}
+
+.past-project .title {
+    font-weight: bold;
+}
+
+.past-project .title, .past-project .title a {
+    border-bottom: 0;
+    color: #777;
+}
+
+.past-project .content {
+    font-size: 0.8em;
+    color: #999;
+}

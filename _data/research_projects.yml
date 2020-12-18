@@ -6,6 +6,7 @@
   twitter: ci_coe
   youtube: https://www.youtube.com/channel/UCMSTXbSRTiZSVxSiQHFsvGw
   award: 1842042
+  active: true
   colors:
     r: 76
     g: 175
@@ -18,6 +19,7 @@
   website: https://pegasus.isi.edu
   youtube: https://www.youtube.com/channel/UCwJQln1CqBvTJqiNr9X9F1Q
   award: 1664162
+  active: true
   colors:
     r: 70
     g: 154
@@ -29,6 +31,7 @@
   funding: DOE
   website: https://panorama360.github.io
   award: DE-SC0012636M
+  active: true
 
 - title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
   description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
@@ -36,6 +39,7 @@
   funding: NSF
   website: https://analytics4md.org
   award: 1741040
+  active: true
   colors:
     r: 216
     g: 76
@@ -47,6 +51,7 @@
   funding: NSF
   website: https://ci4resilience.org
   award: 2042054
+  active: true
   colors:
     r: 92
     g: 167
@@ -54,10 +59,10 @@
 
 - title: 'FlyNet: An On-the-fly Deeply Programmable End-to-end Network-Centric Platform for Edge-to-Core Workflows'
   description: This project will provide an architecture and tools that will enable scientists to include edge computing devices in their computational workflows. This capability is critical for low latency and ultra-low latency applications like drone video analytics and route planning for drones.
-  image: nologo.png
   funding: NSF
   website: http://www.ecs.umass.edu/mi360world/flynet/
   award: 2018074
+  active: true
 
 - title: 'Dynamo: Delivering a Dynamic Network-Centric Platform for Data-Driven Science'
   description: Coupled with innovations in network-aware workflow management, DyNamo will bridge a crucial gap between data-driven, observational science workflows and novel network mechanisms and services through engagement with domain scientists from the Collaborative & Adaptive Weather Sensing (CASA) and Ocean Observatory Initiative (OOI) communities.
@@ -65,13 +70,14 @@
   funding: NSF
   website: http://nrig.renci.org/project/dynamo-delivering-a-dynamic-network-centric-platform-for-data-driven-science/
   award: 1826997
+  active: true
 
 - title: 'IRIS: Integrity Introspection for Scientific Workflows'
   description: The IRIS project develops an appropriate threat model and incorporate it in an integrity introspection, correlation and analysis framework that collects application and infrastructure data and uses statistical and machine learning (ML) algorithms to perform the needed analysis.
-  image: nologo.png
   funding: NSF
   website: http://nrig.renci.org/project/iris-integrity-introspection-for-scientific-workflows/
   award: 1839900
+  active: true
 
 - title: 'WRENCH: Workflow Simulation Workbench'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
@@ -80,6 +86,7 @@
   website: http://wrench-project.org/
   twitter: wrenchproject
   award: 1923539
+  active: true
   colors:
     r: 224
     g: 110
@@ -91,6 +98,7 @@
   funding: NSF
   website: https://robustscience.org
   award: 2028930
+  active: true
   colors:
     r: 170
     g: 176
@@ -102,6 +110,7 @@
   funding: NSF
   website: https://workflowsri.org/
   award: 2016619
+  active: true
   colors:
     r: 0
     g: 0
@@ -109,15 +118,53 @@
 
 - title: 'Advancing Reproducibility in Multi-Messenger Astrophysics'
   description: The project provides the astrophysics community with a transformative building block to a roadmap for reproducible open science. Findings about the reproducibility process of the EHT and NICER results are captured and disseminated through documentation, data products, and methods used.
-  image: nologo.png
   funding: NSF
   award: 2041901
+  active: true
 
 - title: 'Reproducibility and Cyberinfrastructure for Computational and Data-Enabled Science'
   description: This project seeks to improve understanding of how the scientific community can adapt to the increasing use of computing and large-scale data resources. One challenge is ensuring that computational results -such as those from simulations- are "reproducible", that is, the same results areobtained when one re-uses the same input data, methods, software and analysis conditions. In 2019, the National Academies of Science, Engineering, and Medicine (NASEM) issued a report on "Reproducibility and Replication in Science" with a series of recommendations. The project will assess the implications of these recommendations on the scientific discovery process for computationally and data-enabled research.
-  image: nologo.png
   funding: NSF
   award: 1941443
+  active: true
+
+- title: 'V-RAM: TSS Vulnerability-Risk Assessment & Mitigation'
+  description: The goal of this project is to enable researchers and design experts to expand the state-of-the art in ASIC design through novel cyberinfrastructure and workflow tools that accelerate every phase of discovery, creation, adoption, and use by linking and computing around a repository of user-generated data, including new tools, new IP blocks/libraries, new design flows, training modules, and experience-base documenting best practices to adopt (and pitfalls to avoid).
+  funding: AFRL
+  active: true
+
+- title: 'Open Science Grid'
+  description: The OSG provides common service and support for resource providers and scientific institutions using a distributed fabric of high throughput computational services. The OSG does not own resources but provides software and services to users and resource providers alike to enable the opportunistic usage and sharing of resources. The OSG is jointly funded by the Department of Energy and the National Science Foundation. The OSG is primarily used as a high-throughput grid where scientific problems are solved by breaking them down into a very large number of individual jobs that can run independently.
+  image: osg.png
+  funding: NSF
+  website: https://opensciencegrid.org
+  active: true
+  colors:
+    r: 226
+    g: 136
+    b: 69
+
+- title: 'XSEDE: Integrating, Enabling and Enhancing National Cyberinfrastructure with Expanding Community Involvement'
+  description:  XSEDE is an NSF-funded virtual organization that integrates and coordinates the sharing of advanced digital services – including supercomputers and high-end visualization and data analysis resources – with researchers nationally to support science.
+  image: xsede.png
+  funding: NSF
+  website: https://www.xsede.org
+  active: true
+  colors:
+    r: 102
+    g: 146
+    b: 192
+
+- title: 'CGSMD: Center for Collaborative Genetic Studies on Mental Disorders'
+  description: The Center for Collaborative Genetic Studies on Mental Disorders produces, stores, and distributes clinical data and biomaterials (DNA samples and cell lines) available in the NIMH Human Genetics Initiative. The Center creates and distributes computational tools that support investigation and analysis of the clinical data. In addition, the Center creates tools that enables researchers to determine which samples or data might be of use to them, so that they may request access from NIMH.
+  image: cgsmd.png
+  funding: NIH
+  website: https://www.nimhgenetics.org
+  active: true
+  colors:
+    r: 218
+    g: 150
+    b: 113
 
 - title: 'SimCenter: Computational Modeling and Simulation Center'
   description: 'The SimCenter will provide modeling and simulation tools using a new open-source framework that: (1) addresses various natural hazards, such as windstorms, storm surge, tsunamis, and earthquakes; (2) tackles complex, scientific questions of concern to disciplines involved in natural hazards research, including earth sciences, geotechnical and structural engineering, architecture, urban planning, risk management, social sciences, public policy, and finance; (3) utilizes machine learning to facilitate and improve modeling and simulation using data obtained from experimental tests, field investigations, and previous simulations; (4) quantifies uncertainties associated with the simulation results obtained; (5) utilizes the high-performance parallel computing, dXata assimilation, and related capabilities to easily combine software applications into workflows of unprecedented sophistication and complexity; (6) extends and refines software tools for carrying out performance-based engineering evaluations and supporting decisions that enhance the resilience of communities susceptible to multiple natural hazards; and (7) utilizes existing applications that already provide many of the pieces of desired computational workflows.'
@@ -125,6 +172,7 @@
   funding: NSF
   website: https://simcenter.designsafe-ci.org
   award: 1612843
+  active: true
   colors:
     r: 166
     g: 69
@@ -132,7 +180,84 @@
 
 - title: 'CUE4CHNG: Coordinating Curricula and User Preferences to Increase the Participation of Women and Students of Color in Engineering'
   description: The project uses an exploratory sequential mixed methods design, which begins with exploratory activities and builds to more systematic testing of research questions concerning how particular user preferences influence student participation.
-  image: nologo.png
   funding: NSF
   website: https://cue4chng.org
   award: 1826632
+  active: true
+
+- title: 'SWIP: Secure and Resilient Architecture: Scientific Workflow Integrity with Pegasus'
+  description: The Scientific Workflow Integrity with Pegasus project strengthens cybersecurity controls in the Pegasus Workflow Management System in order to provide assurances with respect to the integrity of computational scientific methods. These strengthened controls enhance both Pegasus’ handling of science data and its orchestration of software-defined networks and infrastructure. The result is increased trust in computational science and increased assurance in our ability to reproduce the science by allowing scientists to validate that data has not been changed since a workflow completed and that the results from multiple workflows are consistent.
+  image: swip.png
+  funding: NSF
+  period: 2016-2020
+  award: 1642053
+  active: false
+
+- title: 'PAGE: Population Architecture using Genomics and Epidemiology'
+  description: Over recent years, genome-wide association studies (GWAS) have allowed researchers to uncover hundreds of genetic variants associated with common diseases. However, the discovery of genetic variants through GWAS research represents just the first step in the challenging process of piecing together the complex biological picture of common diseases. To help speed the process, the National Human Genome Research Institute, is supporting new research in existing large epidemiology studies, all with a rich range of measures of health and potential disease, and many with long-term follow-up. The focus of the new research is on how genetic variants initially identified through GWAS research are related to a person’s biological and physical characteristics, such as weight, cholesterol levels, blood sugar levels or bone density. Scientists will also examine how non-genetic factors, such as diet, medications and smoking, may interact with genetic factors or each other to influence health outcomes.
+  image: page.png
+  funding: NIH
+  website: http://www.pagestudy.org
+  active: false
+
+- title: 'MINT: Model Integration through Knowledge-Rich Data and Process Composition'
+  description: 'Major societal and environmental challenges require forecasting how natural processes and human activities affect one another. There are many areas of the globe where climate affects water resources and therefore food availability, with major economic and social implications. Today, such analyses require significant effort to integrate highly heterogeneous models from separate disciplines, including geosciences, agriculture, economics, and social sciences. Model integration requires resolving semantic, spatio-temporal, and execution mismatches, which are largely done by hand today and may take more than two years. The Model INTegration (MINT) project will develop a modeling environment which will significantly reduce the time needed to develop new integrated models, while ensuring their utility and accuracy. Research topics to be addressed include: 1) New principle-based semiautomatic ontology generation tools for modeling variables, to ground analytic graphs to describe models and data; 2) A novel workflow compiler using abductive reasoning to hypothesize new models and data transformation steps; 3) A new data discovery and integration framework that finds new sources of data, learns to extract information from both online sources and remote sensing data, and transforms the data into the format required by the models; 4) A new methodology for spatio-temporal scale selection; 5) New knowledge-guided machine learning algorithms for model parameterization to improve accuracy; 6) A novel framework for multi-modal scalable workflow execution; and 7) Novel composable agroeconomic models.'
+  image: mint.png
+  funding: DARPA
+  period: 2017-2020
+  award: W911NF-18-1-0027
+  website: http://mint-project.info
+  active: false
+
+- title: 'RACE: Repository and Workflows for Accelerating Circuit Realization'
+  description: 'RACE will enable researchers and design experts to expand the state-of-the art in ASIC design through novel cyberinfrastructure and workflow tools that accelerate every phase of discovery, creation, adoption, and use by linking and computing around a repository of user-generated data, including new tools, new IP blocks/libraries, new design flows, training modules, and experience-base documenting best practices to adopt (and pitfalls to avoid).'
+  image: race.png
+  funding: DARPA
+  period: 2016-2019
+  award: HR0011-16-C-0043
+  website: https://race-project.github.io
+  active: false
+
+- title: 'dV/dT: Accelerating the Rate of Progress towards Extreme Scale Collaborative Science'
+  description: 'The dV/dt project will develop and evaluate by means of at-scale experimentation novel algorithms and software architectures that will make it less labor intensive for a scientist to find the appropriate computing resources, acquire those resources, deploy the desired applications and data on these resources, and then manage them as the applications run. The proposed research will advance the understanding of resource management within a collaboration in the areas of: trust, planning for resource provisioning, and workload, computer, data, and network resource management. This work will result in research artifacts (frameworks, algorithms, simulators, and execution traces) as well as an experimental testbed that will support the proposed research and will be made available to the broader DOE community.'
+  image: dvdt.png
+  funding: DOE
+  period: 2013-2016
+  award: ER26110
+  website: https://sites.google.com/site/acceleratingexascale/
+  active: false
+
+- title: 'ADAMANT: Adaptive Data-Aware Multi-domain Application Network Introduction Topologies'
+  description: 'Project ADAMANT (Adaptive Data-Aware Multi-domain Application Network Topologies) brings together researchers from RENCI/UNC Chapel Hill, Duke University and USC/ISI and two successful software tools to solve these problems: Pegasus workflow management system and ORCA resource control framework, developed for NSF GENI. The integration of Pegasus and ORCA enables powerful application- and data-driven virtual topology embedding into multiple institutional and national substrates (providers of cyber-resources, like computation, storage and networks). ADAMANT leverages ExoGENI – an NSF-funded GENI testbed, as well as national providers of on-demand bandwidth services (NLR, I2, ESnet) and existing OSG computational resources to create elastic, isolated environments to execute complex distributed tasks. This approach improves the performance of these applications and, by explicitly including data movement planning into the application workflow, enables new unique capabilities for distributed data-driven “Big Science” applications.'
+  funding: NSF
+  period: 2013-2014
+  award: 1246057
+  active: false
+
+- title: 'FutureGrid: An Experimental, High-Performance Grid Test-bed'
+  image: futuregrid.png
+  funding: NSF
+  period: 2009-2014
+  award: 0910812
+  website: http://archive.futuregrid.org
+  active: false
+
+- title: 'Stampede: Synthesized Tools for Archiving, Monitoring Performance and Enhanced DEbugging'
+  image: stampede.png
+  funding: NSF
+  period: 2009-2013
+  award: 0943705
+  website: https://confluence.pegasus.isi.edu/display/stampede/Home
+  active: false
+
+- title: BrainSpa
+  funding: NIH
+  website: https://genomics.isi.edu
+  active: false
+
+- title: 'CorralWMS: Integrated Resource Provisioning Across the National CI in Support of Scientific Workloads'
+  funding: NSF
+  period: 2009-2013
+  award: 0943725
+  active: false
+

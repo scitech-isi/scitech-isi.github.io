@@ -9,12 +9,16 @@ permalink: /projects
         <header>
             <div class="title">
                 <h2>Research Projects</h2>
-                <p>Current Research Projects</p>
+                <p>Current and Past Research Projects</p>
             </div>
         </header>
 
+        <h3>Current Projects</h3>
+        <br/>
+
         <div class="row">
-            {% for project in site.data.research_projects %}
+            {% assign active_projects = site.data.research_projects | where: 'active', true %}
+            {% for project in active_projects %}
             <div class="project">
                 <div class="header"
                      {%if project.colors %}
@@ -28,10 +32,19 @@ permalink: /projects
                     </div>
                 </div>
                 <div class="logo">
+                    {% if project.image %}
                     <img src="/images/projects/{{ project.image }}" alt="{{ project.title }}"/>
+                    {% else %}
+                    <img src="/images/projects/nologo.png" alt="{{ project.title }}"/>
+                    {% endif %}
+
                 </div>
                 <div class="title">
+                    {% if project.website %}
                     <a href="{{ project.website }}" target="_blank">{{ project.title }}</a>
+                    {% else %}
+                    {{ project.title }}
+                    {% endif %}
                 </div>
                 <div class="description">
                     {{ project.description | truncatewords: 30 }}
@@ -54,6 +67,35 @@ permalink: /projects
             </div>
             {% endfor %}
         </div>
+
+        <p>&nbsp;</p>
+        <h3>Past Projects</h3>
+        <br/>
+
+        {% assign past_projects = site.data.research_projects | where: 'active', false %}
+        {% for project in past_projects %}
+        <div class="past-project">
+            <div class="logo">
+                {% if project.image %}
+                <img src="/images/projects/{{ project.image }}" alt="{{ project.title }}"/>
+                {% else %}
+                <img src="/images/projects/nologo.png" alt="{{ project.title }}"/>
+                {% endif %}
+            </div>
+            <div class="title">
+                {% if project.website %}
+                <a href="{{ project.website }}" target="_blank">{{ project.title }}</a>
+                {% else %}
+                {{ project.title }}
+                {% endif %}
+            </div>
+            <div class="content">
+                {{ project.funding }}{% if project.award %} {{ project.award}}{% endif %} – {{ project.period }}<br/>
+            </div>
+        </div>
+        {% endfor %}
+
+        <p>&nbsp;</p>
 
     </article>
 </div>
