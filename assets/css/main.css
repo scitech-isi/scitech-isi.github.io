@@ -3847,3 +3847,51 @@ body.is-menu-visible #menu {
     font-size: 0.8em;
     color: #999;
 }
+
+.featured-project {
+    padding: 1em;
+    border: 1px solid #eee;
+    margin-bottom: 1em;
+    min-height: 8em;
+}
+
+.featured-project .logo {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 0.2em;
+    max-width: 4em;
+    max-height: 4em;
+    min-width: 4em;
+    min-height: 4em;
+    box-shadow: #ccc 2px 2px 2px;
+    padding: 0.25em;
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 0.25em;
+}
+
+.featured-project .logo img {
+    max-width: 3.5em;
+    max-height: 3.5em;
+    min-width: 3.5em;
+    min-height: 3.5em;
+}
+
+.featured-project .title {
+    line-height: 1.2em;
+    font-weight: bold;
+    color: #888;
+    font-size: 0.9em
+}
+
+.featured-project .title a {
+    border-bottom: 0;
+    color: #888;
+}
+
+.featured-project .description {
+    padding-top: 0.5em;
+    font-size: 0.8em;
+    color: #999;
+    line-height: 1.2em;
+}

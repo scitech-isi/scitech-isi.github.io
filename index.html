@@ -74,7 +74,7 @@ permalink: /
             </footer>
         </article>
 
-        <article class="post col-sm-12 col-md-12 col-lg-6 col-xl-6">
+        <article class="post col-sm-12 col-md-12 col-lg-12 col-xl-12">
             <header>
                 <div class="title">
                     <h2>Research Projects</h2>
@@ -82,18 +82,27 @@ permalink: /
                 </div>
             </header>
 
-            <div class="publications">
-                {% for pub in site.data.recent_publications %}
-                <div class="publication">
-                    <div class="title">
-                        <a href="https://dx.doi.org/{{ pub.doi }}" target="_blank">{{ pub.title }}</a>
-                    </div>
-                    <div>
-                        <div class="authors">
-                            {{ pub.authors }}
+            <div class="row">
+                {% assign featured_projects = site.data.research_projects | where: 'featured', true %}
+                {% for project in featured_projects %}
+                <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+                    <div class="featured-project">
+                        <div class="logo">
+                            {% if project.image %}
+                            <img src="/images/projects/{{ project.image }}" alt="{{ project.title }}"/>
+                            {% else %}
+                            <img src="/images/projects/nologo.png" alt="{{ project.title }}"/>
+                            {% endif %}
                         </div>
-                        <div class="desc">
-                            {{ pub.desc }}
+                        <div class="title">
+                            {% if project.website %}
+                            <a href="{{ project.website }}" target="_blank">{{ project.title }}</a>
+                            {% else %}
+                            {{ project.title }}
+                            {% endif %}
+                        </div>
+                        <div class="description">
+                            {{ project.description | truncatewords: 20 }}
                         </div>
                     </div>
                 </div>

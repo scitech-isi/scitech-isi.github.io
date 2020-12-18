@@ -7,6 +7,7 @@
   youtube: https://www.youtube.com/channel/UCMSTXbSRTiZSVxSiQHFsvGw
   award: 1842042
   active: true
+  featured: true
   colors:
     r: 76
     g: 175
@@ -20,6 +21,7 @@
   youtube: https://www.youtube.com/channel/UCwJQln1CqBvTJqiNr9X9F1Q
   award: 1664162
   active: true
+  featured: true
   colors:
     r: 70
     g: 154
@@ -32,6 +34,7 @@
   website: https://panorama360.github.io
   award: DE-SC0012636M
   active: true
+  featured: true
 
 - title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
   description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
@@ -70,6 +73,7 @@
   funding: NSF
   website: http://nrig.renci.org/project/dynamo-delivering-a-dynamic-network-centric-platform-for-data-driven-science/
   award: 1826997
+  featured: true
   active: true
 
 - title: 'IRIS: Integrity Introspection for Scientific Workflows'
@@ -99,6 +103,7 @@
   website: https://robustscience.org
   award: 2028930
   active: true
+  featured: true
   colors:
     r: 170
     g: 176
@@ -111,6 +116,7 @@
   website: https://workflowsri.org/
   award: 2016619
   active: true
+  featured: true
   colors:
     r: 0
     g: 0
