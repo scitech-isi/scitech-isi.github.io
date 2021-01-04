@@ -1,6 +1,7 @@
 ---
 title: "Seminar: Distribute High Throughput Computing at Work, an OSG Status Report"
 image: /images/news/miron-seminar.png
+description: "For more than 15 years, the Open Science Grid (OSG) has been offering the science  community a fabric of distributed High Throughput Computing (dHTC) services. In  close collaboration with science and campus communities as well as resource and software providers"
 date: 10 February 2020
 layout: post
 categories:

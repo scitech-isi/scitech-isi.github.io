@@ -1,6 +1,7 @@
 ---
 title: "Seminar: Scheduling and Memory Management for Large-Scale Applications: From Caches to Burst Buffers"
 image: /images/news/loic-seminar.png
+description: "This talk explores scheduling problems in the context of large-scale applications  from a memory perspective. We focus here on two very different levels of memory in the hierarchy: caches and burst buffers.With the recent advent of many-core architectures such as chip multiprocessors (CMP), the number of processing units is increasing."
 date: 22 February 2020
 layout: post
 categories:

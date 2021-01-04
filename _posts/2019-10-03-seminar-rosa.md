@@ -1,6 +1,7 @@
 ---
 title: "Seminar: defoe: A Spark-based Toolbox for Analysing Digital Historical Textual Data"
 image: /images/news/rosa-seminar.png
+description: In this talk will present defoe, a new scalable and portable digital toolbox that enables historical research. It allows for extracting knowledge from historical data by running text analyses across large digital collections, such as historical newspapers and books in parallel. It offers a rich set of text mining queries, which have been defined by humanities researchers. We have included NLP prepossessing techniques to mitigate against OCR errors and standardise the textual data. We have tested defoe using six different large-scale historical text datasets and three HPC environments, as well as on desktops.
 date: 03 October 2019
 layout: post
 categories:
