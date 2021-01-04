@@ -11,13 +11,8 @@ permalink: /
         <article class="post">
             <header>
                 <div class="title">
-                    <h2><a href="single.html">Magna sed adipiscing</a></h2>
-                    <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p>
-                </div>
-                <div class="meta">
-                    <time class="published" datetime="2015-11-01">November 1, 2015</time>
-                    <a href="#" class="author"><span class="name">Jane Doe</span><img src="images/avatar.jpg"
-                                                                                      alt=""/></a>
+                    <h2><a href="single.html">Recent News</a></h2>
+                    <p>Seminars, Presentations, Research Outcomes...</p>
                 </div>
             </header>
             <a href="single.html" class="image featured"><img src="images/pic01.jpg" alt=""/></a>
@@ -75,25 +70,23 @@ permalink: /
                 {% assign featured_projects = site.data.research_projects | where: 'featured', true %}
                 {% for project in featured_projects %}
                 <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
-                    <div class="featured-project">
-                        <div class="logo">
-                            {% if project.image %}
-                            <img src="/images/projects/{{ project.image }}" alt="{{ project.title }}"/>
-                            {% else %}
-                            <img src="/images/projects/nologo.png" alt="{{ project.title }}"/>
+                    {% if project.website %}
+                    <a class="featured-project" href="{{ project.website }}" target="_blank">
+                        {% else %}
+                        <a class="featured-project" href="/projects">
                             {% endif %}
-                        </div>
-                        <div class="title">
-                            {% if project.website %}
-                            <a href="{{ project.website }}" target="_blank">{{ project.title }}</a>
-                            {% else %}
-                            {{ project.title }}
-                            {% endif %}
-                        </div>
-                        <div class="description">
-                            {{ project.description | truncatewords: 20 }}
-                        </div>
-                    </div>
+                            <div class="logo">
+                                {% if project.image %}
+                                <img src="/images/projects/{{ project.image }}" alt="{{ project.title }}"/>
+                                {% else %}
+                                <img src="/images/projects/nologo.png" alt="{{ project.title }}"/>
+                                {% endif %}
+                            </div>
+                            <div class="title"> {{ project.title }}</div>
+                            <div class="description">
+                                {{ project.description | truncatewords: 20 }}
+                            </div>
+                        </a>
                 </div>
                 {% endfor %}
             </div>

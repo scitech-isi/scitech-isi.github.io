@@ -3853,6 +3853,13 @@ body.is-menu-visible #menu {
     border: 1px solid #eee;
     margin-bottom: 1em;
     min-height: 8em;
+    cursor: pointer;
+    display: block;
+}
+
+.featured-project:hover {
+    box-shadow: #ccc 3px 3px 3px;
+    text-decoration: none !important;
 }
 
 .featured-project .logo {
