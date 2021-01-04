@@ -1,0 +1,23 @@
+---
+---
+
+<div class="bib">
+    {% if entry.doi %}
+    <a href="http://dx.doi.org/{{ entry.doi }}" target="_blank" style="color: #377E8C">
+        <i class="fas fa-link"></i>
+    </a>
+    {% endif %}
+    {% for static_file in site.static_files %}
+    {% assign entry_path = '/files/publications/' | append: entry.key | append: '.pdf' %}
+    {% if static_file.path == entry_path %}
+    <a href="{{ entry_path }}" target="_blank" style="color: #c82333">
+        <i class="far fa-file-pdf"></i>
+    </a>
+    {% endif %}
+    {% endfor %}
+    {{ reference }}
+    {% if entry.note %}
+    ({{ entry.note }})
+    {% endif %}
+    <br/>
+</div>

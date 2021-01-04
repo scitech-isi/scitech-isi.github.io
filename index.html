@@ -50,21 +50,10 @@ permalink: /
             </header>
 
             <div class="publications">
-                {% for pub in site.data.recent_publications %}
-                <div class="publication">
-                    <div class="title">
-                        <a href="https://dx.doi.org/{{ pub.doi }}" target="_blank">{{ pub.title }}</a>
-                    </div>
-                    <div>
-                        <div class="authors">
-                            {{ pub.authors }}
-                        </div>
-                        <div class="desc">
-                            {{ pub.desc }}
-                        </div>
-                    </div>
+                <div style="display: none">
+                    {% cite papadimitriou-fgcs-2020 do2020jocs ferreiradasilva2020jocs deelman2020jocs %}
                 </div>
-                {% endfor %}
+                {% bibliography --cited_in_order --template bib-recent %}
             </div>
 
             <footer style="margin-top: 2em">

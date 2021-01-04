@@ -3707,7 +3707,7 @@ body.is-menu-visible #menu {
 }
 
 .publications {
-    max-height: 30em;
+    max-height: 32em;
     overflow: auto;
 }
 
