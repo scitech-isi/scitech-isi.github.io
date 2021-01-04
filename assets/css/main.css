@@ -3608,6 +3608,10 @@ body.is-menu-visible #menu {
     margin-bottom: 1.5em;
 }
 
+.member:hover {
+    box-shadow: #ccc 3px 3px 3px;
+}
+
 .member img {
     width: 12em;
     margin: 0;
@@ -3736,6 +3740,11 @@ body.is-menu-visible #menu {
     max-width: 15em;
     text-align: center;
     padding: 0 !important;
+    display: block;
+}
+
+.project:hover {
+    box-shadow: #ccc 3px 3px 3px;
 }
 
 .project .header {
@@ -3749,7 +3758,7 @@ body.is-menu-visible #menu {
     padding: 0.5em;
     font-size: 0.8em;
     color: #fff;
-    opacity: 0.5;
+    opacity: 0.8;
     line-height: 1.1em;
 }
 
@@ -3781,6 +3790,10 @@ body.is-menu-visible #menu {
 
 .project .title a {
     border-bottom: 0;
+}
+
+.project .title a:hover {
+    text-decoration: none;
 }
 
 .project .description {
