@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<!-- Post -->
+<div class="row">
+    <article class="post">
+        <header>
+            <div class="title">
+                <h2>{{ page.title }}</h2>
+                <p>{{ page.subtitle }}</p>
+            </div>
+            <div class="meta">
+                <time class="published" datetime="2015-11-01"><i class="fa fa-calendar" aria-hidden="true"></i>
+                    {{page.date | date_to_string }}&nbsp;
+                </time>
+                <i class="fa fa-clock-o" aria-hidden="true"></i> {% include reading-time.html %}
+            </div>
+        </header>
+
+        <img class="image featured" src="{{site.baseurl}}{{page.image}}" alt=""/>
+
+        {% if site.toc %}{% include toc.html html=content class="toc.rev.clearfix"
+        %}{% endif %} {{content}}
+
+        <footer>
+            <h5>Tags</h5>
+            <ul class="stats" style="margin-top: 3em">
+                {% if page.categories %} {% include categories-post.html %} {% endif %}
+            </ul>
+        </footer>
+    </article>
+</div>

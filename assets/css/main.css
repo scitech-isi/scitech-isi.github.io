@@ -3711,7 +3711,7 @@ body.is-menu-visible #menu {
 }
 
 .publications {
-    max-height: 32em;
+    max-height: 36em;
     overflow: auto;
 }
 
@@ -3914,4 +3914,36 @@ body.is-menu-visible #menu {
     font-size: 0.8em;
     color: #999;
     line-height: 1.2em;
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1em;
+}
+@media screen and (max-width: 900px) {
+    .projects, .news {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .projects {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.projects a:hover, .news a:hover {
+    box-shadow: #ccc 2px 2px 2px;
+    text-decoration: none;
+}
+
+.projects img {
+    max-height: 10em;
+}
+
+.projects .card-text {
+    color: #666;
+    line-height: 1.3em;
+    font-size: 0.8em;
 }
