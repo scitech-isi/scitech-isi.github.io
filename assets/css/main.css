@@ -4011,3 +4011,10 @@ body.is-menu-visible #menu {
     border-bottom-right-radius: 0.5em;
     border-top-right-radius: 0.5em;
 }
+
+.areas {
+    float: left;
+    font-size: 1.75em;
+    padding-right: 0.4em;
+    padding-bottom: 0.5em;
+}
