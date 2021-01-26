@@ -19,7 +19,11 @@ permalink: /people
         {% for p in members %}
         {% unless p.alumni %}
         <div class="member">
+            {% if p.photo %}
             <img src="/images/people/{{ p.photo }}" alt="{{ p.name }}"/>
+            {% else %}
+            <img src="/images/people/nophoto.png" alt="{{ p.name }}"/>
+            {% endif %}
             <div class="social">
                 {%if p.website %}
                 <a href="{{ p.website }}" target="_blank"><i class="fa fa-link"></i></a><br/>
@@ -48,7 +52,11 @@ permalink: /people
         {% assign alumni = site.data.people | where: 'alumni', true %}
         {% for p in alumni %}
         <div class="alumni">
+            {% if p.photo %}
             <img src="/images/people/{{ p.photo }}" alt="{{ p.name }}"/>
+            {% else %}
+            <img src="/images/people/nophoto.png" alt="{{ p.name }}"/>
+            {% endif %}
             <div class="info">
                 <div class="title">
                     {{ p.name }}

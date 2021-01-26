@@ -1,0 +1,16 @@
+- name: Pegasus Workflow Management System
+  description: 'The Pegasus project encompasses a set of technologies that help workflow-based applications execute in a number of different environments including desktops, campus clusters, clouds, and national cyberinfrastructures including grids and supercomputers. Scientific workflows allow users to easily express multi-step computations, for example retrieve data from a database, reformat the data, and run an analysis. Once an application is formalized as a workflow the Pegasus Workflow Management Service can map it onto available compute resources and execute the steps in appropriate order. Pegasus can easily handle workflows with several million computational tasks.'
+  website: https://pegasus.isi.edu
+  github: https://github.com/pegasus-isi/pegasus
+  logo: pegasus.png
+
+- name: 'WRENCH: Workflow Management System Simulation Workbench'
+  description: 'WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.'
+  website: https://wrench-project.org
+  github: https://github.com/wrench-project/wrench
+  logo: wrench.png
+
+- name: 'WorkflowHub: Community Framework for Enabling Scientific Workflow Research and Development'
+  description: 'The WorkflowHub project is a community framework for enabling scientific workflow research and development by providing foundational tools for analyzing workflow execution traces, and generating synthetic, yet realistic, workflow traces that can be used to develop new techniques, algorithms and systems that can overcome the challenges of efficient and robust execution of ever larger workflows on increasingly complex distributed infrastructures.'
+  website: https://workflowhub.org
+  github: http://github.com/workflowhub/workflowhub

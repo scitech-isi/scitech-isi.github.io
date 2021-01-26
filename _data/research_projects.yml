@@ -113,7 +113,8 @@
   description: The goal of the workflowsRI project is to engage with representatives from the workflows community – including researchers, developers, science and engineering users, and cyberinfrastructure experts.
   image: workflowsri.png
   funding: NSF
-  website: https://workflowsri.org/
+  website: https://workflowsri.org
+  youtube: https://www.youtube.com/channel/UCqCnXqWqKe9vF6cqKOj1CYw
   award: 2016619
   active: true
   featured: true
