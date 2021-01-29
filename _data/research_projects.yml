@@ -62,8 +62,9 @@
 
 - title: 'FlyNet: An On-the-fly Deeply Programmable End-to-end Network-Centric Platform for Edge-to-Core Workflows'
   description: This project will provide an architecture and tools that will enable scientists to include edge computing devices in their computational workflows. This capability is critical for low latency and ultra-low latency applications like drone video analytics and route planning for drones.
+  image: flynet.png
   funding: NSF
-  website: http://www.ecs.umass.edu/mi360world/flynet/
+  website: http://www.ecs.umass.edu/flynet/
   award: 2018074
   active: true
 
