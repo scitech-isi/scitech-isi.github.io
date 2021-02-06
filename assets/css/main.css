@@ -4040,3 +4040,33 @@ body.is-menu-visible #menu {
 .leader .title i {
     font-size: 0.8em;
 }
+
+.research-area {
+    border: 1px solid #ccc;
+    margin-bottom: 1em;
+    display: block;
+    cursor: pointer;
+}
+
+.research-area:hover {
+    text-decoration: none;
+    box-shadow: #ccc 3px 3px 3px;
+}
+
+.research-area .header {
+    padding: 1em;
+    font-weight: bold;
+    border-top: 5px solid #0b2e13;
+}
+
+.research-area .description {
+    padding: 1em;
+    font-size: 0.9em;
+    line-height: 1.3em;
+}
+
+.research-area .footer {
+    padding: 0.5em 1em;
+    background-color: #f7f7f7;
+    overflow: auto;
+}

@@ -1,0 +1,23 @@
+- area: Workflow Management Systems for Science
+  description: Scientific workflows are a cornerstone of modern scientific computing, and they have underpinned some of the most significant discoveries of the last decade (e.g., first detection of gravitational waves from colliding black holes, the discovery of the Higgs boson, etc.). Workflows are a keystone component for enabling reproducibility at scale by automating data movement, computation, data processing, and deployment of the software stack. These discoveries and emerging opportunities are in part a result of decades of research and development of the Pegasus workflow management system (https://pegasus.isi.edu), and community engagement to support the sciences.
+  leader: Ewa Deelman
+  photo: deelman.jpg
+  color: 57BE9D
+
+- area: Machine Learning for Science
+  description: The imminent arrival of data-oriented and machine learning-based analysis modalities employed by researchers has created a number of exciting new research challenges for the scientific computing research community. Workflows are increasingly composed of various types of tasks such as long-running machine learning model training, short machine learning inference, and multi-node simulations, among others. Machine learning (ML) workflows are structured differently from traditional workflow applications (typically described as directed-acyclic-graphs) in the sense that they feature feedback loops (i.e., iterative patterns) and usually exhibit a more dynamic behavior. We are in the midst of exploring how we can improve Pegasus to better support such ML-empowered scientific workflows.
+  leader: Loïc Pottier
+  photo: pottier.jpg
+  color: E95345
+
+- area: Enhancing National Cyberinfrastructure
+  description: The NSF’s Major Facilities are large, multi-user research facilities that operate and manage sophisticated and diverse research instruments and platforms (e.g., large telescopes, interferometers, distributed sensor arrays) that serve a variety of scientific disciplines, from astronomy and physics to geology and biology and beyond. At USC/ISI, the Cyberinfrastructure Center of Excellence (CI CoE) Pilot project (https://cicoe-pilot.org) provides active support to CI practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depends.. Additionally, we have explored the value of CI in the broader societal context of how people and the facilities perceive and respond to major disruptive events (e.g., global pandemic, https://ci4resilience.org).
+  leader: Ewa Deelman
+  photo: deelman.jpg
+  color: 0c5460
+
+- area: Modeling and Simulation of Distributed Computing Systems
+  description: Teaching topics related to Cyberinfrastructure (CI) is most effective when students have opportunities for hands-on learning. Participation and pedagogic challenges stem from the need to provide students with access to CI platforms, and to expose students to a variety of different learning scenarios. By using simulation, a software artifact that mimics real-world executions, these challenges are obviated as the only requirement is that students have access to a computer and as simulated executions can target arbitrary hardware and software stack configurations (https://eduwrench.org).
+  leader: Rafael Ferreira da Silva
+  photo: ferreiradasilva.jpg
+  color: c69500
