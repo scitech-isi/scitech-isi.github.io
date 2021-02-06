@@ -21,6 +21,6 @@ configurations.
 ## Featured Publications
 
 <div style="display: none">
-    {% cite ferreiradasilva2020jocs casanova2020fgcs %}
+    {% cite ferreiradasilva2020jocs casanova2020fgcs tanaka2019eduhpc %}
 </div>
 {% bibliography --cited_in_order --template bib-recent %}

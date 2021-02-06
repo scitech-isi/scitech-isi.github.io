@@ -18,6 +18,6 @@ management system](https://pegasus.isi.edu), and community engagement to support
 ## Featured Publications
 
 <div style="display: none">
-    {% cite deelman2020jocs deelman-fgcs-2015 %}
+    {% cite deelman2020jocs deelman-cise-2019 deelman-fgcs-2015 %}
 </div>
 {% bibliography --cited_in_order --template bib-recent %}
