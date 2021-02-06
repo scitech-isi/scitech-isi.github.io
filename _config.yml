@@ -16,6 +16,12 @@ scholar:
   bibliography_template: bib
   reference_template: bib
 
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /research/:path/
+
 # Pagination
 paginate: 8
 paginate_path: /blog/page:num/

@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div id="main">
+    <article class="post">
+        <header>
+            <div class="title">
+                <h2>{{ page.title }}</h2>
+                <p>Research Areas</p>
+            </div>
+            <div class="meta">
+                <div class="leader">
+                    <img src="/images/people/{{ page.photo }}"/>
+                    <div class="title">
+                        <i>Leading Researcher:</i><br/>
+                        {{ page.leader }}
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                {{ page.content }}
+            </div>
+        </div>
+
+        <p>&nbsp;</p>
+
+    </article>
+</div>
+

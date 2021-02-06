@@ -14,15 +14,15 @@ permalink: /research
         </header>
 
         <div class="row">
-            {% assign research = site.data.research %}
+            {% assign research = site.research %}
             {% for r in research %}
             <div class="col-lg-6 col-md-12 col-sm-12">
-                <a class="research-area">
+                <a class="research-area" href="{{ r.url }}">
                     <div class="header" style="border-top: 5px solid #{{ r.color }}">
-                        {{ r.area }}
+                        {{ r.title }}
                     </div>
                     <div class="description">
-                        {{ r.description | strip_html | truncatewords: 50 }}
+                        {{ r.content | strip_html | truncatewords: 50 }}
                     </div>
                     <div class="footer">
                         <div class="leader">

@@ -4035,6 +4035,8 @@ body.is-menu-visible #menu {
     margin-left: 0.5em;
     font-weight: normal;
     line-height: 1.2em;
+    padding: 0 !important;
+    text-align: left !important;
 }
 
 .leader .title i {
