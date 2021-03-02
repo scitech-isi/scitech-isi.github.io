@@ -4043,6 +4043,19 @@ body.is-menu-visible #menu {
     font-size: 0.8em;
 }
 
+.meta .leader img {
+    max-width: 4em !important;
+}
+
+.meta .leader, .meta .title {
+    float: left !important;
+    text-align: center !important;
+}
+
+.meta .leader .title {
+    text-align: center !important;
+}
+
 .research-area {
     border: 1px solid #ccc;
     margin-bottom: 1em;
