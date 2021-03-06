@@ -3633,10 +3633,12 @@ body.is-menu-visible #menu {
     color: #999;
     text-align: center;
     line-height: 2em;
+    background-color: #999;
 }
 
 .member .social a {
     border-bottom: 0;
+    color: #fff;
 }
 
 .member .info {
