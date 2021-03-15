@@ -134,7 +134,7 @@
   description: This project seeks to improve understanding of how the scientific community can adapt to the increasing use of computing and large-scale data resources. One challenge is ensuring that computational results -such as those from simulations- are "reproducible", that is, the same results areobtained when one re-uses the same input data, methods, software and analysis conditions. In 2019, the National Academies of Science, Engineering, and Medicine (NASEM) issued a report on "Reproducibility and Replication in Science" with a series of recommendations. The project will assess the implications of these recommendations on the scientific discovery process for computationally and data-enabled research.
   funding: NSF
   award: 1941443
-  active: true
+  active: false
 
 - title: 'V-RAM: TSS Vulnerability-Risk Assessment & Mitigation'
   description: The goal of this project is to enable researchers and design experts to expand the state-of-the art in ASIC design through novel cyberinfrastructure and workflow tools that accelerate every phase of discovery, creation, adoption, and use by linking and computing around a repository of user-generated data, including new tools, new IP blocks/libraries, new design flows, training modules, and experience-base documenting best practices to adopt (and pitfalls to avoid).
