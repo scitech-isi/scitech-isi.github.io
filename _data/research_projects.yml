@@ -135,6 +135,7 @@
   funding: NSF
   award: 1941443
   active: false
+  period: 2019-2021
 
 - title: 'V-RAM: TSS Vulnerability-Risk Assessment & Mitigation'
   description: The goal of this project is to enable researchers and design experts to expand the state-of-the art in ASIC design through novel cyberinfrastructure and workflow tools that accelerate every phase of discovery, creation, adoption, and use by linking and computing around a repository of user-generated data, including new tools, new IP blocks/libraries, new design flows, training modules, and experience-base documenting best practices to adopt (and pitfalls to avoid).
