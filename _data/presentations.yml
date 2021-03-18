@@ -1,0 +1,659 @@
+- title: Pegasus Workflow Management System
+  author: Karan Vahi
+  description: Eastern Regional Network (ERN) Architecture and Federation, Virtual Workshop
+  month: December
+  year: 2020
+  file: vahi-pegasus-ern-2020-final.pdf
+
+- title: Application Aware Software Defined Flows of Workflow Ensembles
+  author: George Papadimitriou
+  description: Innovating the Network for Data-Intensive Science (INDIS). SC’20. Virtual conference
+  month: November
+  year: 2020
+  file: papadimitriou-indis20.pdf
+
+- title: Pegasus – a dHTC friendly workflow manager
+  author: Mats Rynge
+  description: PEARC’20, High Throughput Science workshop. Virtual conference
+  month: July
+  year: 2020
+  file: rynge-pearc20-dhtc.pdf
+
+- title: Workflow Submit Nodes as a Service on Leadership Class Systems
+  author: George Papadimitriou
+  description: PEARC’20. Virtual Conference
+  month: July
+  year: 2020
+  file: papadimitriou-pearc20.pdf
+
+- title: Pegasus Workflows on OLCF – Summit
+  author: George Papadimitriou
+  description: WoWoHa workshop. Online
+  month: June
+  year: 2020
+  file: papadimitriou-wowoha-2020.pdf
+
+- title: Pegasus Workflow Management System
+  author: Karan Vahi
+  description: HTCondor Week 2020. Online
+  month: May
+  year: 2020
+  file: vahi-pegasus-cw-2020-final.pdf
+
+- title: Pegasus Workflow Management System
+  author: Mats Rynge
+  description: Oak Ridge Leadership Computing Facility. Online
+  month: May
+  year: 2020
+  file: rynge-olcf-pegasus.pdf
+
+- title: Pegasus Workflow Management System
+  author: Karan Vahi
+  description: ECP Deep Dive Workshop, Argonne, IL, USA
+  month: March
+  year: 2020
+  file: vahi-ecp-deepdive-pegasus-final.pdf
+
+- title: Containers in Distributed Computing
+  author: Mats Rynge
+  description: Cyverse Container Camp, Tucson, AZ, USA
+  month: March
+  year: 2020
+  file: rynge-containers-in-distributed-computing.pdf
+
+- title: "The Pegasus Workflow Management System: Current Applications and Future Directions"
+  author: Ewa Deelman
+  description: An initiative of Open Parallel Ltd, the Multicore World conference started with an economic development agenda as part of its quest to make New Zealand a global center for entrepreneurship based in next generation computing technologies. (Multicore 2020 Invited presentation), Wellington, NZ.
+  month: February
+  year: 2020
+  file: deelman-multicore-2020.pdf
+
+- title: "Next Generation Cyberinfrastructure for Science: Cyberinfrastructure Center of Excellence Pilot for Large Facilities"
+  author: Ewa Deelman
+  description: The conference sponsored by the SIAM Activity Group on Supercomputing provides a forum for computational mathematicians, computer scientists, computer architects, and computational scientists to exchange ideas on mathematical algorithms and computer architecture needed for high-performance computer systems. They promote the exchange of ideas by focusing on the interplay of analytical methods, numerical analysis, and efficient computation. (SIAM PP20), Seattle, WA, USA.
+  month: February
+  year: 2020
+  file: deelman-siam20-final.pdf
+
+- title: Cyberinfrastructure Center of Excellence Pilot
+  author: Ewa Deelman
+  description: A week of scientific sessions featuring emerging and well-known scientists, showcasing digital representations of science (AGU’19), San Francisco, CA, USA
+  month: December
+  year: 2019
+  file: deelman-agu19-final.pdf
+
+- title: "The Role of Cyberinfrastructure in Science: Challenges and Opportunities"
+  author: Ewa Deelman
+  description: "The SC Program is designed to share best practices in areas such as: algorithms; applications; architectures and networks; clouds and distributed computing; data analytics, visualization, and storage; machine learning and HPC; performance; programming systems; system software; and state of the practice in large-scale deployment and integration. (SC’19 Invited Talk), Denver, CO, USA"
+  month: November
+  year: 2019
+  file: deelman-sc19-final.pdf
+
+- title: NSF Cybersecurity Summit for Large Facilities and Cyberinfrastructure
+  author: Ewa Deelman
+  description: A week of scientific sessions featuring emerging and well-known scientists, showcasing digital representations of science (Trusted CI Summit), San Diego, CA, USA
+  month: October
+  year: 2019
+  file: deelman-trustedci19-final.pdf
+
+- title: "Cyberinfrastructure Center of Excellence Pilot: Connecting Large Facilities Cyberinfrastructure"
+  author: Ewa Deelman
+  description: 15th International Conference on eScience (eScience), San Diego, CA, USA
+  month: September
+  year: 2019
+  file: deelman-escience19-final.pdf
+
+- title: Custom Execution Environments with Containers in Pegasus-enabled Scientific Workflows for Scientific Computing
+  author: Karan Vahi, Mats Rynge, George Papadimitriou, Duncan Brown, Rajiv Mayani, Rafael Ferreira da Silva, Ewa Deelman, Anirban Mandal, Eric Lyons, Michael Zink
+  description: 15th International Conference on eScience (eScience), San Diego, CA, USA
+  month: September
+  year: 2019
+  file: vahi-escience19-paper88-presentation.pdf
+
+- title: Bridging Concepts and Practice in eScience via Simulation-driven Engineering
+  author: Rafael Ferreira da Silva, Henri Casanova, Ryan Tanaka, Frédéric Suter
+  description: In Workshop on Bridging from Concepts to Data and Computation for eScience (BC2DC’19), 15th International Conference on eScience (eScience), San Diego, CA, USA
+  month: September
+  year: 2019
+  slideshare: https://www.slideshare.net/rafaelsilvajp/bridging-concepts-and-practice-in-escience-via-simulationdriven-engineering
+
+- title: Containers for Scientific Computing
+  author: Karan Vahi
+  description: GRITS 2019, Caltech, Pasadena
+  month: September
+  year: 2019
+  file: vahi-containers-scientific-computing-final.pdf
+
+- title: "Integrity Protection for Scientific Workflow Data: Motivation and Initial Experiences"
+  author: Mats Rynge, Karan Vahi, Ewa Deelman, Anirban Mandal, Ilya Baldin, Omkar Bhide, Randy Heiland, Von Welch,Raquel Hill, William L. Poehlman, and F. Alex Feltus
+  description: Best Paper Presentation. IIn Practice and Experience in Advanced Research Computing (PEARC ’19), July 28-August 1, 2019, Chicago, IL, USA. ACM, New York, NY, USA, 8 pages. , PEARC19, Chicago
+  month: July
+  year: 2019
+  file: rynge-swip-pearc-2019-final.pdf
+
+- title: Accurately Simulating Energy Consumption of I/O-intensive Scientific Workflows
+  author: Rafael Ferreira da Silva, Anne-Cécile Orgerie, Henri Casanova, Ryan Tanaka, Ewa Deelman, Frédéric Suter
+  description: In Computational Science – ICCS 2019, Faro, Portugal
+  month: June
+  year: 2019
+  slideshare: https://www.slideshare.net/rafaelsilvajp/accurately-simulating-energy-consumption-of-iointensive-scientific-workflows
+
+- title: "Pegasus: Introducing Integrity to Scientific Workflows"
+  author: Karan Vahi
+  description: HTCondor Week 2019, Madison
+  month: May
+  year: 2019
+  file: vahi-pegasus-cw-2019-final.pdf
+
+- title: Pegasus Scientific Workflows on TACC Wrangler
+  author: Karan Vahi, Mats Rynge
+  description: Pegasus Tutorial @ TACC
+  month: January
+  year: 2019
+  file: pegasus-tacc-wrangler-final.pdf
+
+- title: Chameleon and ExoGENI Support for Real-Time Weather Forecasting Workflows
+  author: George Papadimitriou
+  description: Chameleon User Meeting 2019, Austin, Texas
+  month: February
+  year: 2019
+  file: dynamo-chameleon-user-meeting.pptx
+
+- title: "Panorama 360: End-to-End Online Performance Data Capture and Analysis of Scientific Workflows"
+  author: G. Papadimitriou, C. Wang, K. Vahi, R. Ferreira da Silva, A. Mandal, Z. Liu, R. Mayani, M. Rynge, M. Kiran, V. Lynch, R. Kettimuthu, E. Deelman, J. Vetter, I. Foster
+  description: 13th Workshop on Workflows in Support of Large-Scale Science (WORKS’18), Dallas, TX
+  month: November
+  year: 2018
+  file: 2018-11-works18.pdf
+
+- title: Pegasus Scientific Workflows with Containers
+  author: Karan Vahi
+  description: Pegasus Tutorial @ HPCS18, Orleans, France
+  month: July
+  year: 2018
+  file: pegasus-hpcs18-tutorial-final.pdf
+
+- title: Enhancing Scientific Computations with Scientific Workflows
+  author: George Papadimitriou, Rafael Ferreira da Silva, Ewa Deelman
+  description: Pegasus Tutorial @ ORNL, Oak Ridge
+  month: June
+  year: 2018
+  file: 2018-06-21-pegasus-tutorial-ornl.pdf
+
+- title: Enhancing Scientific Computations with Scientific Workflows
+  author: George Papadimitriou, Rafael Ferreira da Silva, Ewa Deelman
+  description: Pegasus Seminar @ SNS Data Science Seminar Series, Oak Ridge
+  month: June
+  year: 2018
+  file: 2018-06-19-pegasus-seminar-ornl.pdf
+
+- title: "Pegasus + HTCondor DAGMan: Expanding Scientific Workflows Horizons"
+  author: Karan Vahi
+  description: HTCondor Week
+  month: May
+  year: 2018
+  file: vahi-pegasus-cw-2018-final.pdf
+
+- title: "Science Impact of Sustained Cyberinfrastructure: The Pegasus Example"
+  author: Ewa Deelman
+  description: OAC NSF Online Webinar
+  month: May
+  year: 2018
+  file: OAC_webinar_deelman_5_2018.pdf
+
+- title: Enhancing Scientific Computations with Scientific Workflows
+  author: Rafael Ferreira da Silva, George Papadimitriou, Ewa Deelman
+  description: Pegasus Tutorial @ ORNL, Oak Ridge
+  month: February
+  year: 2018
+  file: 2018-02-23-pegasus-tutorial-ornl.pdf
+
+- title: On the Use of Burst Buffers for Accelerating Data-Intensive Scientific Workflows
+  author: Rafael Ferreira da Silva, Scott Callaghan, Ewa Deelman
+  description: 12th Workshop on Workflows in Support of Large-Scale Science (WORKS’17), Denver
+  month: November
+  year: 2017
+  file: 2017-11-13-works.pdf
+
+- title: "Pegasus WMS : An Introduction and upcoming features"
+  author: Karan Vahi
+  description: Supercomputing 2017, Denver
+  month: November
+  year: 2017
+  file: vahi-pegasus-sc-2017-final.pdf
+
+- title: "Software Integrity with Pegasus: Securing Scientific Workflow Data"
+  author: Von Welch, Karan Vahi, Anirban Mandal
+  description: Supercomputing 2017, Denver
+  month: November
+  year: 2017
+  file: pegasus-swip-sc17.pdf
+
+- title: Pegasus Workflow Management System
+  author: Mats Rynge
+  description: Blue Waters Workflow Webinar Series
+  month: May
+  year: 2017
+  file: Pegasus-BlueWaters-Webinar-2017.pdf
+
+- title: "Pegasus WMS : An Introduction and upcoming features"
+  author: Karan Vahi
+  description: HTCondor Week
+  month: April
+  year: 2017
+  file: vahi-pegasus-cw-2017-final.pdf
+
+- title: Pegasus – Enhancing User Experience on OSG
+  author: Mats Rynge
+  description: Open Science Grid’s All Hands Meeting, San Diego
+  month: March
+  year: 2017
+  file: rynge-pegasus-osg-ahm-2017.pdf
+
+- title: Pegasus WMS – Automate, recover, and debug scientific computations
+  author: Mats Rynge
+  description: Fermilab
+  month: November
+  year: 2016
+  file: Pegasus-FNAL-2016.pdf
+
+- title: Using Simple PID Controllers to Prevent and Mitigate Faults in Scientific Workflows
+  author: Rafael Ferreira da Silva, Rosa Filgueira, Ewa Deelman, Erola Pairo-Castineira, Ian M. Overton, Malcolm Atkinson
+  description: 11th Workflows in Support of Large-Scale Science (WORKS’16), Salt Lake City
+  month: November
+  year: 2016
+  file: 2016-11-14-works.pdf
+
+- title: Pegasus Webinar and Tutorial
+  author: Karan Vahi and Mats Rynge
+  description: Bluewaters Workflows Workshop
+  month: August
+  year: 2016
+  link: https://sites.google.com/a/illinois.edu/workflows-workshop/pegasus-tutorial
+
+- title: Analysis of User Submission Behavior on HPC and HTC
+  author: Rafael Ferreira da Silva
+  description: USC Information Sciences Institute, Marina del Rey
+  month: July
+  year: 2016
+  file: 2016-07-27-isi.pdf
+
+- title: Automating Real-time Seismic Analysis Through Streaming and High Throughput Workflows
+  author: Rafael Ferreira da Silva
+  description: Environmental Computing Applications Workshop (ICCS 2016), San Diego
+  month: June
+  year: 2016
+  file: silva-eca-2016.pdf
+
+- title: Pegasus WMS – Automate, recover, and debug scientific computations
+  author: Mats Rynge
+  description: "GRITS: Greater IPAC Technology Symposium"
+  month: May
+  year: 2016
+  file: Pegasus-IPAC-2016.pdf
+
+- title: Pegasus – Enhancing LIGO DAGMan Experience
+  author: Karan Vahi
+  description: Condor Week 2016, Madison
+  month: May
+  year: 2016
+  file: vahi-pegasus-ligo-talk-cw-2016.pdf
+
+- title: Pegasus
+  author: Mats Rynge
+  description: CyVerse Community
+  month: March
+  year: 2016
+  file: Pegasus-CyVerse2016.pdf
+
+- title: Data Management in Pegasus WMS
+  author: Gideon Juve
+  description: DataCloud 2015
+  month: November
+  year: 2015
+  file: Juve-DataCloud-2015.pdf
+
+- title: Pegasus, Automate, recover, and debug scientific computations
+  author: Rafael Ferreira da Silva
+  description: Lawrence Livermore National Lab (LLNL)
+  month: October
+  year: 2015
+  file: silva-llnl-pegasus.pdf
+
+- title: Complex Workloads on HUBzero – Pegasus Workflow Management System
+  author: Karan Vahi
+  description: HubBub 2015, Indianapolis
+  month: September
+  year: 2015
+  file: vahi-pegasus-hubbub-2015-final.pdf
+
+- title: Workflow Tools
+  author: Gideon Juve
+  description: International HPC Summer School
+  month: July
+  year: 2015
+  file: GideonJuve_WorkflowTools_IHPCSS.pdf
+
+- title: "Characterizing a High Throughput Computing Workload: The Compact Muon Solenoid (CMS) Experiment at LHC"
+  author: Rafael Ferreira da Silva
+  description: ICCS 2015, Iceland
+  month: June
+  year: 2015
+  file: 2015-06-01-iccs.pdf
+
+- title: Scientific Workflows – How Pegasus can enhance your DAGMan experience
+  author: Karan Vahi
+  description: HTCondor Week 2015, Madison
+  month: May
+  year: 2015
+  file: vahi-pegasus-cw-2015.pdf
+
+- title: Introduction to Scientific Workflows and Pegasus WMS
+  author: Karan Vahi
+  description: Cedars Sinai
+  month: April
+  year: 2015
+  file: vahi-pegasus-cedars-2015.pdf
+
+- title: Scientific Workflows with Pegasus WMS
+  author: Gideon Juve
+  description: NERSC Workflow Day
+  month: February
+  year: 2015
+  file: nersc-pegasus-2015.pdf
+
+- title: Experiments with Complex Scientific Applications on Hybrid Cloud Infrastructures
+  author: Rafael Ferreira da Silva
+  description: NSFCloud Workshop
+  month: December
+  year: 2014
+  file: 2014-12-11-nsfcloud.pdf
+
+- title: Science Automation with the Pegasus Workflow Management System
+  author: Ewa Deelman
+  description: ENS Lyon
+  month: December
+  year: 2014
+  file: ens-dec-2014.pdf
+
+- title: Pegasus Workflows on XSEDE
+  author: Mats Rynge
+  description: SuperComputing 2014
+  month: November
+  year: 2014
+  file: rynge-sc14-workflows-on-xsede.pdf
+
+- title: Balanced Task Clustering in Scientific Workflows
+  author: Weiwei Chen
+  description: 9th IEEE Internationl Conference on e-Science
+  month: October
+  year: 2013
+  file: wchen-balanced-escience2013.pdf
+
+- title: Producing an Infrared Multiwavelength Galactic Plane Atlas using Montage, Pegasus and Amazon Web Services
+  author: Mats Rynge
+  description: 23rd Annual Astronomical Data Analysis Software and Systems (ADASS) Conference
+  month: October
+  year: 2013
+  file: rynge-montage-pegasus-amazon-adass2013.pdf
+
+- title: Rethinking Data Management for Scientific Workflows
+  author: Karan Vahi
+  description: "IEEE  Big Data and Science: Infrastructure and Services Workshop"
+  month: October
+  year: 2013
+  file: vahi-pegasus-lite-ieee-2013.pdf
+
+- title: Pegasus Workflow Management System
+  author: Gideon Juve
+  description: Condo of Condos Workshop
+  month: September
+  year: 2013
+  file: juve-coc-workshop.pdf
+
+- title: "Pegasus WMS: A workflow system for running large scale workflows on national cyberinfrastructure"
+  author: Karan Vahi
+  description: USC Information Sciences Institute
+  month: May
+  year: 2013
+  file: vahi-isi-pegasus.pdf
+
+- title: Resource provisioning for high throughput workloads on the national cyberinfrastructure
+  author: Mats Rynge
+  description: USC Information Sciences Institute
+  month: May
+  year: 2013
+  file: rynge-isi-provisioning.pdf
+
+- title: Workflow Technologies for Science Automation
+  author: Ewa Deelman
+  description: Lawrence Berkeley National Laboratory (LBNL)
+  month: May
+  year: 2013
+  file: deelman-lbnl-may-2013.pdf
+
+- title: Managing Workloads with DAGMan and Pegasus
+  author: Karan Vahi
+  description: Condor Week 2013
+  month: May
+  year: 2013
+  file: Pegasus-CW-2013-final.pdf
+
+- title: Pegasus 4.2 on the Open Science Grid
+  author: Mats Rynge
+  description: OSG All Hands Meeting
+  month: March
+  year: 2013
+  file: Pegasus-4.2-OSG-2013.pdf
+
+- title: A General Approach to Real-time Workflow Monitoring
+  author: Karan Vahi
+  description: WORKS
+  month: November
+  year: 2012
+  file: vahi-stampede-triana-works-2012.pdf
+
+- title: Peer to Peer Data Sharing for Scientific Workflows on Amazon EC2
+  author: Gideon Juve
+  description: WORKS
+  month: November
+  year: 2012
+  file: juve-p2p-works-2012.pdf
+
+- title: "Hosted Science: Managing Computational Workflows in the Cloud"
+  author: Ewa Deelman
+  description: Euro-Par’12
+  month: September
+  year: 2012
+  file: europar-2012-deelman.pdf
+
+- title: Scientific Workflows in the Cloud
+  author: Gideon Juve
+  description: Science Cloud Summer School
+  month: August
+  year: 2012
+  file: juve_cloud_summer_school.pdf
+
+- title: High Throughput Computing for Astronomers
+  author: Mats Rynge
+  description: Sagan Workshop
+  month: July
+  year: 2012
+  file: rynge-htc-for-astronomers.pdf
+
+- title: Enabling Large-scale Scientific Workflows on Petascale Resources Using MPI Master / Worker
+  author: Mats Rynge
+  description: XSEDE’12
+  month: July
+  year: 2012
+  file: rynge-pegasus-mpi-cluster.pdf
+
+- title: Managing Large Scale Workflows with Pegasus
+  author: Karan Vahi
+  month: May
+  year: 2012
+  file: vahi-pegasus-talk-cw-2012.pdf
+
+- title: Experiences Using GlideinWMS and the Corral Frontend Across Cyberinfrastructures
+  author: Mats Rynge
+  description: 7th IEEE International Conference on e-Science, Stockholm, Sweden
+  month: November
+  year: 2011
+  file: GlideinWMS_escience2011_20111208.pdf
+
+- title: Experiment Management from a Pegasus Perspective
+  author: Jens S. Vockler
+  description: Support for Experimental Computer Science, SuperComputing’11
+  month: November
+  year: 2011
+  file: SC2011-FGEM-PWMS.pdf
+
+- title: "High Performance Compute Infrastructure for Astronomy: 2020 Is Only Months Away"
+  author: G. Bruce Berriman
+  description: ADASS XXI Conference, Paris
+  month: November
+  year: 2011
+  file: berriman_adass_2011-best.pdf
+
+- title: A Very Brief Introduction To Cloud Computing
+  author: Jens S. Vockler
+  description: GRITS’11
+  month: June
+  year: 2011
+  file: grits-caltech-talk.pdf
+
+- title: Experiences Using Cloud Computing for A Scientific Workflow Application
+  author: Jens S. Vockler
+  description: ScienceCloud’11 workshop
+  month: June
+  year: 2011
+  file: sci709-voeckler-talk.ppt
+
+- title: glideinWMS – Dynamic Glideins Across National Infrastructures
+  author: Mats Rynge
+  description: HTCondor Week’11
+  month: May
+  year: 2011
+  file: 2011-05-05_glideinWMS_Dynamic_Glideins_Across_National_Infrastructures.pdf
+
+- title: Using Pegasus 3.0 for Data-based workflows on the OSG
+  author: Mats Rynge
+  description: OSG All Hands Meeting’11
+  month: March
+  year: 2011
+  file: Using_Pegasus_30_for_databased_workflows.pdf
+
+- title: "CorralWMS: Integrating glideinWMS and Corral"
+  author: Mats Rynge
+  description: HTCondor Week’10
+  month: April
+  year: 2010
+  file: CorralWMS-CondorWeek2010.pdf
+
+- title: Building Image Mosaics with the Montage Image Mosaic Engine
+  author: Bruce Berriman
+  description: GRITS
+  month: May
+  year: 2009
+  file: Berriman_GRITS2009.pdf
+
+- title: "Clouds: An Opportunity for Scientific Applications?"
+  author: Ewa Deelman
+  description: Cracow Grid Workshop, Krakow, Poland
+  month: October
+  year: 2008
+  file: cgw08-deelman.pdf
+
+- title: Data Management Challengesof Large-Scale Data IntensiveScientific Workflows
+  author: Ewa Deelman
+  description: CoreGRID Integration Workshop, Crete, Greece
+  month: April
+  year: 2008
+  file: coregrid08-deelman.pdf
+
+- title: Managing Workflows with the Pegasus Workflow Management System
+  author: Ewa Deelman
+  description: Open Science Grid
+  month: December
+  year: 2007
+  file: Pegasus-for-osg.ppt
+
+- title: Managing Scientific Workflowson OSG with Pegasus
+  author: Ewa Deelman
+  description: Open Science Grid Consortium All Hands Meeting, SDSC, San Diego
+  month: March
+  year: 2007
+  file: pegasus-3-5-07-final.pdf
+
+- title: Meeting the Challenges of Managing Large-Scale Scientific Workflows in Distributed Environments
+  author: Ewa Deelman
+  description: Scientific Workflows and Business Workflow Standards in e-Science Workshop, eScience’06, Amsterdam, Netherlands
+  month: December
+  year: 2006
+  file: amsterdam.pdf
+
+- title: Challenges of Managing Large-Scale Scientific Workflows In Distributed Environments
+  author: Ewa Deelman
+  description: Manchester, UK
+  month: October
+  year: 2006
+  file: manchester.pdf
+
+- title: Time and Space Optimizations for Executing Scientific Workflows in Distributed Environments
+  author: Ewa Deelman
+  description: NeSC Workflow Optimization in Distributed Environments, Edinburgh, UK
+  month: October
+  year: 2006
+  file: edinburgh.pdf
+
+- title: "Pegasus: Running Large-Scale Scientific Workflows on the TeraGrid"
+  author: Ewa Deelman
+  description: Seatle
+  month: November
+  year: 2005
+  file: pegasus-tg-final.ppt
+
+- title: Large-Scale Science Through Workflow Management
+  author: Ewa Deelman
+  month: March
+  year: 2005
+  file: Pegasus-general-3-2005.ppt
+
+- title: Using Grid Technologies to Support Large-Scale Astronomy Applications
+  author: Ewa Deelman
+  description: Seatle
+  month: October
+  year: 2004
+  file: adass04.ppt
+
+- title: "Pegasus: A Framework for Workflow Planning on the Grid"
+  author: Ewa Deelman
+  description: Seatle
+  month: September
+  year: 2004
+  file: pegasus_9_04.ppt
+
+- title: "Pegasus: Mapping complex applications onto the Grid"
+  author: Ewa Deelman
+  month: July
+  year: 2004
+  file: grist-workshop-ewa.ppt
+
+- title: "Pegasus: Mapping Scientific Workflows onto the Grid"
+  author: Ewa Deelman
+  month: January
+  year: 2004
+  file: axgrids04.ppt
+
+- title: Pegasus:Planning for Execution in Grids
+  author: Ewa Deelman
+  description: SuperComputing’03
+  month: November
+  year: 2003
+  file: sc2003.ppt
+
+- title: GriPhyN NSF Review
+  author: Ewa Deelman
+  month: January
+  year: 2003
+  file: nsf_review_1_2003.ppt

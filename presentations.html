@@ -1,0 +1,43 @@
+---
+layout: default
+title: Presentations
+permalink: /publications/presentations
+---
+
+<div id="main">
+    <article class="post">
+        <header>
+            <div class="title">
+                <h2>Presentations</h2>
+                <p>List of presentations in conferences, workshops, meetings, etc.</p>
+            </div>
+        </header>
+
+        {% assign presentation_groups = site.data.presentations | group_by: "year" %}
+        {% for pg in presentation_groups %}
+
+        <br/>
+        <h1 style="font-size: 1.5em">{{ pg.items[0].year }}</h1>
+
+        {% for p in pg.items %}
+        <div class="col-sm-12">
+            <div class="presentation">
+                <strong>{{ p.title }}</strong><br/>
+                {{ p.author }}, {{ p.description }}, {{ p.month }}, {{ p.year }}.<br/>
+                {% if p.file %}
+                <a href="/files/presentations/{{ p.year }}/{{ p.file }}" target="_blank">
+                    <i class="fas fa-file-pdf"></i> PDF
+                </a>
+                {% endif %}
+                {% if p.slideshare %}
+                <a href="{{ p.slideshare }}" target="_blank">
+                    <i class="fab fa-slideshare"></i> SlideShare
+                </a>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+        {% endfor %}
+        <p>&nbsp;</p>
+    </article>
+</div>
