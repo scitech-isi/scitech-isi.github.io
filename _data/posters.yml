@@ -91,3 +91,107 @@
   month: January
   year: 2017
   file: 2017_dibbs_brown_poster.pdf
+
+- title: "Asterism: An Integrated, Complete, and Open-Source Approach for Running Seismologist Continuous Data-Intensive Analysis on Heterogeneous Systems"
+  author: R. Ferreira da Silva, R. Filgueira, E. Deelman, M. Atikinson
+  description: AGU 2016, San Francisco, California
+  month: December
+  year: 2016
+  file: ferreiradasilva-agu-2016.pdf
+
+- title: Automated Genotypic Imputation of PAGE II Data using Scientific Workflows
+  author: K. Vahi, S. Buyske, L. Zhou, T. Matise, E. Deelman
+  description: ASHG 2016, Vancouver, Canada
+  month: November
+  year: 2016
+  file: vahi-imputation-ashg-2016.pdf
+
+- title: "Pegasus: Automating the Execution of Computational Workflows"
+  author: E. Deelman, K. Vahi, G. Juve, M. Rynge, R. Mayani, R. Ferreira da Silva, M. Livny, K. Wenger
+  description: ICT Air Force Research Lab Opening, Marina Del Rey, California
+  month: March
+  year: 2016
+  file: pegasus-ict-arl-2016-final.pdf
+
+- title: "SSI: Distributed Workflow Management Research and Software in Support of Science"
+  author: E. Deelman, K. Vahi, G. Juve, M. Rynge, R. Mayani, R. Ferreira da Silva, M. Livny, K. Wenger
+  description: SI2 PI Workshop, Arlington, Virginia
+  month: February
+  year: 2016
+  file: 2016-si2-pi-pegasus-final-kv.pdf
+
+- title: "PANORAMA: Tools for Modeling, Monitoring, and Anomaly Detection in Scientific Workflow Execution"
+  author: E. Deelman, C. Carothers, A. Mandal, B. Tierney, J. Vetter, I. Baldin, C. Castillo, G. Juve, D. Król, V. Lynch, B. Mayer, J. Meredith, T. Proffen, P. Ruth, R. Ferreira da Silva
+  description: Workshop on Modeling and Simulation (Modsim)
+  month: August
+  year: 2016
+  file: panorama-modsim-2016-v4-Final.pptx
+
+- title: "Pegasus WMS: Enabling Large Scale Workflows on National Cyberinfrastructure"
+  author: K. Vahi, E. Deelman, G. Juve, M. Rynge, R. Mayani, R. Ferreira da Silva
+  description: XSEDE 2015, St Louis, Missouri
+  month: July
+  year: 2015
+  file: Pegasus-Poster-XSEDE-2015-final.pdf
+
+- title: "Pegasus WMS: Features For Pipelines Across Diverse Resources"
+  author: K. Vahi, E. Deelman, G. Mehta, M. Rynge, F. Silva, P. Thomas, J. Vockler, B. Berriman
+  description: LIGO LSC Meeting, Pasadena, California
+  month: March
+  year: 2015
+  file: Pegasus-Poster-LSC-Meeting-2015-final.pdf
+
+- title: "SSI: Distributed Workfow Management Research and Software in Support of Science"
+  author: E. Deelman, M. Livny, Washington DC.
+  month: February
+  year: 2015
+  file: 2015-si2-pi-pegasus-v1.pdf
+
+- title: "PANORAMA: Modeling the Performance of Scientific Workflows"
+  author: E. Deelman, C. Carothers, A. Mandal, B. Tierney, J. Vetter, I. Baldin, C. Castillo, G. Juve, D. Król, V. Lynch, B. Mayer, J. Meredith, T. Proffen, P. Ruth, R. Ferreira da Silva
+  description: Workshop on Modeling and Simulation (Modsim)
+  month: August
+  year: 2015
+  file: panorama-modsim-2015-v5.pptx
+
+- title: Genome and Transcriptome Free Analysis of RNA-Seq Data using Cloud Computing
+  author: T. Souaiaia, R. Mayani, K. Vahi, J. Herstein, O. Evagrafov, T. Chen, E. Deelman, D. Briggs, J. Knowles
+  description: ASHG 2014, San Diego
+  month: October
+  year: 2014
+  file: ASHG-2014-GTFAR-final.pdf
+
+- title: Compute Pipelines with Advanced Data Management using Pegasus WMS
+  author: K. Vahi, M. Rynge, E. Deelman, G. Juve, R. Mayani, R. Ferreira da Silva
+  description: ADASS 2014, Calgary, Canada
+  month: October
+  year: 2014
+  file: Pegasus-Poster-ADASS-2014-final.pdf
+
+- title: "Pegasus WMS: Enabling Large Scale Workflows on National Cyberinfrastructure"
+  author: K. Vahi, E. Deelman, G. Juve, M. Rynge, R. Mayani, R. Ferreira da Silva
+  description: XSEDE 2014, Atlanta
+  month: July
+  year: 2014
+  file: Pegasus-Poster-XSEDE-2014-final.pdf
+
+- title: Next Generation Resequencing of Soybean Germplasm for Trait Discovery on XSEDE using Pegasus Workflows and iPlant Infrastructure
+  author: T. Joshi, B. Valliyodan, S. M. Khan, Y. Liu, J. V. M. dos Santos, Y. Jiao, D. Xu, H. T. Nguyen, N. Hopkins, M. Rynge, N. Merchant
+  description: XSEDE 2014, Atlanta
+  month: July
+  year: 2014
+  file: XSEDE14-SoyKB.pdf
+
+- title: ECSS Workflows – An Overview and Update
+  author: M. Rynge, M. Pierce, S. Marru
+  description: XSEDE 2014, Atlanta
+  month: July
+  year: 2014
+  file: XSEDE14-WFCAT.pdf
+
+- title: "SSI: Distributed Workflow Management Research and Software in Support of Science"
+  author: E. Deelman, M. Livny
+  description: SI2 PI Meeting
+  month: February
+  year: 2014
+  file: 2014-si2-pi-pegasus.pdf
