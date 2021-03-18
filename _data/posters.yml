@@ -1,0 +1,93 @@
+- title: "SI2-SSI: Distributed Workflow Management Research and Software in Support of Science"
+  author: Ewa Deelman, Karan Vahi, Mats Rynge, Rajiv Mayani, Ryan Tanaka, Rafael Ferreira da Silva, George Papadimitriou, Tu Mai Anh Do, Miron Livny, Mark Coatsworth
+  description: 2020 NSF CSSI PI Meeting, Seattle, Washington
+  month: February
+  year: 2020
+  file: 2020-si2-pi-pegasus-final.pdf
+
+- title: Automated processing of phenotypic data submissions
+  author: R. Mayani, K. Vahi, J.L. Ambite, S. Sharma, M. Azaro, S. Wilson, B. Ruocco, G. Davis, M. Romanella, L. Brzustowicz, E. Deelman, Y. Arens
+  description: ASHG
+  year: 2019
+  file: AutoQC-v2-Flat.pdf
+
+- title: Enhancing access to data at the NIMH Repository and Genomics Resource
+  author: B.G. Ruocco, R. Mayani, S. Sharma, S. Wilson, K. Vahi, S. Voinea, G. Davis, J. ValentineCooper, W. Valentine-Cooper, J. Mathew, M. Romanella, Y. Arens, E. Deelman, M.A. Azaro, V.J. Vieland, J.L. Ambite, L.M. Brzustowicz
+  description: ASHG
+  year: 2019
+
+- title: Gearing the DECam Analysis Pipeline for Multi-Messenger Astronomy using Pegasus Workflows
+  author: K. Vahi, D. Goldstein, G. Papadimitriou, P. Nugent, and E. Deelman
+  description: Astronomical Data Analysis Software and Systems (ADASS) XXIX
+  year: 2019
+  file: 2019-adass-pegasus-decam-poster.pdf
+
+- title: "PANORAMA 360: Performance Data Capture and Analysis for End-to-End Scientific Workflows"
+  author: George Papadimitriou, Rafael Ferreira da Silva, Karan Vahi, Rajiv Mayani, Mats Rynge, Ewa Deelman, Anirban Mandal, Cong Wang, Mariam Kiran, Vickie Lynch, Jeffrey Vetter
+  description: ModSim 2019
+  month: August
+  year: 2019
+  file: panorama-modsim-2019.pdf
+
+- title: Accessing OLCF Resources Using Pegasus WMS
+  author: George Papadimitriou, Pavlo Svirin, Karan Vahi, Mats Rynge, Rafael Ferreira da Silva, Jason Kincl, Vickie Lynch, Ewa Deelman, Anirban Mandal, Jeffrey Vetter, Valentine Anantharaj, Jack Wells, Alexei Klimentov, Kaushik De
+  description: OLCF User Meeting 2019
+  month: May
+  year: 2019
+  file: pegasus-oclf-user-meeting-2019.pdf
+
+- title: "PANORAMA 360: Performance Data Capture and Analysis for End-to-End Scientific Workflows"
+  author: G. Papadimitriou, R. Ferreira da Silva, K. Vahi, R. Mayani, M. Rynge, E. Deelman, A. Mandal, C. Wang, M. Kiran, V. Lynch, J. Vetter
+  description: DOE NGNS PI Meeting
+  month: September
+  year: 2018
+  file: ngns-pi-meeting-poster-2018.pdf
+
+- title: "WRENCH: A Simulation Workbench for Scientific Workflow Users, Developers, and Researchers"
+  author: H. Casanova, R. Ferreira da Silva, F. Suter, S. Pandey, J. Oeth, R. Tanaka
+  description: SI2 PI Meeting 2018
+  month: May
+  year: 2018
+  file: wrenchsi2pimeetingv13.key.pdf
+
+- title: Pegasus WMS and Panorama 360
+  author: G. Papadimitriou, E. Deelman, R. Ferreira da Silva, R. Filgueira, V. Lynch, A. Mandal, C. Wang, J. Vetter
+  description: USC Viterbi Annual Research Review
+  month: March
+  year: 2018
+  file: pegasus-wms-panorama360.pdf
+
+- title: Event-Based Triggering and Management of Scientific Workflow Ensembles
+  author: S. Pandey, K. Vahi, R. Ferreira da Silva, E. Deelman, M. Jiang, A. Chu, C. Harrison, H. Casanova
+  description: HPC Asia 2018
+  month: January
+  year: 2018
+  file: hpcasia-pandey-2018.pdf
+
+- title: Enabling End-to-end Experiment Sharing and Reuse with Workflows via Jupyter Notebooks
+  author: R. Ferreira da Silva, K. Vahi, M. Rynge, R. Mayani, E. Deelman
+  description: Gateways 2017
+  month: October
+  year: 2017
+  file: gateways-2017-v02.pdf
+
+- title: "PANORAMA: Predictive Modeling and Diagnostic Monitoring of Extreme Science Workflows"
+  author: E. Deelman, C. Carothers, A. Mandal, B. Tierney, J. Vetter, I. Baldin, M. Blanco, R. Ferreira da Silva, M. Kiran, V. Lynch, S. Moore, P. Ruth
+  description: DOE NGNS PI Meeting
+  month: September
+  year: 2017
+  file: ngns-pi-meeting-2017-v02.pdf
+
+- title: Data Flow Prioritization for Scientific Workflows Using A Virtual SDX on ExoGENI
+  author: A. Mandal, P. Ruth, I. Baldin, R. Ferreira da Silva, E. Deelman
+  description: GENI Engineering Conference 25
+  month: March
+  year: 2017
+  file: GEC25-DemoPoster.pdf
+
+- title: "CIF21 DIBBs: Domain-Aware Management of Heterogeneous Workflows Active Data Management for Gravitational-Wave Science"
+  author: D. Brown, E. Deelman, J. Qin
+  description: DIBBs PI Meeting
+  month: January
+  year: 2017
+  file: 2017_dibbs_brown_poster.pdf

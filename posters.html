@@ -1,0 +1,38 @@
+---
+layout: default
+title: Posters
+permalink: /publications/posters
+---
+
+<div id="main">
+    <article class="post">
+        <header>
+            <div class="title">
+                <h2>Posters</h2>
+                <p>List of posters in conferences, workshops, meetings, etc.</p>
+            </div>
+        </header>
+
+        {% assign poster_groups = site.data.posters | group_by: "year" %}
+        {% for pg in poster_groups %}
+
+        <br/>
+        <h1 style="font-size: 1.5em">{{ pg.items[0].year }}</h1>
+
+        {% for p in pg.items %}
+        <div class="col-sm-12">
+            <div class="presentation">
+                <strong>{{ p.title }}</strong><br/>
+                {{ p.author }}, {{ p.description }}, {{ p.month }}, {{ p.year }}.<br/>
+                {% if p.file %}
+                <a href="/files/posters/{{ p.year }}/{{ p.file }}" target="_blank">
+                    <i class="fas fa-file-pdf"></i> PDF
+                </a>
+                {% endif %}
+            </div>
+        </div>
+        {% endfor %}
+        {% endfor %}
+        <p>&nbsp;</p>
+    </article>
+</div>
