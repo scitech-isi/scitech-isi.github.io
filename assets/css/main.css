@@ -4087,3 +4087,29 @@ body.is-menu-visible #menu {
     background-color: #f7f7f7;
     overflow: auto;
 }
+
+.sublink {
+    display: block;
+    padding: 1em;
+    border: 1px solid #ccc;
+    box-shadow: #ccc 3px 3px 3px;
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: #fafafa;
+}
+
+.sublink:hover {
+    box-shadow: #666 3px 3px 3px;
+    text-decoration: none;
+}
+
+.presentation {
+    border-bottom: 1px solid #eee;
+    margin-bottom: 1em;
+    padding-bottom: 0.5em;
+}
+
+.fa-file-pdf {
+    color: #721c24;
+}
