@@ -21,6 +21,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
 
 # Pagination
 paginate: 8
