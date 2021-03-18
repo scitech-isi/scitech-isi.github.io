@@ -196,3 +196,110 @@
   year: 2014
   file: 2014-si2-pi-pegasus.pdf
 
+- title: Conducting Large-Scale Imputation Studies on the Cloud
+  author: S. Buyske, K. Vahi, E. Deelman, U. Peters, T. Matise
+  description: ASHG’13, Boston
+  month: October
+  yaer: 2013
+  file: ASHG2013Buyske.pdf
+
+- title: "Pegasus WMS: Enabling Large Scale Workflows on National Cyberinfrastructure"
+  author: K. Vahi, E. Deelman, G. Juve, M. Rynge, R. Mayani, S. Callaghan, P. Maechling
+  description: XSEDE’13, San Diego
+  month: July
+  year: 2013
+  file: Pegasus-Poster-XSEDE-2013-final.pdf
+
+- title: Introducing PRECIP – Pegasus Repeatable Experiments for the Cloud in Python
+  author: S. Azaroosh, M. Rynge, G. Juve,  E. Deelman
+  description: XSEDE’13, San Diego
+  month: July
+  year: 2013
+  file: PRECIP-Poster-XSEDE%2713-Final.pdf
+
+- title: Bosco – A simple interface for managing jobs on both XSEDE and campus computing resources
+  author: D. Weitzel, D. Fraser, M. Ahronovitz, M. Rynge
+  description: XSEDE’13, San Diego
+  month: July
+  year: 2013
+  file: BOSCO-PosterXSEDE%2713-Final.pdf
+
+- title: "SSI: Distributed Workflow Management Research and Software in Support of Science"
+  author: E. Deelman, M. Livny
+  description: SI2 PI Meeting
+  month: February
+  year: 2013
+  file: 2013-si2-pi-pegasus.pdf
+
+- title: Curating genomic epidemiology data in The PAGE Study
+  author: G. Kumaraguruparan, G. Mehta, A. Nato, J. L. Ambite, S. Buyske, R. Mayani, C. Cai, J. Vockler, E. Deelman, T. Matise
+  description: ASHG’12, San Francisco
+  month: November
+  year: 2012
+
+- title: "RseqFlow: Workflows for RNA-Seq data analysis"
+  author: Y. Wang, G. Mehta , R. Mayani ,T. Souaiaia , Y. Chen, A. Clark , L. Wan, O. V. Evgrafov, J. A. Knowles , E. Deelman, T. Chen
+  description: ISMB’12, Long Beach
+  month: July
+  year: 2012
+
+- title: Enabling Bioinformatics Workflows on Leadership Class Systems with Virtual Machines
+  author: G. Mehta, T. Souaiaia, R. Mayani, Y. Wang, E. Deelman, T. Chen, J. Knowles
+  description: XSEDE’12, Chicago
+  month: July
+  year: 2012
+
+- title: "Pegasus WMS: Enabling Large Scale Workflows on National Cyberinfrastructure"
+  author: K. Vahi, E. Deelman, G. Juve, G. Mehta, M. Rynge, R. Mayani, S. Callaghan, P. Maechling
+  description: XSEDE’12, Chicago
+  month: July
+  year: 2012
+  file: Pegasus-Poster-XSEDE-2012.pdf
+
+- title: Leveraging Pegasus 4.0 and GlideinWMS for Data Intensive Workflows on OSG
+  author: K. Vahi, E. Deelman, G. Juve, G. Mehta, M. Rynge, R. Mayani, S. Callaghan, P. Maechling
+  description: OSG All Hands Meeting’12, Lincoln
+  month: March
+  year: 2012
+  file: PegasusLite-OSG-AHM-2012.pdf
+
+- title: "Pegasus WMS: Enabling Bioinformatics using Workflow Technologies"
+  author: G. Mehta, E. Deelman, K. Vahi, Y. Wang, A. Clark, R. Mayani, T. Chen, J. Knowles
+  description: 12th International Congress of Human Genetics/61st Annual Meeting of The American Society of Human Genetics, Montreal, Canada
+  month: October
+  year: 2011
+  file: ichg2011-pegasus.txt
+
+- title: Generating Large Scale pedigree drawings for Genetic Studies
+  author: R. Mayani, G. Mehta, E. Deelman, K. Seth, J. Vöckler, F. Wang
+  description: 12th International Congress of Human Genetics/61st Annual Meeting of The American Society of Human Genetics, Montreal, Canada
+  month: October
+  year: 2011
+  file: ichg2011-pedigree.txt
+
+- title: "Stampede: A Framework for Monitoring and Troubleshooting of Large-Scale Applications on National Cyberinfrastructure"
+  author: F. Silva, C. Brooks, E. Deelman, M. Goode, D. Gunter, G. Juve, G. Mehta, P. Moraes, T. Samak, M. Swany, P. Thomas, K. Vahi
+  description: Teragrid 2011, Salt Lake City
+  month: June
+  year: 2011
+  file: stampede-tg11-poster-final.pdf
+
+- title: "Pegasus WMS: Enabling Large Science on National CyberInfrastructure"
+  author: K. Vahi, E. Deelman, G. Mehta, M. Rynge, F. Silva, P. Thomas, J. Vockler, B. Berriman
+  description: Teragrid 2011, Salt Lake City
+  month: June
+  year: 2011
+  file: pegasus-tg11-poster-final.pdf
+
+- title: "Wrangler: Virtual Cluster Provisioning for the Cloud"
+  author: G. Juve, E. Deelman
+  description: HPDC’11, Best Poster
+  month: June
+  year: 2011
+  file: wrangler_poster_hpdc_2011.pdf
+
+- title: Workflow Task Clustering for Best Effort Systems with Pegasus
+  author: G. Singh, M.H. Su, K. Vahi, E. Deelman, G. Mehta, B. Berriman, J. Good, D. S. Katz
+  description: Teragrid
+  year: 2007
+  file: tg07-pegasus-poster.ppt
