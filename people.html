@@ -46,9 +46,14 @@ permalink: /people
         {% endunless %}
         {% endfor %}
 
-        <br/><br/>
-        <h3>Alumni</h3>
+    </article>
 
+    <article class="post">
+        <header>
+            <div class="title">
+                <h3>Alumni</h3>
+            </div>
+        </header>
         {% assign alumni = site.data.people | where: 'alumni', true %}
         {% for p in alumni %}
         <div class="alumni">
@@ -67,6 +72,27 @@ permalink: /people
             </div>
         </div>
         {% endfor %}
-
     </article>
+
+    <article class="post">
+        <header>
+            <div class="title">
+                <h3>Team Pictures Through the Years</h3>
+            </div>
+        </header>
+
+        {% assign team_groups = site.data.team_pictures | group_by: "year" %}
+        {% for tg in team_groups %}
+        <h3 style="font-size: 1.2em; margin-top: 2em">{{ tg.items[0].year }}</h3>
+        {% for p in tg.items %}
+        <div style="font-size: 0.8em; line-height: 1.2em">
+            <img src="/images/people/team/{{ p.photo }}" alt="SciTech Team {{ p.year }}" style="width: 90%"/>
+            <br/>
+            {{ p.description }}
+        </div>
+        {% endfor %}
+        {% endfor %}
+        <p>&nbsp;</p>
+    </article>
+
 </div>
