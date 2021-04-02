@@ -14,7 +14,7 @@ permalink: /research
         </header>
 
         <div class="row">
-            {% assign research = site.research %}
+            {% assign research = site.research | sort: "order" %}
             {% for r in research %}
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <a class="research-area" href="{{ r.url }}">
