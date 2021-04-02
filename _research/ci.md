@@ -4,6 +4,7 @@ leader: Ewa Deelman
 photo: deelman.jpg
 color: 0c5460
 layout: research
+order: 2
 ---
 
 The NSF’s Major Facilities are large, multi-user research facilities that
