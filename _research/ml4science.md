@@ -4,6 +4,7 @@ leader: Loïc Pottier
 photo: pottier.jpg
 color: E95345
 layout: research
+order: 3
 ---
 
 The imminent arrival of data-oriented and machine learning-based analysis modalities
