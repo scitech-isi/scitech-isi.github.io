@@ -4,6 +4,7 @@ leader: Ewa Deelman
 photo: deelman.jpg
 color: 57BE9D
 layout: research
+order: 1
 ---
 
 Scientific workflows are a cornerstone of modern scientific computing, and they have underpinned some of the most
