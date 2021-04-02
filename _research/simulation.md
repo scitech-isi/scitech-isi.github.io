@@ -4,6 +4,7 @@ leader: Rafael Ferreira da Silva
 photo: ferreiradasilva.jpg
 color: c69500
 layout: research
+order: 4
 ---
 
 Teaching topics related to Cyberinfrastructure (CI) is most effective 
