@@ -26,6 +26,6 @@ and respond to major disruptive events (e.g.,
 ## Featured Publications
 
 <div style="display: none">
-    {% cite deelman-escience-2019 mitchell2019btsd %}
+    {% cite deelman2021blueprint deelman-escience-2019 mitchell2019btsd %}
 </div>
 {% bibliography --cited_in_order --template bib-recent %}
