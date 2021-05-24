@@ -1,6 +1,6 @@
 ---
 title: "George Papadimitriou Wins PEARC '20 Award For Creating System For Facilitating Efficiency of Research"
-image: /images/news/papadimi-award.jpg
+image: /images/news/papadimi-award.png
 description: "At the Practice & Experience in Advanced Research Computing (PEARC) conference, which took place from July 26-30, ISI graduate assistant George Papadimitriou won the Best Student Paper Award for his research on Pegasus workflow submission nodes."
 date: 15 December 2020
 layout: post
