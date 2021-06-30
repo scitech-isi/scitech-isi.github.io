@@ -140,7 +140,8 @@
 - title: 'V-RAM: TSS Vulnerability-Risk Assessment & Mitigation'
   description: The goal of this project is to enable researchers and design experts to expand the state-of-the art in ASIC design through novel cyberinfrastructure and workflow tools that accelerate every phase of discovery, creation, adoption, and use by linking and computing around a repository of user-generated data, including new tools, new IP blocks/libraries, new design flows, training modules, and experience-base documenting best practices to adopt (and pitfalls to avoid).
   funding: AFRL
-  active: true
+  active: false
+  period: 2019-2020
 
 - title: 'Open Science Grid'
   description: The OSG provides common service and support for resource providers and scientific institutions using a distributed fabric of high throughput computational services. The OSG does not own resources but provides software and services to users and resource providers alike to enable the opportunistic usage and sharing of resources. The OSG is jointly funded by the Department of Energy and the National Science Foundation. The OSG is primarily used as a high-throughput grid where scientific problems are solved by breaking them down into a very large number of individual jobs that can run independently.
@@ -192,7 +193,8 @@
   funding: NSF
   website: https://cue4chng.org
   award: 1826632
-  active: true
+  active: false
+  period: 2018-2021
 
 - title: 'SWIP: Secure and Resilient Architecture: Scientific Workflow Integrity with Pegasus'
   description: The Scientific Workflow Integrity with Pegasus project strengthens cybersecurity controls in the Pegasus Workflow Management System in order to provide assurances with respect to the integrity of computational scientific methods. These strengthened controls enhance both Pegasus’ handling of science data and its orchestration of software-defined networks and infrastructure. The result is increased trust in computational science and increased assurance in our ability to reproduce the science by allowing scientists to validate that data has not been changed since a workflow completed and that the results from multiple workflows are consistent.
