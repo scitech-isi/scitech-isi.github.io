@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-06T18:03:11+00:00</updated><id>/feed.xml</id><title type="html">SciTech</title><entry><title type="html">2021 SciTech and Friends Research Symposium</title><link href="/blog/scitech-research-symposium/" rel="alternate" type="text/html" title="2021 SciTech and Friends Research Symposium" /><published>2021-06-30T00:00:00+00:00</published><updated>2021-06-30T00:00:00+00:00</updated><id>/blog/scitech-research-symposium</id><content type="html" xml:base="/blog/scitech-research-symposium/">&lt;p&gt;The Science Automation Technologies Research Group SciTech at the &lt;a href=&quot;http://isi.edu&quot;&gt;USC 
+Information Sciences Institute&lt;/a&gt; aims to empower the 
+scientific community by conducting research and software development 
+in the area of automation of scientific computing, providing tools such 
+as workflow management systems like &lt;a href=&quot;https://pegasus.isi.edu&quot;&gt;Pegasus&lt;/a&gt;. 
+As a result, scientists can focus on their research questions, while 
+our open-source tools provide the computational foundations to 
+seamlessly run their experiments and analyses in local and distributed 
+resources. In addition to workflow management, SciTech conducts research 
+in resource scheduling and provisioning, cyberinfrastructure management 
+and deployment, applied machine learning, and modeling and simulation 
+of distributed computing systems. SciTech research is funded by the 
+National Science Foundation, the U.S. Department of Energy, and the 
+National Institutes of Health.&lt;/p&gt;
+
+&lt;p&gt;In the past academic year, the SciTech Group has included a number of 
+Master’s and undergraduate students. This “SciTech and Friends Research 
+Symposium” aimed to provide a forum for students to publicize their 
+work.  SciTech is lead by Research Professor and Research Director Ewa 
+Deelman. Her group collaborates with a number of diverse researchers 
+and for this Symposium she partnered with her colleagues &lt;a href=&quot;http://www.ekerk.com&quot;&gt;Prof. Kerk 
+Kee&lt;/a&gt; from Texas Tech University and &lt;a href=&quot;https://crc.nd.edu/about/people/charles-vardeman/&quot;&gt;Prof. Charles 
+Vardeman&lt;/a&gt; from the 
+University of Notre Dame.  The “SciTech and Friends Research Symposium” 
+showcases the scholarly work of students from the three groups.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/research-symposium/scitech-symposium-participants.png&quot; style=&quot;width: 100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Symposium was organized by the SciTech’s Project Manager, Wendy 
+Whitcup, with the support from Research Assistant Professor Rafael 
+Ferreira da Silva (Research Lead at SciTech). The event was held 
+virtually on May 12 and 13, 2021, and included 36 participants: 
+undergraduate and graduate students from the three universities as 
+well as researchers and professors from the community. A total of 16 
+students (1 high-school, 1 undergraduate, 3 MS, and 11 PhD) from the 
+three universities presented their work, and provided a research 
+abstract published in the following report:
+&lt;a href=&quot;https://doi.org/10.5281/zenodo.4847543&quot; style=&quot;border-bottom: 0&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;https://zenodo.org/badge/DOI/10.5281/zenodo.4847543.svg&quot; alt=&quot;DOI&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;video-presentations&quot;&gt;Video Presentations&lt;/h2&gt;
+
+&lt;p&gt;The presentation slides, videos, and additional materials are all 
+freely available on the &lt;a href=&quot;https://scitech.group/research-symposium&quot;&gt;symposium website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PL286EAWYDNwFQf6-ga9UmWXyoCLx0kQcx&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="symposium" /><summary type="html">The Science Automation Technologies Research Group SciTech at the USC Information Sciences Institute aims to empower the scientific community by conducting research and software development in the area of automation of scientific computing, providing tools such as workflow management systems like Pegasus. As a result, scientists can focus on their research questions, while our open-source tools provide the computational foundations to seamlessly run their experiments and analyses in local and distributed resources. In addition to workflow management, SciTech conducts research in resource scheduling and provisioning, cyberinfrastructure management and deployment, applied machine learning, and modeling and simulation of distributed computing systems. SciTech research is funded by the National Science Foundation, the U.S. Department of Energy, and the National Institutes of Health.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/scitech-research-symposium.png" /><media:content medium="image" url="/images/news/scitech-research-symposium.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Looking For An Internship as a High School Student? Read About Kelsie’s Experience at USC ISI</title><link href="/blog/internship-lam/" rel="alternate" type="text/html" title="Looking For An Internship as a High School Student? Read About Kelsie’s Experience at USC ISI" /><published>2021-04-02T00:00:00+00:00</published><updated>2021-04-02T00:00:00+00:00</updated><id>/blog/internship-lam</id><content type="html" xml:base="/blog/internship-lam/">&lt;h3 id=&quot;from-high-school-to-leading-research-institute&quot;&gt;From High School to Leading Research Institute&lt;/h3&gt;
+
+&lt;p&gt;As a junior in high school who didn’t have much previous experience with 
+coding or machine learning, Kelsie Lam had her fair share of doubts when 
+starting off her internship.&lt;/p&gt;
+
+&lt;p&gt;This past summer, Lam, a high school student from Mission San Jose High School, 
+sought out a summer internship that piqued her interest. She contacted Ewa Deelman, 
+who works as a principal scientist at the famed USC ISI, the research institute 
+that played a key role in the creation of the internet, as well as birthing the 
+“.com” and “.net” Domain Name System - the “phone directory” for the internet 
+that we rely on everyday.&lt;/p&gt;
+
+&lt;p&gt;“I usually don’t work with high school students, particularly given the difficulties 
+for them to travel to ISI and participate in group meetings and research activities,” 
+Deelman said. “This has been an unusual year, and since March 2020 my group has 
+been working remotely. This situation, combined with the fact that I have 
+high-school-aged children of my own, made me amenable to giving Lam a chance.”&lt;/p&gt;
+
+&lt;p&gt;To ease Lam’s transition into the group, Deelman teamed her with one of her graduate 
+students, Patrycja Krawczuk, a second year PhD student.&lt;/p&gt;
+
+&lt;p&gt;Deelman’s SciTech group conducts research in distributed systems and develops workflow 
+management technologies, including &lt;a href=&quot;https://pegasus.isi.edu&quot;&gt;Pegasus&lt;/a&gt;, which enable 
+scientists to run complex workflows on a variety of computational platforms.&lt;/p&gt;
+
+&lt;p&gt;“When I first began this internship, I definitely felt a little nervous, as I was 
+the only high school student on the team,” said Lam. “However, the Java course I 
+took in high school was able to help me a little bit with the coding portions, and 
+the group projects I’ve completed over my high school years have definitely helped 
+me work collaboratively with others at the lab.”&lt;/p&gt;
+
+&lt;p&gt;As Krawczuk’s first official intern, Lam was a fast learner and great mentee. It 
+quickly became clear that their shared moments of accomplishment overshadowed Lam’s 
+moments of doubt.&lt;/p&gt;
+
+&lt;p&gt;“I remember running our first Pegasus workflow together,” said Krawczuk. “It was 
+great to see her amazement when we were able to put the pieces of the puzzle 
+together and execute a workflow example.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/Screen-Shot-2021-03-23-at-6.52.43-PM-1200x709.png&quot; style=&quot;width: 50%&quot; /&gt;
+&lt;br /&gt;&lt;em&gt;Lam and Krawczuk working together over Zoom&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;community-and-collaboration&quot;&gt;Community and Collaboration&lt;/h3&gt;
+
+&lt;p&gt;Prior to mentoring Lam, Krawczuk spent a summer working for the program &lt;a href=&quot;https://girlswhocode.com/&quot;&gt;Girls 
+Who Code&lt;/a&gt; in a public school in Harlem, New York City, 
+during which she mentored and taught Python programming to a group of 7th grade girls. 
+As an experienced mentor, Krawczuk was able to impart immense amounts of training to 
+help Lam improve her programming and machine learning skills.&lt;/p&gt;
+
+&lt;p&gt;At the same time, Krawczuk made sure to tailor each project to Lam’s interests to 
+create a more engaging and interesting experience for her. “One of our projects 
+consists of a mask detection workflow,” she said. “I chose this topic for Kelsie once 
+she told me she’s interested in face recognition.”&lt;/p&gt;
+
+&lt;p&gt;The project not only aligned with Lam’s research interests, but also proved to be 
+extremely relevant to the current global climate. Created with Pegasus, the mask 
+detection workflow project consisted of producing workflows to determine whether 
+and how an individual is wearing a face mask through performing facial recognition 
+technology on images. Each person in the image would be characterized by their 
+mask-wearing - either wearing a mask, not wearing a mask, or wearing a mask incorrectly.&lt;/p&gt;
+
+&lt;p&gt;On a larger scale, this could be used to determine what percentage of a population 
+is wearing a face mask and if they’re doing so correctly. Evidently, this technology 
+has both research and utility purposes that can be applied on a daily basis. Though 
+it’s already been over a year of the COVID-19 pandemic, technologies like the mask 
+detection workflow could bring us a step closer to the light at the end of the tunnel.&lt;/p&gt;
+
+&lt;p&gt;With a solid foundational skill set and the guidance of Krawczuk, Lam was able to 
+incorporate her previous knowledge into new challenges. On top of learning how to 
+create and edit various workflows, Lam took an online Python programming course at 
+the same time, which greatly enriched her learning experience. She engaged in a 
+variety of exciting projects, with the most memorable being a text analysis workflow 
+that calculates the number and frequency of certain words in a Harry Potter book.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/kelsie5.png&quot; style=&quot;width: 50%&quot; /&gt;
+&lt;br /&gt;&lt;em&gt;Final output graph of text analysis workflow for Harry Potter book&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Though all her work was done remotely due to COVID, Lam was able to get the most 
+out of the internship by perfecting her computer skills while still getting to 
+work in a team setting over Zoom.&lt;/p&gt;
+
+&lt;p&gt;“Not only was I able to gain various experiences through the multiple projects 
+I’ve worked on, but I’ve also learned how to communicate and collaborate with others 
+on the team,” she said.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/Screen-Shot-2021-03-23-at-6.53.02-PM-1200x926.png&quot; style=&quot;width: 50%&quot; /&gt;
+&lt;br /&gt;&lt;em&gt;The Pegasus Machine Learning Group meets over Zoom&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Since her initial introduction as an intern in June 2020, Lam has continually 
+contributed her hard work to the Pegasus group and has been working there for 
+almost a year this semester. Speaking from her memorable experience, Lam advocates 
+for everyone, especially high school students and young girls who have an interest 
+in coding or machine learning, to seek out an internship at ISI.&lt;/p&gt;
+
+&lt;p&gt;“The environment at the SciTech lab is very supportive and engaging, so don’t feel 
+scared or intimidated to join,” encouraged Lam.&lt;/p&gt;
+
+&lt;p&gt;Despite the huge strides that have been made for equal representation in the 
+workplace, industries like tech still have a ways to go. With more young girls like 
+Lam pursuing and excelling at machine learning, there is a much greater chance for 
+women and young girls to play a key role in computing the world around us.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6nTwvrZr6kM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&quot;https://www.isi.edu/news/story/436&quot;&gt;ISI News&lt;/a&gt; (Rene Van Steenbergen)&lt;/p&gt;</content><author><name></name></author><category term="internship" /><summary type="html">From High School to Leading Research Institute</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/kelsie-internship.png" /><media:content medium="image" url="/images/news/kelsie-internship.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">George Papadimitriou Wins PEARC ‘20 Award For Creating System For Facilitating Efficiency of Research</title><link href="/blog/pearc-award-papadimi/" rel="alternate" type="text/html" title="George Papadimitriou Wins PEARC ‘20 Award For Creating System For Facilitating Efficiency of Research" /><published>2020-12-15T00:00:00+00:00</published><updated>2020-12-15T00:00:00+00:00</updated><id>/blog/pearc-award-papadimi</id><content type="html" xml:base="/blog/pearc-award-papadimi/">&lt;p&gt;At the Practice &amp;amp; Experience in Advanced Research Computing (PEARC) conference,
+which took place from July 26-30, ISI graduate assistant George Papadimitriou
+won the Best Student Paper Award for his research on Pegasus workflow submission nodes.&lt;/p&gt;
+
+&lt;p&gt;Papadimitriou’s studies focus on Data Intensive Applications and Distributed Computing.
+For this research paper, Papadimitriou led the project under the advisement of Ewa Deelman,
+research professor of computer science and principal scientist at USC ISI, and the aid of
+Karan Vahi, the team’s senior computer scientist.&lt;/p&gt;
+
+&lt;p&gt;Though Papadimitriou is no stranger to getting recognition for his groundbreaking research,
+he expresses his endless gratitude for the award.&lt;/p&gt;
+
+&lt;p&gt;“Getting awarded by the community is a validation of the importance of my work and it inspires
+me to work harder and explore more research opportunities in these areas,” he said.&lt;/p&gt;
+
+&lt;p&gt;The award paper, titled
+&lt;a href=&quot;https://dl.acm.org/doi/10.1145/3311790.3396671&quot;&gt;“Workflow Submit Nodes as a Service on Leadership Class Systems”&lt;/a&gt;,
+details the creation of processes which accelerate and simplify the submission of Pegasus workflows for
+scientists and researchers. Workflows are organized sequences of well defined tasks which are
+carried out to fulfill a certain desirable outcome, and are used across all industries to facilitate
+processes that would otherwise be complicated and time-consuming. In essence, the creation of
+workflows greatly contributes to the efficiency (automation) and reliability (reproducibility)
+of a research or business model because it eliminates the hassle associated with manual input.&lt;/p&gt;
+
+&lt;p&gt;With the speed at which technology is advancing, automation has become a priority for researchers.
+Though scientists are supplied with increasing amounts of data, that also can lead to a harder time
+organizing these resources into useful systems. Fortunately, automation has the ability to assist the
+research process by saving large amounts of time and energy.&lt;/p&gt;
+
+&lt;p&gt;“New developments in infrastructure and tools always make me think how we can best use them to improve
+the way scientists access the computing resources available to them,” Papadimitriou said.&lt;/p&gt;
+
+&lt;p&gt;Papadimitriou’s research was inspired by the success of the Kubernetes cluster, a system created to
+automate various services for an application that would otherwise be tedious to manage manually.&lt;/p&gt;
+
+&lt;p&gt;“When I read about Kubernetes and the capabilities built in by the OLCF [Oak Ridge Leadership Computing Facility]
+administrators, I realized the importance of the automation offered by the Kubernetes cluster and
+the impact it will have on Pegasus workflow environments and scientists at OLCF,” Papadimitriou remarks.&lt;/p&gt;
+
+&lt;p&gt;Building upon the automation features of the Kubernetes cluster, Papadimitriou and his team sought
+to create a solution that can be easily adopted by scientists at the OLCF, as well as by the general public.
+After all, we could all benefit from a little bit of automation for our more mundane tasks.&lt;/p&gt;
+
+&lt;p&gt;Since the award, Papadimitriou has been keeping busy by expanding this research project towards
+large scale data processing and analysis, all while preparing for his PhD qualification exam.
+As for now, Papadimitriou’s award-winning research is currently available for use at GitHub for those who have access to OLCF.&lt;/p&gt;
+
+&lt;p&gt;As more scientists adopt the workflow submit nodes which Papadimitriou and his team have
+created, research can become a much smoother process.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;strong&gt;Source:&lt;/strong&gt; &lt;a href=&quot;https://www3.isi.edu/news/story/428&quot;&gt;ISI News&lt;/a&gt; (Rene Van Steenbergen)&lt;/p&gt;</content><author><name></name></author><category term="award" /><summary type="html">At the Practice &amp;amp; Experience in Advanced Research Computing (PEARC) conference, which took place from July 26-30, ISI graduate assistant George Papadimitriou won the Best Student Paper Award for his research on Pegasus workflow submission nodes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/papadimi-award.png" /><media:content medium="image" url="/images/news/papadimi-award.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seminar: Scheduling and Memory Management for Large-Scale Applications: From Caches to Burst Buffers</title><link href="/blog/seminar-loic/" rel="alternate" type="text/html" title="Seminar: Scheduling and Memory Management for Large-Scale Applications: From Caches to Burst Buffers" /><published>2020-02-22T00:00:00+00:00</published><updated>2020-02-22T00:00:00+00:00</updated><id>/blog/seminar-loic</id><content type="html" xml:base="/blog/seminar-loic/">&lt;p&gt;This talk explores scheduling problems in the context of large-scale applications 
+from a memory perspective. We focus here on two very different levels of memory 
+in the hierarchy: caches and burst buffers.With the recent advent of many-core 
+architectures such as chip multiprocessors (CMP), the number of processing units 
+is increasing. In this context, the benefits of concurrent scheduling techniques 
+have been demonstrated. But sharing resources often generates interferences. With 
+the arising number of processing units accessing to the same last-level cache, 
+those interferences among co-scheduled applications becomes critical. This talk 
+provides some theoretical models and practical experiments showing how to mitigate 
+these interferences. One recent development in HPC platforms, in a view to reducing 
+the gap between compute and I/O performance, is the adoption of intermediate storage 
+layers known as burst buffers. A burst buffer is fast storage positioned between 
+the global parallel file system and the compute nodes. In a second part of this 
+talk, we investigate the different performance trade-offs arising from using burst 
+buffers to accelerate scientific workflows. This talk finally discusses the 
+difficulty of predicting I/O performance when using burst buffers and how to 
+accurately simulate workflow executions on burst buffers.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;When:&lt;/strong&gt; Monday, March 02, 2020, 11:00am – 12:00pm PST&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Where:&lt;/strong&gt; MDR #689 Conference Room&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;This event is open to the public.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Type:&lt;/strong&gt; Scientific Computing Seminar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Speaker: Loic Pottier, Postdoctoral Scholar, University of Southern California&lt;/p&gt;
+
+&lt;h2 id=&quot;bio&quot;&gt;Bio:&lt;/h2&gt;
+
+&lt;p&gt;Loic is currently a Postdoctoral Scholar at the &lt;a href=&quot;https://viterbischool.usc.edu/&quot;&gt;University of Southern California&lt;/a&gt; 
+in Los Angeles. He’s part of the &lt;a href=&quot;https://scitech.isi.edu/&quot;&gt;Science Automation Technologies&lt;/a&gt; 
+group led by &lt;a href=&quot;https://deelman.isi.edu/&quot;&gt;Dr Ewa Deelman&lt;/a&gt; where he’s working on 
+scientific workflows management on large-scale cyber-infrastructures.
+He defended his PhD in Computer Science at École Normale Supérieure (ENS Lyon), France, 
+in 2018, under the supervision of &lt;a href=&quot;http://graal.ens-lyon.fr/~abenoit&quot;&gt;Anne Benoit&lt;/a&gt; and 
+&lt;a href=&quot;http://graal.ens-lyon.fr/~yrobert/&quot;&gt;Yves Robert&lt;/a&gt;. Loic was part of the team 
+&lt;a href=&quot;http://www.ens-lyon.fr/LIP/ROMA/&quot;&gt;ROMA&lt;/a&gt; at the &lt;a href=&quot;http://www.ens-lyon.fr/LIP/web-n/&quot;&gt;LIP&lt;/a&gt;.
+He was mainly working on co-scheduling algorithms for large-scale applications. He 
+was also working on scheduling and data management problems on the new many-core 
+architectures.&lt;/p&gt;</content><author><name></name></author><category term="seminar" /><summary type="html">This talk explores scheduling problems in the context of large-scale applications from a memory perspective. We focus here on two very different levels of memory in the hierarchy: caches and burst buffers.With the recent advent of many-core architectures such as chip multiprocessors (CMP), the number of processing units is increasing. In this context, the benefits of concurrent scheduling techniques have been demonstrated. But sharing resources often generates interferences. With the arising number of processing units accessing to the same last-level cache, those interferences among co-scheduled applications becomes critical. This talk provides some theoretical models and practical experiments showing how to mitigate these interferences. One recent development in HPC platforms, in a view to reducing the gap between compute and I/O performance, is the adoption of intermediate storage layers known as burst buffers. A burst buffer is fast storage positioned between the global parallel file system and the compute nodes. In a second part of this talk, we investigate the different performance trade-offs arising from using burst buffers to accelerate scientific workflows. This talk finally discusses the difficulty of predicting I/O performance when using burst buffers and how to accurately simulate workflow executions on burst buffers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/loic-seminar.png" /><media:content medium="image" url="/images/news/loic-seminar.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seminar: Distribute High Throughput Computing at Work, an OSG Status Report</title><link href="/blog/seminar-miron/" rel="alternate" type="text/html" title="Seminar: Distribute High Throughput Computing at Work, an OSG Status Report" /><published>2020-02-10T00:00:00+00:00</published><updated>2020-02-10T00:00:00+00:00</updated><id>/blog/seminar-miron</id><content type="html" xml:base="/blog/seminar-miron/">&lt;p&gt;For more than 15 years, the Open Science Grid (OSG) has been offering the science 
+community a fabric of distributed High Throughput Computing (dHTC) services. In 
+close collaboration with science and campus communities as well as resource and 
+software providers, the OSG has been enhancing the computational throughput of a 
+wide spectrum of research effort – from single investigator groups to the largest 
+science endeavors. As the role High Throughput Computing (HTC) plays in scientific 
+discovery is rapidly expending and the research computing landscape is evolving, 
+the OSG distributed services have to adapt and expend. We will review the principals 
+and software technologies that underpin these services and will discuss current 
+development and implementation efforts. These include among others capability based 
+access control and automation of resource provisioning.&lt;/p&gt;
+
+&lt;p&gt;When:Thursday, February 06, 2020, 11:00am – 12:00pm PST&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Where:&lt;/strong&gt; MDR #689 Conference Room&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;This event is open to the public.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Type:&lt;/strong&gt; Scientific Computing Seminar&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Speaker:&lt;/strong&gt; Miron Livny, HTCondor Project, University of Wisconsin Madison&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href=&quot;https://scitech.isi.edu/wordpress/wp-content/uploads/2020/02/2020-02-06-scitech-seminar-miron-livny.pdf&quot;&gt;2020-02-06-scitech-seminar-miron-livny&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Video Recording:&lt;/strong&gt; &lt;a href=&quot;https://youtu.be/9qUoUqIcheQ&quot;&gt;https://youtu.be/9qUoUqIcheQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bio&quot;&gt;Bio:&lt;/h2&gt;
+
+&lt;p&gt;Miron Livny received a B.Sc. degree in Physics and Mathematics in 1975 from the Hebrew University and M.Sc. and Ph.D. degrees in Computer Science from the Weizmann Institute of Science in 1978 and 1984, respectively. Since 1983 he has been on the Computer Sciences Department faculty at the University of Wisconsin-Madison, where he is currently the John P. Morgridge Professor of Computer Science, the director of the Center for High Throughput Computing (CHTC), is leading the HTCondor project and serves as the principal investigator and technical director of the Open Science Grid (OSG). He is a member of the scientific leadership team of the Morgridge Institute of Research where he is leading the Software Assurance Market Place (SWAMP) project and is serving as the Chief Technology Officer of the Wisconsin Institutes of Discovery.&lt;/p&gt;
+
+&lt;p&gt;Dr. Livny’s research focuses on distributed processing and data management systems and involves close collaboration with researchers from a wide spectrum of disciplines. He pioneered the area of High Throughput Computing (HTC) and developed frameworks and software tools that have been widely adopted by academic and commercial organizations around the world.&lt;/p&gt;
+
+&lt;iframe width=&quot;600&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/9qUoUqIcheQ&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/2020-02-06-scitech-seminar-miron-livny-1-1024x768.jpg&quot; alt=&quot;image-title-here&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="seminar" /><summary type="html">For more than 15 years, the Open Science Grid (OSG) has been offering the science community a fabric of distributed High Throughput Computing (dHTC) services. In close collaboration with science and campus communities as well as resource and software providers, the OSG has been enhancing the computational throughput of a wide spectrum of research effort – from single investigator groups to the largest science endeavors. As the role High Throughput Computing (HTC) plays in scientific discovery is rapidly expending and the research computing landscape is evolving, the OSG distributed services have to adapt and expend. We will review the principals and software technologies that underpin these services and will discuss current development and implementation efforts. These include among others capability based access control and automation of resource provisioning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/miron-seminar.png" /><media:content medium="image" url="/images/news/miron-seminar.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seminar: defoe: A Spark-based Toolbox for Analysing Digital Historical Textual Data</title><link href="/blog/seminar-rosa/" rel="alternate" type="text/html" title="Seminar: defoe: A Spark-based Toolbox for Analysing Digital Historical Textual Data" /><published>2019-10-03T00:00:00+00:00</published><updated>2019-10-03T00:00:00+00:00</updated><id>/blog/seminar-rosa</id><content type="html" xml:base="/blog/seminar-rosa/">&lt;p&gt;In this talk will present defoe, a new scalable and portable digital toolbox that enables historical research. It allows for extracting knowledge from historical data by running text analyses across large digital collections, such as historical newspapers and books in parallel. It offers a rich set of text mining queries, which have been defined by humanities researchers. We have included NLP prepossessing techniques to mitigate against OCR errors and standardise the textual data. We have tested defoe using six different large-scale historical text datasets and three HPC environments, as well as on desktops.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 4, 2019&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 11am PT / 2pm ET&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; 6th floor large Conference Room #689, Information Sciences Institute, Marina del Rey, CA, USA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bio&quot;&gt;Bio&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.rosafilgueira.com/&quot;&gt;Rosa Filgueira&lt;/a&gt; is a research fellow at EPCC (University of Edinburgh), working in several national and international funded projects. Before that, she was working as a Senior Data Scientist at the British Geological Survey,  as a Senior Research Associate at the Data Intensive Research Group of the University Edinburgh and as a Research and Teaching Assistant at the Computer Architecture Group of University Carlos III Madrid. Her research is concerned with two closely topics. The first one is to develop adaptive communication techniques which optimise the data movement for data-intensive applications at different HPC levels. The second one is to facilitate the development of scientific workflows/application that can by run in many HPC environments while hiding the complexity to the users.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/IMG_4137-1024x768.jpg&quot; alt=&quot;image-title-here&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="seminar" /><summary type="html">In this talk will present defoe, a new scalable and portable digital toolbox that enables historical research. It allows for extracting knowledge from historical data by running text analyses across large digital collections, such as historical newspapers and books in parallel. It offers a rich set of text mining queries, which have been defined by humanities researchers. We have included NLP prepossessing techniques to mitigate against OCR errors and standardise the textual data. We have tested defoe using six different large-scale historical text datasets and three HPC environments, as well as on desktops.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/rosa-seminar.png" /><media:content medium="image" url="/images/news/rosa-seminar.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seminar: The Cyberinfrastructure of Gravitational-wave Astronomy and March towards LIGO Open Data</title><link href="/blog/seminar-duncan/" rel="alternate" type="text/html" title="Seminar: The Cyberinfrastructure of Gravitational-wave Astronomy and March towards LIGO Open Data" /><published>2019-06-04T00:00:00+00:00</published><updated>2019-06-04T00:00:00+00:00</updated><id>/blog/seminar-duncan</id><content type="html" xml:base="/blog/seminar-duncan/">&lt;p&gt;&lt;img src=&quot;/images/news/Screen-Shot-2019-06-04-at-3.31.19-PM.png&quot; alt=&quot;image-title-here&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Artist’s illustration of two merging neutron stars. The rippling space-time grid represents gravitational waves that travel out from the collision, while the narrow beams show the bursts of gamma rays that are shot out just seconds after the gravitational waves. (NSF/LIGO/Sonoma State University/A. Simonnet)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The discovery of gravitational waves by LIGO and Virgo has been a revolution event in astronomy and physics. In this talk, I will discuss some of the cyberinfrastructure that is used to explore the universe with gravitational waves, including: the use of large-scale workflows planned by Pegasus and executed using HTCondor; authentication and authorization with SciTokens; use of the Open Science Grid and XSEDE for analysis; and data distribution using CVMFS and StashCache.&lt;/p&gt;
+
+&lt;p&gt;The talk will also focus, on recent work done to make LIGO data and analysis available to the scientific community outside of LIGO facilitating reproducibility of LIGO discoveries.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; June 7, 2019&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 11am PT / 2pm ET&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; 6th floor large Conference Room #689, Information Sciences Institute, Marina del Rey, CA, USA&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; http://scitech.isi.edu/presentations/2019/duncan_scitech_20190607.pdf&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bio&quot;&gt;Bio&lt;/h2&gt;
+
+&lt;p&gt;A world-renowned expert in gravitational-wave astronomy and astrophysics, Duncan Brown has been a faculty member at Syracuse University since 2007. He is the inaugural Charles Brightman Professor of Physics in the College of Arts and Sciences, and played a leading role in the Laser Interferometer Gravitational-Wave Observatory (LIGO)’s historic detections of gravitational waves from black holes and neutron stars. Brown is an authority on finding gravitational waves with LIGO and then extracting the physics from these observations. He is an expert in the use of high-throughput and high-performance computing for LIGO data analysis, and led LIGO’s effort to engage with the Open Science Grid (OSG) and XSEDE. In addition to his astrophysics collaborations, he has long-standing collaborations with computer scientists from the HTCondor, Pegasus, and OSG teams. With his LIGO collaborators he shared the 2016 Breakthrough Prize in Fundamental Physics, and the Gruber Cosmology prize for the discovery of gravitational waves. A fellow of the American Physical Society and Kavli Foundation, Brown has received a Cottrell Scholar Award from the Research Corporation for Science Advancement, a CAREER Award from NSF and a Meredith Professor Teaching Recognition Award from Syracuse. He is the author of over 180 peer-reviewed journal publications and his research activities have brought over $8 million of external funding for Syracuse University. Brown earned a Ph.D. from the University of Wisconsin-Milwaukee. He joined the Syracuse faculty after working as a postdoctoral research associate with Barry Barish and Kip Thorne at Caltech.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;8d38658ea1dd4dd49ff585f5238007b1&quot; data-ratio=&quot;1.77777777777778&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/Screen-Shot-2019-06-13-at-4.10.58-PM-768x504.png&quot; alt=&quot;image-title-here&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="seminar" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/duncan-seminar.png" /><media:content medium="image" url="/images/news/duncan-seminar.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seminar: Co-scheduling for large-scale applications: memory and resilience</title><link href="/blog/seminar-loic-postdoc/" rel="alternate" type="text/html" title="Seminar: Co-scheduling for large-scale applications: memory and resilience" /><published>2019-05-28T00:00:00+00:00</published><updated>2019-05-28T00:00:00+00:00</updated><id>/blog/seminar-loic-postdoc</id><content type="html" xml:base="/blog/seminar-loic-postdoc/">&lt;p&gt;This talk explores co-scheduling problems in the context of large-scale applications with two main focus: the memory side, in particular the cache memory and the resilience side. With the recent advent of many-core architectures such as chip multiprocessors (CMP), the number of processing units is increasing. In this context, the benefits of co-scheduling techniques have been demonstrated. Recall that, the main idea behind co-scheduling is to execute applications concurrently rather than in sequence in order to improve the global throughput of the platform. But sharing resources often generates interferences. With the arising number of processing units accessing to the same last-level cache, those interferences among co-scheduled applications becomes critical. In addition, with that increasing number of processors the probability of a failure increases too. Resiliency aspects must be taking into account, specially for co-scheduling because failure-prone resources might be shared between applications.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; May 28, 2019&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 1pm PT / 4pm ET&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; 6th floor large Conference Room #689, Information Sciences Institute, Marina del Rey, CA, USA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bio&quot;&gt;Bio:&lt;/h2&gt;
+
+&lt;p&gt;Dr. Loïc Pottier is a Postdoctoral Scholar – Research Associate in the Science Automation Technologies group at the USC Information Sciences Institute. Dr. Loïc Pottier received his PhD in Computer Science from ENS de Lyon, France, in 2018.His research interests include scheduling and performance models for HPC systems, scientific worflows management and parallel algorithms in general.&lt;/p&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-id=&quot;67ed83cfa4e84074b49d178222fef03b&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/UNADJUSTEDNONRAW_thumb_11aef.jpg&quot; alt=&quot;image-title-here&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="seminar" /><summary type="html">This talk explores co-scheduling problems in the context of large-scale applications with two main focus: the memory side, in particular the cache memory and the resilience side. With the recent advent of many-core architectures such as chip multiprocessors (CMP), the number of processing units is increasing. In this context, the benefits of co-scheduling techniques have been demonstrated. Recall that, the main idea behind co-scheduling is to execute applications concurrently rather than in sequence in order to improve the global throughput of the platform. But sharing resources often generates interferences. With the arising number of processing units accessing to the same last-level cache, those interferences among co-scheduled applications becomes critical. In addition, with that increasing number of processors the probability of a failure increases too. Resiliency aspects must be taking into account, specially for co-scheduling because failure-prone resources might be shared between applications.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/loic-seminar-2.png" /><media:content medium="image" url="/images/news/loic-seminar-2.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Contributions of two SciTech’s DARPA-funded projects featured in the DARPA 60th Anniversary Digital Magazine</title><link href="/blog/darpa-race-mint/" rel="alternate" type="text/html" title="Contributions of two SciTech’s DARPA-funded projects featured in the DARPA 60th Anniversary Digital Magazine" /><published>2018-11-03T00:00:00+00:00</published><updated>2018-11-03T00:00:00+00:00</updated><id>/blog/darpa-race-mint</id><content type="html" xml:base="/blog/darpa-race-mint/">&lt;p&gt;For the past 3 years the SciTech research group (led by Dr. Ewa Deelman) has enabled 
+research endeavors via two DARPA-funded projects: RACE and MINT. 
+The &lt;a href=&quot;http://race.crc.nd.edu/&quot;&gt;RACE&lt;/a&gt; (Repository and Workflows for Accelerating Circuit 
+Realization) project is part of the DARPA CRAFT program, which seeks to develop new 
+fast-track circuit-design methods, multiple sources for integrated circuit fabrication, 
+and a technology repository delivered by RACE team, that will facilitate reuse of proven 
+solutions. The &lt;a href=&quot;http://mint-project.info/&quot;&gt;MINT&lt;/a&gt; (Model Integration through Knowledge-Rich 
+Data and Process Composition) project is part of the DARPA World Modelers program, and 
+targets the development of a framework that incorporates extensive knowledge about models 
+and data, which will combine existing models from various disciplines-including hydrology, 
+agriculture, economics and social sciences-and run simulations to predict the consequences 
+of actions or policies in specific geographic regions.&lt;/p&gt;
+
+&lt;p&gt;The contributions of these projects to both the DARPA’s CRAFT and World Modelers programs have been featured in the DARPA 60th Anniversary Digital Magazine:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Circuit Realization at Faster Timescales (CRAFT) program was conceived to explore solutions to this problem through the use of automated generators to rapidly create new circuits and accelerate the design cycle. Recently, researchers in the CRAFT program demonstrated a design flow that leveraged automated generators to produce digital circuits seven times faster than that achieved by traditional methods. Put in another way, these tools enabled small design teams to be just as productive as teams seven times their size.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;DARPA’s World Modelers program intend to support people in assembling large, complicated workflows of many models in order to more quickly gain insight into problems such as food and energy insecurity.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;iframe style=&quot;width: 100%; height: 600px;&quot; src=&quot;//e.issuu.com/embed.html#23813436/64326881&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="highlight" /><summary type="html">For the past 3 years the SciTech research group (led by Dr. Ewa Deelman) has enabled research endeavors via two DARPA-funded projects: RACE and MINT. The RACE (Repository and Workflows for Accelerating Circuit Realization) project is part of the DARPA CRAFT program, which seeks to develop new fast-track circuit-design methods, multiple sources for integrated circuit fabrication, and a technology repository delivered by RACE team, that will facilitate reuse of proven solutions. The MINT (Model Integration through Knowledge-Rich Data and Process Composition) project is part of the DARPA World Modelers program, and targets the development of a framework that incorporates extensive knowledge about models and data, which will combine existing models from various disciplines-including hydrology, agriculture, economics and social sciences-and run simulations to predict the consequences of actions or policies in specific geographic regions.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/darpa-60.png" /><media:content medium="image" url="/images/news/darpa-60.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seminar: Checkpointing Workflows for Fail-Stop Error</title><link href="/blog/seminar-casanova/" rel="alternate" type="text/html" title="Seminar: Checkpointing Workflows for Fail-Stop Error" /><published>2018-10-17T00:00:00+00:00</published><updated>2018-10-17T00:00:00+00:00</updated><id>/blog/seminar-casanova</id><content type="html" xml:base="/blog/seminar-casanova/">&lt;p&gt;We consider the problem of orchestrating the execution of workflow applications structured as Directed Acyclic Graphs (DAGs) on parallel computing platforms that are subject to fail-stop failures. The objective is to minimize expected overall execution time, or makespan. A solution to this problem consists of a schedule of the workflow tasks on the available processors and of a decision of which application data to checkpoint to stable storage, so as to mitigate the impact of processor failures. To compute a solution, we consider a restricted class of graphs, Minimal Series-Parallel Graphs (GSPGs), which is relevant to many real-world workflow applications. For this class of graphs, we propose a recursive list-scheduling algorithm that exploits the GSPG structure to assign sub-graphs to individual processors, and uses dynamic programming to decide how to checkpoint these sub-graphs. We assess the performance of our algorithm for production workflow configurations, comparing it to an approach in which all application data is checkpointed and an approach in which no application data is checkpointed. Results demonstrate that our algorithm outperforms both the former approach, because of lower checkpointing overhead, and the latter approach, because of better resilience to failures.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 8, 2018&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; 11am PT / 2pm ET&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Location:&lt;/strong&gt; 6th floor large Conference Room #689, Information Sciences Institute, Marina del Rey, CA, USA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bio&quot;&gt;Bio&lt;/h2&gt;
+
+&lt;p&gt;Dr. Henri Casanova is a Professor in the Information and Computer Sciences Dept. at the University of Hawai`i at Manoa. His research is in the area of high performance computing, and in particular the scheduling and the simulation of parallel and distributed applications. He obtained his B.S. from the École Nationale Supérieure d’Électronique, d’Électrotechnique, d’Informatique et d’Hydraulique de Toulouse, France in 1993, his M.S. from Université Paul Sabatier, Toulouse, France in 1994, and his Ph.D. from the University of Tennessee, Knoxville in 1998.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/news/IMG_1289-1024x768.jpg&quot; alt=&quot;image-title-here&quot; width=&quot;600px&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="seminar" /><summary type="html">We consider the problem of orchestrating the execution of workflow applications structured as Directed Acyclic Graphs (DAGs) on parallel computing platforms that are subject to fail-stop failures. The objective is to minimize expected overall execution time, or makespan. A solution to this problem consists of a schedule of the workflow tasks on the available processors and of a decision of which application data to checkpoint to stable storage, so as to mitigate the impact of processor failures. To compute a solution, we consider a restricted class of graphs, Minimal Series-Parallel Graphs (GSPGs), which is relevant to many real-world workflow applications. For this class of graphs, we propose a recursive list-scheduling algorithm that exploits the GSPG structure to assign sub-graphs to individual processors, and uses dynamic programming to decide how to checkpoint these sub-graphs. We assess the performance of our algorithm for production workflow configurations, comparing it to an approach in which all application data is checkpointed and an approach in which no application data is checkpointed. Results demonstrate that our algorithm outperforms both the former approach, because of lower checkpointing overhead, and the latter approach, because of better resilience to failures.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/news/henri-seminar.png" /><media:content medium="image" url="/images/news/henri-seminar.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
