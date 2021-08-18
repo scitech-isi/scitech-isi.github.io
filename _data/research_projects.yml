@@ -84,14 +84,41 @@
   award: 1839900
   active: true
 
+- title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
+  description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
+  image: wrench.png
+  funding: NSF
+  website: https://wrench-project.org/
+  twitter: wrenchproject
+  award: 2103508
+  active: true
+  colors:
+    r: 224
+    g: 110
+    b: 56
+    
+- title: 'eduWRENCH: Integrating core CI literacy and skills into university curricula via simulation-driven activities'
+  description: eduWRENCH provides a set of pedagogic modules that includes simulation-driven activities for students to experience relevant application and platform scenarios hands-on.
+  image: wrench.png
+  funding: NSF
+  website: https://eduwrench.org
+  twitter: wrenchproject
+  award: 1923539
+  active: true
+  colors:
+    r: 224
+    g: 110
+    b: 56
+    
 - title: 'WRENCH: Workflow Simulation Workbench'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
   image: wrench.png
   funding: NSF
-  website: http://wrench-project.org/
+  website: https://wrench-project.org/
   twitter: wrenchproject
-  award: 1923539
-  active: true
+  award: 1642335
+  period: 2017-2019
+  active: false
   colors:
     r: 224
     g: 110
