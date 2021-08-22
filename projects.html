@@ -88,7 +88,15 @@ permalink: /projects
                 {% endif %}
             </div>
             <div class="content">
-                {{ project.funding }}{% if project.award %} {{ project.award}}{% endif %} – {{ project.period }}<br/>
+                {% if project.twitter %}
+                <a href="https://twitter.com/{{ project.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;
+                {% endif %}
+                {% if project.youtube %}
+                <a href="{{ project.youtube }}" target="_blank"><i class="fab fa-youtube"></i></a>&nbsp;&nbsp;
+                {% endif %}
+                {{ project.funding }}{% if project.award %} {{ project.award}}{% endif %} – {{ project.period }}
+            </div>
+            <div class="social">
             </div>
         </div>
         {% endfor %}

@@ -1,17 +1,17 @@
-- title: 'CI CoE: Pilot Study for a Cyberinfrastructure Center of Excellence'
-  description: CI CoE provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depends.
-  image: cicoe.png
+- title: 'CI CoE: CI Compass: An NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle'
+  description: CI Compass provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend.
+  image: cicompass.jpg
   funding: NSF
-  website: https://cicoe-pilot.org
-  twitter: ci_coe
+  website: https://ci-compass.org
+  twitter: CiCompass
   youtube: https://www.youtube.com/channel/UCMSTXbSRTiZSVxSiQHFsvGw
-  award: 1842042
+  award: 2127548
   active: true
   featured: true
   colors:
-    r: 76
-    g: 175
-    b: 80
+    r: 18
+    g: 34
+    b: 62
 
 - title: 'Pegasus: Automating Compute and Data Intensive Science'
   description: The Pegasus project encompasses a set of technologies that help workflow-based applications execute in a number of different environments including desktops, campus clusters, grids, and clouds. Pegasus bridges the scientific domain and the execution environment by automatically mapping high-level workflow descriptions onto distributed resources.
@@ -27,6 +27,21 @@
     g: 154
     b: 152
 
+- title: 'CI CoE: Pilot Study for a Cyberinfrastructure Center of Excellence'
+  description: CI CoE provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depends.
+  image: cicoe.png
+  funding: NSF
+  website: https://cicoe-pilot.org
+  twitter: ci_coe
+  youtube: https://www.youtube.com/channel/UCMSTXbSRTiZSVxSiQHFsvGw
+  award: 1842042
+  active: true
+  featured: false
+  colors:
+    r: 76
+    g: 175
+    b: 80
+
 - title: 'Panorama 360: Performance Data Capture and Analysis for End-to-end Scientific Workflows'
   description: Provide a resource for the collection, analysis, and sharing of performance data about end-to-end scientific workflows executing on DOE facilities.
   image: panorama.png
@@ -35,18 +50,6 @@
   award: DE-SC0012636M
   active: true
   featured: true
-
-- title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
-  description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
-  image: analytics4md.png
-  funding: NSF
-  website: https://analytics4md.org
-  award: 1741040
-  active: true
-  colors:
-    r: 216
-    g: 76
-    b: 39
 
 - title: 'CI4Resilience: Leveraging Advanced Cyberinfrastructure and Developing Organizational Resilience for NSF Large Facilities in the Pandemic Era'
   description: 'This study comprises three main research questions related to NSF large facilities and CI during the pandemic: (a) What types of research activities remain "business as usual" and what types of activities must adapt or stop completely under pandemic conditions (b) If facilities could turn back time, what would they have done to better prepare, dnd (c) What lessons are facilities learning from the current disruptions, and how can these be best disseminated to the facility, CI, and research communities?'
@@ -59,6 +62,20 @@
     r: 92
     g: 167
     b: 194
+
+- title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
+  description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
+  image: wrench.png
+  funding: NSF
+  website: https://wrench-project.org/
+  twitter: wrenchproject
+  award: 2103508
+  active: true
+  featured: true
+  colors:
+    r: 224
+    g: 110
+    b: 56
 
 - title: 'FlyNet: An On-the-fly Deeply Programmable End-to-end Network-Centric Platform for Edge-to-Core Workflows'
   description: This project will provide an architecture and tools that will enable scientists to include edge computing devices in their computational workflows. This capability is critical for low latency and ultra-low latency applications like drone video analytics and route planning for drones.
@@ -83,19 +100,6 @@
   website: http://nrig.renci.org/project/iris-integrity-introspection-for-scientific-workflows/
   award: 1839900
   active: true
-
-- title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
-  description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
-  image: wrench.png
-  funding: NSF
-  website: https://wrench-project.org/
-  twitter: wrenchproject
-  award: 2103508
-  active: true
-  colors:
-    r: 224
-    g: 110
-    b: 56
     
 - title: 'eduWRENCH: Integrating core CI literacy and skills into university curricula via simulation-driven activities'
   description: eduWRENCH provides a set of pedagogic modules that includes simulation-driven activities for students to experience relevant application and platform scenarios hands-on.
@@ -109,20 +113,29 @@
     r: 224
     g: 110
     b: 56
-    
-- title: 'WRENCH: Workflow Simulation Workbench'
-  description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
-  image: wrench.png
+
+- title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
+  description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
+  image: analytics4md.png
   funding: NSF
-  website: https://wrench-project.org/
-  twitter: wrenchproject
-  award: 1642335
-  period: 2017-2019
-  active: false
+  website: https://analytics4md.org
+  award: 1741040
+  active: true
   colors:
-    r: 224
-    g: 110
-    b: 56
+    r: 216
+    g: 76
+    b: 39
+
+- title: 'VisDict - Visual Dictionaries for Enhancing the Communication between Domain Scientists and Scientific Workflow Providers'
+  description: The main goal for VisDict is to create an intuitive visual dictionary that translates terms and concepts between research domains and computer science, specifically computational workflows.
+  funding: NSF
+  award: 2100636
+  active: true
+  featured: false
+  colors:
+    r: 0
+    g: 0
+    b: 0
 
 - title: 'RobustScience: A Community Roadmap to Robust Science in High-throughput Applications'
   description: The project recruits a cross-disciplinary community working together in three virtual mini-workshops called virtual world cafes to define, design, implement, and use a set of solutions for robust science.
@@ -144,8 +157,9 @@
   website: https://workflowsri.org
   youtube: https://www.youtube.com/channel/UCqCnXqWqKe9vF6cqKOj1CYw
   award: 2016619
-  active: true
-  featured: true
+  active: false
+  featured: false
+  period: 2020-2021
   colors:
     r: 0
     g: 0
@@ -163,6 +177,20 @@
   award: 1941443
   active: false
   period: 2019-2021
+
+- title: 'WRENCH: Workflow Simulation Workbench'
+  description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
+  image: wrench.png
+  funding: NSF
+  website: https://wrench-project.org/
+  twitter: wrenchproject
+  award: 1642335
+  period: 2017-2019
+  active: false
+  colors:
+    r: 224
+    g: 110
+    b: 56
 
 - title: 'V-RAM: TSS Vulnerability-Risk Assessment & Mitigation'
   description: The goal of this project is to enable researchers and design experts to expand the state-of-the art in ASIC design through novel cyberinfrastructure and workflow tools that accelerate every phase of discovery, creation, adoption, and use by linking and computing around a repository of user-generated data, including new tools, new IP blocks/libraries, new design flows, training modules, and experience-base documenting best practices to adopt (and pitfalls to avoid).

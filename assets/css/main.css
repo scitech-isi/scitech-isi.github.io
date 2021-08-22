@@ -3839,7 +3839,7 @@ body.is-menu-visible #menu {
 }
 
 .past-project .logo img {
-    border-radius: 50%;
+    border-radius: 0.5em;
     max-width: 3em;
     max-height: 3em;
     min-width: 3em;
@@ -3861,6 +3861,11 @@ body.is-menu-visible #menu {
 .past-project .content {
     font-size: 0.8em;
     color: #999;
+}
+
+.past-project .content a {
+    text-decoration: none;
+    border-bottom: 0;
 }
 
 .featured-project {
