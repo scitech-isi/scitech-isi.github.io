@@ -43,7 +43,7 @@
 
 - name: Ryan Tanaka
   degree: M.S.
-  position: Programmer Analyst II
+  position: Research Programmer I
   linkedin: https://www.linkedin.com/in/ryan-tanaka/
   photo: tanaka.jpg
 
@@ -86,6 +86,7 @@
 - name: Srujana Subramanya
   position: Student Worker (M.S.)
   photo: subramanya.jpg
+  alumni: true
 
 - name: Raghavendra Vedula
   position: Student Worker (M.S.)
@@ -102,12 +103,17 @@
   photo: nagarkar.jpg
 
 - name: Rebecca White
-  position: Intern (B.S.)
+  position: Student Worker (B.S.)
   photo: white.jpg
+
+- name: Sai Charan Viswanath
+  position: Student Worker (M.S.)
+  photo: viswanath.jpg
 
 - name: Kelsie Lam
   position: Intern (H.S.)
   photo: lam.jpg
+  alumni: True
 
 - name: Gokul Muddarla
   position: Student Worker (M.S.)
