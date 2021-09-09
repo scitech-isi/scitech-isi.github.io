@@ -1,3 +1,31 @@
+- title: Enabling Efficient Execution of In Situ Workflows
+  author: Tu Mai Anh Do
+  description: The University of Tennessee, Knoxville Seminar
+  month: September
+  year: 2021
+  file: do-utk-seminar-2021.pdf
+
+- title: Assessing Resource Provisioning and Allocation of Ensembles of In Situ Workflows
+  author: Tu Mai Anh Do
+  description: International Workshop on Parallel Programming Models and Systems Software for High-End Computing (P2S2). ICPP'21. Virtual conference
+  month: August
+  year: 2021
+  file: do-p2s2-2021.pdf
+
+- title: Anomaly Detection in Scientific Workflows using End-to-End Execution Gantt Charts and Convolutional Neural Networks
+  author: Patrycja Krawczuk, George Papadimitriou
+  description: PEARC'21, Virtual Conference
+  month: July
+  year: 2021
+  file: krawczuk-pearc21.pdf
+
+- title: Pegasus 5.0 and Pegasus Ensemble Manager
+  author: Karan Vahi
+  description: HTCondor Week 2021, Virtual Event
+  month: May
+  year: 2021
+  file: vahi-cw2021-pegasus5.pdf
+
 - title: Pegasus Workflow Management System
   author: Karan Vahi
   description: Eastern Regional Network (ERN) Architecture and Federation, Virtual Workshop
