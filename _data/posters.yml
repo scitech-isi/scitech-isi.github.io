@@ -1,3 +1,10 @@
+- title: "CrisisFlow: Multimodal Representation Learning Workflow for Crisis Computing"
+  author: Patrycja Krawczuk, Shubham Nagarkar, Ewa Deelman
+  description: eScience 2021 
+  month: September
+  year: 2021
+  file: CrisisFlow_Poster.pdf
+
 - title: "SI2-SSI: Distributed Workflow Management Research and Software in Support of Science"
   author: Ewa Deelman, Karan Vahi, Mats Rynge, Rajiv Mayani, Ryan Tanaka, Rafael Ferreira da Silva, George Papadimitriou, Tu Mai Anh Do, Miron Livny, Mark Coatsworth
   description: 2020 NSF CSSI PI Meeting, Seattle, Washington
