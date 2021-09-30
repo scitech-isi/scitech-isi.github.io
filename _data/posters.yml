@@ -1,3 +1,10 @@
+- title: "Predicting Flash Floods in the Dallas-Fort Worth Metroplex Using Workflows and Cloud Computing"
+  author: Eric Lyons, Dong-Jun Seo, Sunghee Kim, Hamideh Habibi, George Papadimitriou, Ryan Tanaka, Komal Thareja, Ewa Deelman, Michael Zink, Anirban Mandal
+  description: eScience 2021 
+  month: September
+  year: 2021
+  file: Predicting_Flash_Floods_Poster.pdf
+
 - title: "CrisisFlow: Multimodal Representation Learning Workflow for Crisis Computing"
   author: Patrycja Krawczuk, Shubham Nagarkar, Ewa Deelman
   description: eScience 2021 
