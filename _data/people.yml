@@ -8,13 +8,9 @@
   photo: deelman.jpg
 
 - name: Rafael Ferreira da Silva
-  degree: Ph.D.
-  position: Research Assistant Professor, Research Lead
-  website: https://rafaelsilva.com
-  linkedin: https://www.linkedin.com/in/rafaelfsilva
-  twitter: https://twitter.com/rafaelfsilva__
-  email: rafsilva@isi.edu
+  position: Research Assistant Professor, Research Lead (Ph.D.)
   photo: ferreiradasilva.jpg
+  alumni: true
 
 - name: Karan Vahi
   degree: M.S.
