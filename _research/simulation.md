@@ -1,7 +1,7 @@
 ---
 title: Modeling and Simulation of Distributed Computing Systems
-leader: Rafael Ferreira da Silva
-photo: ferreiradasilva.jpg
+leader: Loïc Pottier
+photo: pottier.jpg
 color: c69500
 layout: research
 order: 4
@@ -15,7 +15,8 @@ learning scenarios. By using simulation, a software artifact that mimics
 real-world executions, these challenges are obviated as the only 
 requirement is that students have access to a computer and as simulated 
 executions can target arbitrary hardware and software stack 
-configurations.
+configurations. This research effort has been initiated by 
+[Dr Rafael Ferreira da Silva](https://rafaelsilva.com/).
 
 ----
 
