@@ -7,10 +7,6 @@
   email: deelman@isi.edu
   photo: deelman.jpg
 
-- name: Rafael Ferreira da Silva
-  position: Research Assistant Professor, Research Lead (Ph.D.)
-  photo: ferreiradasilva.jpg
-  alumni: true
 
 - name: Karan Vahi
   degree: M.S.
@@ -43,13 +39,6 @@
   linkedin: https://www.linkedin.com/in/ryan-tanaka/
   photo: tanaka.jpg
 
-- name: Wendy Whitcup
-  position: Project Manager
-  email: wwhitcup@isi.edu
-  linkedin: http://linkedin.com/in/wendy-whitcup-pmp-2b41ab7
-  photo: whitcup.jpg
-  alumni: true
-
 - name: Ciji Davis
   position: Project Specialist
   linkedin: https://www.linkedin.com/in/cijidavis/
@@ -80,25 +69,10 @@
   linkedin: https://www.linkedin.com/in/tainacoleman
   photo: coleman.jpg
 
-- name: Srujana Subramanya
-  position: Student Worker (M.S.)
-  photo: subramanya.jpg
-  alumni: true
-
-- name: Raghavendra Vedula
-  position: Student Worker (M.S.)
-  photo: vedula.jpg
-  alumni: true
-
 - name: Aditi Jain
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/aditi-jain-4b08b6142
   photo: jain.jpg
-
-- name: Shubham Nagarkar
-  position: Student Worker (M.S.)
-  linkedin: https://www.linkedin.com/in/shubham-nagarkar
-  photo: nagarkar.jpg
 
 - name: Rebecca White
   position: Student Worker (B.S.)
@@ -113,6 +87,34 @@
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/seungmin-lee-7217951b1/
   photo: lee.png
+
+- name: Shubham Nagarkar
+  position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/shubham-nagarkar
+  photo: nagarkar.jpg
+  alumni: true
+
+- name: Rafael Ferreira da Silva
+  position: Research Assistant Professor, Research Lead (Ph.D.)
+  photo: ferreiradasilva.jpg
+  alumni: true
+
+- name: Wendy Whitcup
+  position: Project Manager
+  email: wwhitcup@isi.edu
+  linkedin: http://linkedin.com/in/wendy-whitcup-pmp-2b41ab7
+  photo: whitcup.jpg
+  alumni: true
+
+- name: Srujana Subramanya
+  position: Student Worker (M.S.)
+  photo: subramanya.jpg
+  alumni: true
+
+- name: Raghavendra Vedula
+  position: Student Worker (M.S.)
+  photo: vedula.jpg
+  alumni: true
 
 - name: Kelsie Lam
   position: Intern (H.S.)
