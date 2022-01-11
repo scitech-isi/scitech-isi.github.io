@@ -5,6 +5,8 @@ subtitle: "Science Automation Technologies"
 markdown: kramdown
 enable-mathjax: yes
 
+url: "https://scitech.group"
+
 permalink: /blog/:title/
 
 # scholar
