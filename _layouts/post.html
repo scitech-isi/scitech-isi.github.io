@@ -18,6 +18,8 @@ layout: default
             </div>
         </header>
 
+        {% include share-buttons.html %}
+
         <img class="image featured" src="{{site.baseurl}}{{page.image}}" alt=""/>
 
         {% if site.toc %}{% include toc.html html=content class="toc.rev.clearfix"
