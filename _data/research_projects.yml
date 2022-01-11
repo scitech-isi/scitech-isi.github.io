@@ -1,3 +1,16 @@
+- title: 'PosEiDon: Platform for Explainable Distributed Infrastructure'
+  description: 'PosEiDon aims to advance the knowledge of how simulation and machine learning (ML) methodologies can be harnessed and amplified to improve DOE’s computational and data science.'
+  image: poseidon.png
+  funding: DOE
+  website: http://poseidon-workflows.org/
+  award: DE-SC0022328
+  active: true
+  featured: true
+  colors:
+    r: 92
+    g: 167
+    b: 194
+
 - title: 'CI CoE: CI Compass: An NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle'
   description: CI Compass provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend.
   image: cicompass.jpg
@@ -48,7 +61,8 @@
   funding: DOE
   website: https://panorama360.github.io
   award: DE-SC0012636M
-  active: true
+  active: false
+  period: 2017-2021
   featured: true
 
 - title: 'CI4Resilience: Leveraging Advanced Cyberinfrastructure and Developing Organizational Resilience for NSF Large Facilities in the Pandemic Era'
