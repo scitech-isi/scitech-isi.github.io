@@ -2,7 +2,7 @@
 set -be
 
 echo "==============================================================================="
-echo " Take a .bib files containing all publications and create one file per authors"
+echo " Take a .bib file containing all publications and create one file per authors"
 echo " Warning: this script requires bibtool to work (https://ctan.org/pkg/bibtool)"
 echo "==============================================================================="
 
