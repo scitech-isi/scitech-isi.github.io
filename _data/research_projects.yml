@@ -40,6 +40,19 @@
     g: 154
     b: 152
 
+- title: 'PATh: Partnership to Advance Throughput Computing'
+  description: The Partnership to Advance Throughput Computing (PATh) is a project funded by NSF’s OAC Campus Cyberinfrastructure (CC*) program in order to address the needs of the rapidly growing community of faculty and students who are embracing Distributed High Throughput Computing (dHTC) technologies and services to advance their research. Across the science and engineering community, a growing number of single-PI groups are joining the cohort of international physical science collaborations who have depended on the dHTC paradigm for decades.
+  image: path.png
+  funding: NSF
+  website: https://path-cc.io/
+  award: 2030508
+  active: true
+  featured: false
+  colors:
+    r: 166
+    g: 69
+    b: 62
+
 - title: 'CI CoE: Pilot Study for a Cyberinfrastructure Center of Excellence'
   description: CI CoE provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depends.
   image: cicoe.png
@@ -48,7 +61,7 @@
   twitter: ci_coe
   youtube: https://www.youtube.com/channel/UCMSTXbSRTiZSVxSiQHFsvGw
   award: 1842042
-  active: true
+  active: false
   featured: false
   colors:
     r: 76
