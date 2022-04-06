@@ -33,12 +33,6 @@
   linkedin: https://www.linkedin.com/in/rajivmayani
   photo: mayani.jpg
 
-- name: Ryan Tanaka
-  degree: M.S.
-  position: Research Programmer I
-  linkedin: https://www.linkedin.com/in/ryan-tanaka/
-  photo: tanaka.jpg
-
 - name: Ciji Davis
   position: Project Specialist
   linkedin: https://www.linkedin.com/in/cijidavis/
@@ -87,6 +81,13 @@
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/seungmin-lee-7217951b1/
   photo: lee.png
+
+- name: Ryan Tanaka
+  degree: M.S.
+  position: Research Programmer I
+  linkedin: https://www.linkedin.com/in/ryan-tanaka/
+  photo: tanaka.jpg
+  alumni: true
 
 - name: Shubham Nagarkar
   position: Student Worker (M.S.)
