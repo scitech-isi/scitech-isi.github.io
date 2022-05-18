@@ -9,7 +9,7 @@ categories:
   - news
 ---
 
-# It is our pleasure to introduce our new Research Engineer Mohammad Zaiyan Alam to the SciTech team.
+# It is our pleasure to introduce our new Research Engineer Mohammad Zaiyan Alam to the SciTech team
 
 Zaiyan obtained his MS in Computer Science from USC in 2021. He is interested
 in Machine Learning, Distributed Systems and Computer Vision. Outside of research,
