@@ -31,16 +31,16 @@ Master’s in Computer Science 2021 from USC
 # What are your research interests?  
 Machine Learning, Distributed Systems and Computer Vision
 
-# Anything personal that you’d like to share (examples: Where were you born? 
-What are your hobbies? Favorite food? If you could be in the Olympics, 
-which sport would it be for? If you had a superpower, what would it be? etc.)?
+# Anything personal that you’d like to share (examples: Where were you born? What are your hobbies? Favorite food? If you could be in the Olympics, which sport would it be for? If you had a superpower, what would it be? etc.)?
 
 Calligraphy and playing soccer are my favorite hobbies. 
 If I could go to the Olympics, I would choose the 100m dash!
 
 
  
-![plots](/images/news/shubham-research-photo-2.png)
+![plots](/images/news/alam. happybirthday.png)
+![plots](/images/news/alam. harrypotter.png)
+
 
  
 
