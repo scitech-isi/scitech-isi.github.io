@@ -1,6 +1,6 @@
 ---
 title: "New Hire Spotlight: Zaiyan Alam"
-image: /images/news/alam-research.png
+image: alam.jpg
 description: "The SciTech group welcome's Zaiyan Alam"
 description: "Fall 2021 USC Computer Science Masters graduate, Zaiyan Alam tells the SciTech Group a little bit about himself"
 date: 2022-05-18
