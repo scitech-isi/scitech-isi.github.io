@@ -22,9 +22,9 @@ Welcome to the team, Zaiyan!
 
 
 
-![plots](/images/news/alam.happybirthday.png)
-![plots](/images/news/alam.harrypotter.png)
-
+![plots](/images/news/alam. happybirthday.png)
+![plots](/images/news/alam. harrypotter.png)
+ 
 
 
 
