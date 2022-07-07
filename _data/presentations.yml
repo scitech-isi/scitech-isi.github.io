@@ -1,3 +1,10 @@
+- title: Accelerating Scientific Workflows on HPC Platforms with In Situ Processing
+  author: Loïc Pottier
+  description: CCGrid talk
+  month: May
+  year: 2022
+  file: pottier-ccgrid-2022.pdf
+
 - title: Pegasus at the Edge
   author: Ryan Tanaka
   description: CHI@Edge Community Workshop. Virtual event
