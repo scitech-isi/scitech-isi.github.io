@@ -76,24 +76,10 @@
   linkedin: https://www.linkedin.com/in/tainacoleman
   photo: coleman.jpg
 
-- name: Aditi Jain
-  position: Student Worker (M.S.)
-  linkedin: https://www.linkedin.com/in/aditi-jain-4b08b6142
-  photo: jain.jpg
-
 - name: Rebecca White
   position: Student Worker (B.S.)
   linkedin: https://www.linkedin.com/in/rebecca-white-58a3a41ba
   photo: white.jpg
-
-- name: Sai Charan Viswanath
-  position: Student Worker (M.S.)
-  photo: viswanath.jpg
-
-- name: Seungmin Lee
-  position: Student Worker (M.S.)
-  linkedin: https://www.linkedin.com/in/seungmin-lee-7217951b1/
-  photo: lee.png
   
 - name: Khushi Choudhary
   position: Student Worker (B.S.)
@@ -109,6 +95,23 @@
   position: Student Worker (B.S.)
   linkedin: https://www.linkedin.com/in/nona-nersisyan-89a1441b0/
   photo: nersisyan.jpg
+
+- name: Sai Charan Viswanath
+  position: Student Worker (M.S.)
+  photo: viswanath.jpg
+  alumni: true
+
+- name: Aditi Jain
+  position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/aditi-jain-4b08b6142
+  photo: jain.jpg
+  alumni: true
+
+- name: Seungmin Lee
+  position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/seungmin-lee-7217951b1/
+  photo: lee.png
+  alumni: true
 
 - name: Ryan Tanaka
   degree: M.S.
