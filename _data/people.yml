@@ -20,13 +20,6 @@
   linkedin: https://www.linkedin.com/in/mats-rynge-23050882
   photo: rynge.jpg
 
-- name: Loïc Pottier
-  degree: Ph.D.
-  position: Computer Scientist
-  website: http://loicpottier.com
-  linkedin: https://www.linkedin.com/in/loic-pottier
-  photo: pottier.jpg
-
 - name: Rajiv Mayani
   degree: M.S.
   position: Senior Research Engineer II
@@ -95,6 +88,14 @@
   position: Student Worker (B.S.)
   linkedin: https://www.linkedin.com/in/nona-nersisyan-89a1441b0/
   photo: nersisyan.jpg
+
+- name: Loïc Pottier
+  degree: Ph.D.
+  position: Computer Scientist
+  website: http://loicpottier.com
+  linkedin: https://www.linkedin.com/in/loic-pottier
+  photo: pottier.jpg
+  alumni: true
 
 - name: Sai Charan Viswanath
   position: Student Worker (M.S.)
