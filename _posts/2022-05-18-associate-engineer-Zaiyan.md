@@ -24,7 +24,7 @@ Examples of Zaiyan's calligraphy
 
 ![plots](/images/news/alam.happybirthday.jpg)
 ![plots](/images/news/alam.harrypotter.jpg)
- 
+  
 
 
 
