@@ -1,6 +1,6 @@
 ---
 title: "New Hire Spotlight: Shobana Chandrasekaran"
-image: /images/news/Chandrasekaran.jpeg
+image: /images/news/Chandrasekaran1.jpeg
 description: "The SciTech group welcome's Shobana Chandrasekaran"
 description: "Graduate Student Researcher Shobana Chandrasekaran, intoduction to the SciTech Group"
 date: 2022-05-16
