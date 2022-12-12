@@ -60,6 +60,7 @@
   position: Graduate Research Assistant (Ph.D.)
   linkedin: https://www.linkedin.com/in/patrycja-krawczuk
   photo: krawczuk.png
+  alumni: true
 
 - name: Tainã Coleman
   degree: M.S.
@@ -67,16 +68,19 @@
   website: http://tainacoleman.com
   linkedin: https://www.linkedin.com/in/tainacoleman
   photo: coleman.jpg
+  alumni: true
 
 - name: Rebecca White
   position: Student Worker (B.S.)
   linkedin: https://www.linkedin.com/in/rebecca-white-58a3a41ba
   photo: white.jpg
+  alumni: true
   
 - name: Khushi Choudhary
   position: Student Worker (B.S.)
   linkedin: https://www.linkedin.com/in/khushi-choudhary-54924b1a5/
   photo: choudhary.jpg
+  alumni: true
   
 - name: Edward Lin
   position: Student Worker (B.S.)
@@ -87,6 +91,7 @@
   position: Student Worker (B.S.)
   linkedin: https://www.linkedin.com/in/nona-nersisyan-89a1441b0/
   photo: nersisyan.jpg
+  alumni: true
 
 - name: Loïc Pottier
   degree: Ph.D.
