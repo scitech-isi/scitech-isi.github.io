@@ -156,11 +156,13 @@
 
 - name: Srujana Subramanya
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/ssrujanaa/
   photo: subramanya.jpg
   alumni: true
 
 - name: Raghavendra Vedula
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/vedularaghu/
   photo: vedula.jpg
   alumni: true
 
@@ -171,26 +173,31 @@
 
 - name: Gokul Muddarla
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/m-gokul-reddy/
   photo: muddarla.png
   alumni: true
 
 - name: Mukund Murrali
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/mukundmurrali9/
   photo: murrali.jpg
   alumni: true
 
 - name: Ragini Chugh
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/raginichugh/
   photo: chugh.jpg
   alumni: true
 
 - name: Rosa Filgueira
   position: Visiting Researcher
+  linkedin: https://www.linkedin.com/in/rosa-filgueira-vicente-8b2b2227/
   photo: filgueira.png
   alumni: true
 
 - name: Ashwin Venkatesha
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/ashwinvenkatesha/
   photo: venkatesha.jpg
   alumni: true
 
@@ -201,31 +208,37 @@
 
 - name: Suraj Pandey
   position: Intern (M.S.)
+  linkedin: https://www.linkedin.com/in/suraj-pandey-256a7a87/
   photo: pandey.jpg
   alumni: true
 
 - name: Samrat Jha
   position: Intern (B.S.)
+  linkedin: https://www.linkedin.com/in/samratjha96/
   photo: jha.jpg
   alumni: true
 
 - name: Guilherme Gribeler
   position: Intern (B.S.)
+  linkedin: https://www.linkedin.com/in/guilherme-gribeler-07690b11b/
   photo: gribeler.jpg
   alumni: true
 
 - name: Gideon Juve
   position: Computer Scientist (Ph.D.)
+  linkedin: https://www.linkedin.com/in/gideonjuve/
   photo: juve.jpg
   alumni: true
 
 - name: Saloni Pryia
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/salonipriya/
   photo: pryia.png
   alumni: true
 
 - name: Hassan Nawaz
   position: Graduate Research Assistant (Ph.D.)
+  linkedin: https://www.linkedin.com/in/muhammad-hassan-nawaz-7b8547172/
   photo: nawaz.jpg
   alumni: true
 
@@ -236,51 +249,61 @@
 
 - name: Dariusz Król
   position: Postdoctoral Scholar
+  linkedin: https://www.linkedin.com/in/dariusz-król-09447912a/
   photo: krol.jpg
   alumni: true
 
 - name: Donald Briggs
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/don-briggs-1530b951/
   photo: briggs.jpg
   alumni: true
 
 - name: Weiwei Chen
   position: Graduate Research Assistant (Ph.D.)
+  linkedin: https://www.linkedin.com/in/weiwei-nick-c-01029421/
   photo: chen.jpg
   alumni: true
 
 - name: Sepideh Azarnoosh
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/sepideh-azarnoosh-44950926/
   photo: azarnoosh.jpg
   alumni: true
 
 - name: Sudarshan Srinivasan
   position: Intern (M.S.)
+  linkedin: https://www.linkedin.com/in/sudarshan93/
   photo: srinivasan.jpg
   alumni: true
 
 - name: Gaurang Mehta
   position: Research Developer
+  linkedin: https://www.linkedin.com/in/mehtagaurang/
   photo: mehta.jpg
   alumni: true
 
 - name: Rohit Agarwal
   position: Intern (B.S.)
+  linkedin: https://www.linkedin.com/in/rohitagarwal003/
   photo: agarwal.jpg
   alumni: true
 
 - name: Jens Voeckler
   position: Developer
+  linkedin: https://www.linkedin.com/in/voeckler/
   photo: voeckler.jpg
   alumni: true
 
 - name: Fabio Silva
   position: Developer
+  linkedin: https://www.linkedin.com/in/fabio-silva-44b98147/
   photo: silva.jpg
   alumni: true
 
 - name: Prasanth Thomas
   position: Programmer (M.S.)
+  linkedin: https://www.linkedin.com/in/prasanth-thomas-ba51661b/
   photo: nophoto.png
   alumni: true
 
@@ -291,21 +314,24 @@
 
 - name: Karan Seth
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/karan-seth-81326426/
   photo: nophoto.png
   alumni: true
 
 - name: Jay Pavagadhi
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/jay-pavagadhi/
   photo: nophoto.png
   alumni: true
 
 - name: Atul Kumar
-  position: Student Worker (M.S.)
+  position: Student Worker (M.S.) 
   photo: nophoto.png
   alumni: true
 
 - name: Raphael Bolze
   position: Postdoctoral Research Associate
+  linkedin: https://www.linkedin.com/in/raphael-bolze-8717091/
   photo: bolze.jpg
   alumni: true
 
@@ -316,6 +342,7 @@
 
 - name: Srikalyan Chandrashekhar
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/srikalyanchandrashekar/
   photo: nophoto.png
   alumni: true
 
@@ -326,11 +353,13 @@
 
 - name: Gurmeet Singh
   position: Graduate Research Assistant (Ph.D.)
+  linkedin: https://www.linkedin.com/in/gurmeetsingh123/
   photo: singh.jpg
   alumni: true
 
 - name: Arun Ramakrishnan
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/aramakrishnan/
   photo: nophoto.png
   alumni: true
 
@@ -341,11 +370,13 @@
 
 - name: Saurabh Khurana
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/saurabh-khurana-459787/
   photo: nophoto.png
   alumni: true
 
 - name: Jaskaran Singh
   position: Student Worker (M.S.)
+  linkedin: https://www.linkedin.com/in/jaskaransingh/
   photo: nophoto.png
   alumni: true
 
