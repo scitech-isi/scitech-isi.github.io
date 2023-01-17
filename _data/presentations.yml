@@ -1,3 +1,10 @@
+- title: ACCESS Pegasus - A hosted scientific workflow system, part of the ACCESS Support approach
+  author: Mats Rynge
+  description: Campus Champions All Hands Call
+  month: Jan
+  year: 2023
+  file: rynge-access-pegasus-2023.pdf 
+
 - title: Accelerating Scientific Workflows on HPC Platforms with In Situ Processing
   author: Loïc Pottier
   description: CCGrid talk
