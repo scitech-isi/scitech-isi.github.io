@@ -1,7 +1,14 @@
+- title: ACCESS Pegasus - ERN
+  author: Mats Rynge
+  description: Ecosystem for Research Networking (ERN) All Hands Meeting
+  month: March
+  year: 2023
+  file: rynge-access-pegasus-ern-2023.pdf
+
 - title: ACCESS Pegasus - A hosted scientific workflow system, part of the ACCESS Support approach
   author: Mats Rynge
   description: Campus Champions All Hands Call
-  month: Jan
+  month: January
   year: 2023
   file: rynge-access-pegasus-2023.pdf 
 
