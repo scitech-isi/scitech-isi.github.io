@@ -1,0 +1,65 @@
+---
+title: "Scitech at eScience22"
+image: /images/news/escience22.png
+description: "The Pegasus (SciTech) group actively participated in several events and presented talks in workshops, posters, and presented papers at eScience 2022."
+date: 11 September 2022
+layout: post
+categories:
+  - news
+---
+
+The Pegasus (SciTech) group will be actively participating in several events and presenting talks in workshops, posters, and presenting papers at eScience 2022. Find below a list of events where you can meet our team. We look forward to seeing you!
+
+**Monday, October 10th 2022 (1PM-3PM Mountain Time) Zion Bank Classroom A:**
+
+**Tutorial: Pegasus Workflows with Containers**
+
+**Presenters: Karan Vahi, Mats Rynge**
+
+PRESENTATION: This is a 2 hours hands on tutorial conducted by Pegasus staff members on composing workflows using Pegasus 5.0 and running them in a hosted Jupyter Notebook environment The goal of the tutorial is to introduce the benefits of modeling pipelines in a portable way with use of scientific workflows. We will examine the workflow lifecycle at a high level and issues and challenges associated with various steps in the workflow lifecycle such as creation, execution and monitoring and debugging. Through hands-on exercises in a hosted Jupyter notebook environment, we will describe an application pipeline as a Pegasus workflow using Pegasus Workflow API and execute the pipeline on distributed computing infrastructures. The attendees will leave the tutorial with knowledge on how to model their pipelines in a portable fashion using Pegasus workflow and run them on varied computing environments.
+
+Abstract: Workflows are a key technology for enabling complex scientific computations. They capture the interdependencies between processing steps in data analysis and simulation pipelines as well as the mechanisms to execute those steps reliably and efficiently. Workflows can capture complex processes to promote sharing and reuse, and also provide provenance information necessary for the verification of scientific results and scientific reproducibility. Pegasus (<a href="https://pegasus.isi.edu">https://pegasus.isi.edu</a>) is being used in a number of scientific domains doing production grade science. The goal of the tutorial is to introduce the benefits of modelling pipelines in a portable way with use of scientific workflows. We will examine the workflow lifecycle at a high level and issues and challenges associated with various steps in the workflow lifecycle such as creation, execution and monitoring and debugging. Through hands-on exercises in a hosted Jupyter notebook environment, we will describe an application pipeline as a Pegasus workflow using Pegasus Workflow API and execute the pipeline on distributed computing infrastructures. The attendees will leave the tutorial with knowledge on how to model their pipelines in a portable fashion using Pegasus workflow and run them on varied computing environments.
+<b><a href="https://www.escience-conference.org/2022/tutorials/pegasus_50_workflows/">Tutorial: Pegasus Workflows with Containers</a></b>
+**Presenters: Karan Vahi, Mats Rynge**
+
+
+**Wednesday, October 12th 2022 (5PM-7PM Mountain Time) Miller Town Hall:**
+
+**Posters**
+
+**Title: Application of Edge-to-Cloud Methods Toward Deep Learning**
+
+**Authors:** Khushi Choudhary, Nona Nersisyan, Edward Lin, Shobana Chandrasekaran, Rajiv Mayani, Loïc Pottier, Angela Murillo, Nicole Virdone, Kerk Kee, Ewa Deelman
+
+**Abstract:** Scientific workflows are important in modern computational science and are a convenient way to represent complex computations, which are often geographically distributed among several computers. In many scientific domains, scientists use sensors (e.g., edge devices) to gather data such as CO2 level or temperature, that are usually sent to a central processing facility (e.g., a cloud). However, these edge devices are often not powerful enough to perform basic computations or machine learning inference computations and thus applications need the power of cloud platforms to generate scientific results.This work explores the execution and deployment of a complex workflow on an edge-to-cloud architecture in a use case of the detection and classification of plankton. In the original application, images were captured by cameras attached to buoys floating in Lake Greifensee (Switzerland). We developed a workflow based on that application. The workflow aims to pre-process images locally on the edge devices (i.e., buoys) then transfer data from each edge device to a cloud platform. Here, we developed a Pegasus workflow that runs using HTCondor and leveraged the Chameleon cloud platform and its recent CHI@Edge feature to mimic such deployment and study its feasibility in terms of performance and deployment.
+
+
+**Thursday, October 13th 2022 (3:30PM-4:30PM Mountain Time) @ Zion Bank Classroom A:**
+
+**Papers**
+
+**Session:**FAIR Data
+
+**Title:**SIM-SITU: A Framework for the Faithful Simulation of in situ Processing
+
+**Authors:**Valentin Honore, Tu Mai Anh Do, Loic Pottier, Rafael Ferreira da Silva, Ewa Deelman, Frederic Suter
+
+**Abstract:**The amount of data generated by numerical simulations in various scientific domains led to a fundamental redesign of how the analysis and visualization of simulation outputs are performed. The throughput and capacity of storage subsystems have not evolved as fast as the computing power in extreme-scale supercomputers, making the classical post-hoc approach highly inefficient. In situ processing has then emerged as a solution in which simulation and data analysis/visualization are intertwined for better performance and greater interactivity.
+Determining the best allocation, i.e., how many resources to allocate to simulation and analysis respectively, mapping, i.e., where and at which frequency to run the analysis/visualization, and data transfer mode is a complex task whose performance assessment is crucial to the efficient execution of in situ processing. However, such a performance evaluation of different strategies usually relies either on directly running them on the targeted execution environments, which can rapidly become extremely time- and resource-consuming, or on resorting to simplified models of the components of an in situ application, which can lack of realism. In both cases, the validity of the performance evaluation is limited.
+In this paper, we present SIM-SITU, a simulation-based framework for the faithful performance evaluation of in situ processing strategies. We designed SIM-SITU to reflect the typical features of in situ processing systems. Thanks to its modular design, SIM-SITU has the necessary flexibility to easily and faithfully evaluate the behavior and performance of various allocation, mapping, and data transfer strategies. We illustrate the simulation capabilities of SIM-SITU on a Molecular Dynamics use case. We study the impact of different strategies on performance and show how users can leverage SIM-SITU to determine interesting tradeoffs when adding analysis/visualization components to their application.
+
+
+**Friday, October 14th 2022 (10:30AM-12PM Mountain Time) @ Zion Bank Classroom B:**
+
+**Session 9:**Study of Molecular Systems
+
+**Title:**Molecular Dynamics Workflow Decomposition for Hybrid Classic/Quantum Systems
+
+**Author:**Sandeep Suresh Cranganore, Vincenzo De Maio, Tu Mai Anh Do, Ivona Brandic, Ewa Deelman
+
+**Abstract:**Since we are entering the Post-Moore Law era and consequently the limit of Von Neumann's architecture, the scientific community is looking for alternatives to satisfy the growing computing power demands of scientific applications.
+Quantum computing promises to achieve a computational advantage over the classic Von Neumann architecture. However, the limited capabilities of current noisy intermediate-scale quantum (NISQ) devices require quantum computers to interoperate with classic systems, forming the so-called hybrid quantum systems. Research on hybrid quantum systems led to the design of Variational Quantum Algorithms, currently the most promising way to move towards quantum advantage.
+However, execution time and accuracy of variational quantum algorithms are affected by different hyperparameters, including selected cost functions and parametrized quantum circuits. Consequently, providing developers with methods to select the right set of parameters is of paramount importance.
+In this work, we provide a formal method for the selection of hyperparameters in variational quantum algorithms, which will support quantum algorithms developers in the design of quantum applications, and evaluate it on a real-world scientific application, showing a reduction of error up to 31%.
+
+
