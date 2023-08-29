@@ -1,5 +1,5 @@
 ---
-title: "Job: Postdoctoral Fellow 
+title: "Job: Postdoctoral Fellow" 
 image: /images/news/job add graphic.jpg
 description: "The USC Information Sciences Institute’s Science Automation Group (SciTech) is seeking to hire a Postdoctoral Fellow with a Ph.D. degree in computer science."
 
