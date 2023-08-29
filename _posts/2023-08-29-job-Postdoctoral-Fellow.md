@@ -1,6 +1,6 @@
 ---
 title: "Job: Postdoctoral Fellow" 
-image: /images/news/job add graphic.jpg
+image: /images/news/job-graphic.jpg
 description: "The USC Information Sciences Institute’s Science Automation Group (SciTech) is seeking to hire a Postdoctoral Fellow with a Ph.D. degree in computer science."
 
 date: 29 August 2023
