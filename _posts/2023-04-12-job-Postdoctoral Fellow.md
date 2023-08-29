@@ -1,6 +1,14 @@
 ---
 title: "Job: Postdoctoral Fellow 
 image: /images/news/job add graphic.jpg
+description: "The USC Information Sciences Institute’s Science Automation Group (SciTech) is seeking to hire a Postdoctoral Fellow with a Ph.D. degree in computer science."
+
+date: 29 August 2023
+layout: post
+categories:
+  - news
+---
+
 The USC Information Sciences Institute’s Science Automation Group (SciTech) is seeking to hire a 
 Postdoctoral Fellow with a Ph.D. degree in computer science. The position involves working on 
 projects related to scientific workflow management, distributed systems, and the application of AI 
