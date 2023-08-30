@@ -25,7 +25,9 @@ The PostDoc position involves working on DOE and NSF funded projects, advancing 
 A successful candidate will have the desire to conduct research, learn new technologies, be able to analyze and interpret results of complex experiments on real systems and to publish these results in peer-reviewed publications. 
 
 The ideal candidate will have knowledge of distributed system, data analysis methods, hands-on systems experience, and a publication record at the level of someone with a recent Ph.D. Knowledge of artificial intelligence techniques: deep learning or swarm intelligence is a plus but is not required.
-   
+
+For further information please contact pegasus@isi.edu
+ 
 
 ---
 
