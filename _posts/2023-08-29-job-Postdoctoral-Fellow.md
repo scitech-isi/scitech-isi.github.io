@@ -20,12 +20,16 @@ use of clouds for science. Her group has led the design and development of the P
 Management software, which has been adopted in a number of scientific domains and contributed to the 
 LIGO’s first ever direct detection of gravitational waves.  
 
+--
 The PostDoc position involves working on DOE and NSF funded projects, advancing the knowledge about distributed systems, developing novel algorithms for distributed resource and workload management, simulating and emulating systems, as well as experimentation and evaluation at scale. The position involves work in a collaborative environment working with group members as well as researchers at other universities and DOE laboratories. 
 
+--
 A successful candidate will have the desire to conduct research, learn new technologies, be able to analyze and interpret results of complex experiments on real systems and to publish these results in peer-reviewed publications. 
 
+--
 The ideal candidate will have knowledge of distributed system, data analysis methods, hands-on systems experience, and a publication record at the level of someone with a recent Ph.D. Knowledge of artificial intelligence techniques: deep learning or swarm intelligence is a plus but is not required.
 
+--
 For further information please contact pegasus@isi.edu
  
 
