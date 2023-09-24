@@ -44,6 +44,11 @@
   linkedin: https://gr.linkedin.com/in/george-papadimitriou-05931060
   photo: papadimitriou.png
 
+- name: Hamza Safri
+  position: Visiting PhD Student
+  linkedin: https://www.linkedin.com/in/hamzasafri/?originalSubdomain=fr
+  photo: safri.jpg
+
 - name: Zaiyan Alam
   degree: M.S.
   position: Associate Research Engineer
@@ -89,6 +94,7 @@
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/lin-edward/
   photo: lin.jpg
+  alumni: true
   
 - name: Divyansh Sharma
   position: Student Worker (M.S.)
