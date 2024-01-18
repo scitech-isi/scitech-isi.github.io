@@ -14,7 +14,7 @@ fi
 
 input=$1
 
-declare -a arr=("Deelman" "Vahi" "Rynge" "Mayani" "Zaiyan") 
+declare -a arr=("Deelman" "Vahi" "Rynge" "Mayani" "Papadimitriou") 
 
 for i in "${arr[@]}"
 do
