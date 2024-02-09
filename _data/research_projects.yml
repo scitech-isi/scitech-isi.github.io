@@ -86,8 +86,8 @@
   website: https://wrench-project.org/
   twitter: wrenchproject
   award: 2103508
-  active: true
-  featured: true
+  active: false
+  featured: false
   colors:
     r: 224
     g: 110
