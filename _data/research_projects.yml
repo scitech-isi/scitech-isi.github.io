@@ -89,7 +89,7 @@
     r: 92
     g: 167
     b: 194
-
+    
 - title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
   image: wrench.png
@@ -177,6 +177,20 @@
     g: 176
     b: 165
 
+- title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
+  description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
+  image: wrench.png
+  funding: NSF
+  website: https://wrench-project.org/
+  twitter: wrenchproject
+  award: 2103508
+  active: false
+  featured: false
+  colors:
+    r: 224
+    g: 110
+    b: 56
+    
 - title: 'workflowsRI: Infrastructure for Enabling Systematic Development and Research of Workflow Management Systems'
   description: The goal of the workflowsRI project is to engage with representatives from the workflows community – including researchers, developers, science and engineering users, and cyberinfrastructure experts.
   image: workflowsri.png
