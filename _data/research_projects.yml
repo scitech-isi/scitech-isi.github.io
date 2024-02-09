@@ -246,7 +246,7 @@
   image: osg.png
   funding: NSF
   website: https://opensciencegrid.org
-  active: true
+  active: false
   colors:
     r: 226
     g: 136
@@ -257,7 +257,7 @@
   image: xsede.png
   funding: NSF
   website: https://www.xsede.org
-  active: true
+  active: false
   colors:
     r: 102
     g: 146
