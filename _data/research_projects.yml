@@ -78,17 +78,6 @@
   period: 2017-2021
   featured: true
 
-- title: 'CI4Resilience: Leveraging Advanced Cyberinfrastructure and Developing Organizational Resilience for NSF Large Facilities in the Pandemic Era'
-  description: 'This study comprises three main research questions related to NSF large facilities and CI during the pandemic: (a) What types of research activities remain "business as usual" and what types of activities must adapt or stop completely under pandemic conditions (b) If facilities could turn back time, what would they have done to better prepare, dnd (c) What lessons are facilities learning from the current disruptions, and how can these be best disseminated to the facility, CI, and research communities?'
-  image: ci4resilience.png
-  funding: NSF
-  website: https://ci4resilience.org
-  award: 2042054
-  active: true
-  colors:
-    r: 92
-    g: 167
-    b: 194
     
 - title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
@@ -112,21 +101,42 @@
   award: 2018074
   active: true
 
-- title: 'Dynamo: Delivering a Dynamic Network-Centric Platform for Data-Driven Science'
-  description: Coupled with innovations in network-aware workflow management, DyNamo will bridge a crucial gap between data-driven, observational science workflows and novel network mechanisms and services through engagement with domain scientists from the Collaborative & Adaptive Weather Sensing (CASA) and Ocean Observatory Initiative (OOI) communities.
-  image: dynamo.png
-  funding: NSF
-  website: http://nrig.renci.org/project/dynamo-delivering-a-dynamic-network-centric-platform-for-data-driven-science/
-  award: 1826997
-  featured: true
-  active: true
 
-- title: 'IRIS: Integrity Introspection for Scientific Workflows'
-  description: The IRIS project develops an appropriate threat model and incorporate it in an integrity introspection, correlation and analysis framework that collects application and infrastructure data and uses statistical and machine learning (ML) algorithms to perform the needed analysis.
+- title: 'RobustScience: A Community Roadmap to Robust Science in High-throughput Applications'
+  description: The project recruits a cross-disciplinary community working together in three virtual mini-workshops called virtual world cafes to define, design, implement, and use a set of solutions for robust science.
+  image: robustscience.png
   funding: NSF
-  website: http://nrig.renci.org/project/iris-integrity-introspection-for-scientific-workflows/
-  award: 1839900
-  active: true
+  website: https://robustscience.org
+  award: 2028930
+  active: false
+  featured: false
+  colors:
+    r: 170
+    g: 176
+    b: 165
+
+- title: 'VisDict - Visual Dictionaries for Enhancing the Communication between Domain Scientists and Scientific Workflow Providers'
+  description: The main goal for VisDict is to create an intuitive visual dictionary that translates terms and concepts between research domains and computer science, specifically computational workflows.
+  funding: NSF
+  award: 2100636
+  active: false
+  featured: false
+  colors:
+    r: 0
+    g: 0
+    b: 0
+    
+- title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
+  description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
+  image: analytics4md.png
+  funding: NSF
+  website: https://analytics4md.org
+  award: 1741040
+  active: false
+  colors:
+    r: 216
+    g: 76
+    b: 39
     
 - title: 'eduWRENCH: Integrating core CI literacy and skills into university curricula via simulation-driven activities'
   description: eduWRENCH provides a set of pedagogic modules that includes simulation-driven activities for students to experience relevant application and platform scenarios hands-on.
@@ -135,48 +145,31 @@
   website: https://eduwrench.org
   twitter: wrenchproject
   award: 1923539
-  active: true
+  active: false
   colors:
     r: 224
     g: 110
     b: 56
-
-- title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
-  description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
-  image: analytics4md.png
+    
+- title: 'IRIS: Integrity Introspection for Scientific Workflows'
+  description: The IRIS project develops an appropriate threat model and incorporate it in an integrity introspection, correlation and analysis framework that collects application and infrastructure data and uses statistical and machine learning (ML) algorithms to perform the needed analysis.
   funding: NSF
-  website: https://analytics4md.org
-  award: 1741040
-  active: true
-  colors:
-    r: 216
-    g: 76
-    b: 39
-
-- title: 'VisDict - Visual Dictionaries for Enhancing the Communication between Domain Scientists and Scientific Workflow Providers'
-  description: The main goal for VisDict is to create an intuitive visual dictionary that translates terms and concepts between research domains and computer science, specifically computational workflows.
+  website: http://nrig.renci.org/project/iris-integrity-introspection-for-scientific-workflows/
+  award: 1839900
+  active: false
+  
+- title: 'CI4Resilience: Leveraging Advanced Cyberinfrastructure and Developing Organizational Resilience for NSF Large Facilities in the Pandemic Era'
+  description: 'This study comprises three main research questions related to NSF large facilities and CI during the pandemic: (a) What types of research activities remain "business as usual" and what types of activities must adapt or stop completely under pandemic conditions (b) If facilities could turn back time, what would they have done to better prepare, dnd (c) What lessons are facilities learning from the current disruptions, and how can these be best disseminated to the facility, CI, and research communities?'
+  image: ci4resilience.png
   funding: NSF
-  award: 2100636
-  active: true
-  featured: false
+  website: https://ci4resilience.org
+  award: 2042054
+  active: false
   colors:
-    r: 0
-    g: 0
-    b: 0
-
-- title: 'RobustScience: A Community Roadmap to Robust Science in High-throughput Applications'
-  description: The project recruits a cross-disciplinary community working together in three virtual mini-workshops called virtual world cafes to define, design, implement, and use a set of solutions for robust science.
-  image: robustscience.png
-  funding: NSF
-  website: https://robustscience.org
-  award: 2028930
-  active: true
-  featured: true
-  colors:
-    r: 170
-    g: 176
-    b: 165
-
+    r: 92
+    g: 167
+    b: 194
+    
 - title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
   image: wrench.png
@@ -190,6 +183,15 @@
     r: 224
     g: 110
     b: 56
+
+- title: 'Dynamo: Delivering a Dynamic Network-Centric Platform for Data-Driven Science'
+  description: Coupled with innovations in network-aware workflow management, DyNamo will bridge a crucial gap between data-driven, observational science workflows and novel network mechanisms and services through engagement with domain scientists from the Collaborative & Adaptive Weather Sensing (CASA) and Ocean Observatory Initiative (OOI) communities.
+  image: dynamo.png
+  funding: NSF
+  website: http://nrig.renci.org/project/dynamo-delivering-a-dynamic-network-centric-platform-for-data-driven-science/
+  award: 1826997
+  featured: false
+  active: false
     
 - title: 'workflowsRI: Infrastructure for Enabling Systematic Development and Research of Workflow Management Systems'
   description: The goal of the workflowsRI project is to engage with representatives from the workflows community – including researchers, developers, science and engineering users, and cyberinfrastructure experts.
