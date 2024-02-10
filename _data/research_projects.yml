@@ -13,7 +13,7 @@
 
 - title: 'SWARM: Scientific Workflow Applications on Resilient Metasystem'
   description: 'The SWARM project explores how distributed intelligence, specifically, swarm intelligence (SI), can provide robust, performant, resilient, and fault-tolerant execution of DOE scientific workflows that span across a continuum of resources from edge devices near sensors and instruments through wide area networks to leadership-class systems. The goal is to design SI-based resilient IRI that can quickly recover from failures, adapt to changes in the environment, maximize overall resource utilization, and optimize the execution time of workflows submitted by DOE scientists.'
-  image: __logo__
+  image: swarm.png
   funding: DOE
   website: https://swarm-workflows.org
   award: DE-SC0024387
