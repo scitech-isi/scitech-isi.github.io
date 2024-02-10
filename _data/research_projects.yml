@@ -11,6 +11,17 @@
     g: 167
     b: 194
 
+- title: 'SWARM: Scientific Workflow Applications on Resilient Metasystem'
+  description: 'The SWARM project explores how distributed intelligence, specifically, swarm intelligence (SI), can provide robust, performant, resilient, and fault-tolerant execution of DOE scientific workflows that span across a continuum of resources from edge devices near sensors and instruments through wide area networks to leadership-class systems. The goal is to design SI-based resilient IRI that can quickly recover from failures, adapt to changes in the environment, maximize overall resource utilization, and optimize the execution time of workflows submitted by DOE scientists.'
+  image: __logo__
+  funding: DOE
+  website: https://swarm-workflows.org
+  award: DE-SC0024387
+  active: true
+    r: 18
+    g: 34
+    b: 62
+
 - title: 'CI CoE: CI Compass: An NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle'
   description: CI Compass provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depend.
   image: cicompass.jpg
