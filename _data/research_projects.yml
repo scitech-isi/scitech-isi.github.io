@@ -18,6 +18,7 @@
   website: https://swarm-workflows.org
   award: DE-SC0024387
   active: true
+  colors:
     r: 18
     g: 34
     b: 62
