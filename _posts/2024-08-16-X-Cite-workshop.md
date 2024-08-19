@@ -11,7 +11,7 @@ categories:
 
 # Scitech at X-Cite workshop
 
-The Pegasus (SciTech) group actively participated in several events and presented talks in workshops, posters, and presented papers at X-Cite workshop 2024. 
+The Pegasus (SciTech) group actively participated in several events and presented talks in workshops, posters, and presented papers at X-Cite workshop June 2024. 
 
 Members of the Scitech team had the oppurtunity to participate in a day-long workshop which addresses the computing
 needs of CHESS players. Anirban Mandal (UNC), Erik Scott(UNC), Sajith Sasidharan (UNC), Karan Vahi (USC) brought expertise in 
