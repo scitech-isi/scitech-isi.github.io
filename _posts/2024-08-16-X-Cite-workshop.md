@@ -21,4 +21,4 @@ The aim of the day-long workshop was to address the computing needs of CHESS use
 
 Key topics included the basics of the CHESS research workflow, data collection software, the Linux operating system, and Python programming. Participants also received an overview of the cyberinfrastructure resources available at CHESS and beyond
 
-More information can be found here https://www.chess.cornell.edu/empowering-researchers-essential-skills-successful-debut-x-cite-workshop-chess
+More information can be found here: [Empowering Researchers with Essential Skills - Successful Debut for X-CITE Workshop at CHESS]([https://duckduckgo.com](https://www.chess.cornell.edu/empowering-researchers-essential-skills-successful-debut-x-cite-workshop-chess)).
