@@ -1,0 +1,109 @@
+---
+title: "Meet us at SC24"
+image: /images/people/sc24.png
+description: "Meet us at SC24"
+description: "Meet us at SC24"
+date: 2024-10-29
+layout: post
+categories:
+  - news
+---
+
+# Meet us at SC24
+
+The Pegasus (SciTech) group will be actively participating in several events and 
+presenting talks in workshops, panels, and exhibitors booths at SC24. Find below 
+a list of events where you can meet our team.
+
+We look forward to seeing you in Atlanta, Georgia!
+
+Monday, November 18th:
+19th Workshop on Workflows in Support of Large-Scale Science (WORKS24)
+
+Time: 9am – 5:30pm EST
+Location: B302
+Session Chairs: Silvina Caino-Lores, Anirban Mandal
+
+Tuesday, November 19th:
+General Talks to Community in the Exhibition Hall
+
+2PM (EST) SWARM talk in RENCI booth 3923 – Ewa Deelman
+3PM (EST) CI Compass in RENCI booth 3923 – Anirban Mandal
+4PM (EST) SciTech overview talk in USC booth 839 – Ewa Deelman
+Posters
+
+5:15–7 pm (EST): Scalable Planning Platform for Orchestration of Autonomous Systems 
+across Edge-Cloud Continuum during the Poster Reception – Suman Raj
+
+5:15–7 pm (EST): SWARM: Scientific Workflow Applications on 
+Resilient Metasystem during the Poster Reception – Pawel Żuk
+
+Wednesday, November 20th:
+Converged HPC and Cloud Computing in the Era of Generative Al
+
+Type: Birds of a Feather
+Time: 5:15pm – 6:45pm EST
+Location: B312-B313A
+Organizers: Daniel Milroy, Rosa M Badia, Ewa Deelman, Todd Gamblin, 
+Andrew Jones, Bill Magro, Bill Seetharami Seelam, Michela Taufer
+
+Description
+
+Cloud computing technologies such as elastic scaling, application 
+containerization and orchestration are gaining prevalence in HPC due 
+to their benefits of resource dynamism, automation, reproducibility, 
+and resilience. Similarly, HPC technologies are being integrated into 
+cloud infrastructures to enable traditional HPC workloads and emerging 
+GenAI workloads which have HPC characteristics. This trend is leading to 
+converged computing, an environment that combines the best capabilities 
+from both worlds. In this highly interactive BoF, we invite the broader 
+computing community to discuss its experiences with converged computing 
+and share its views on the future considering the astronomical growth of 
+GenAI and resource contention.
+
+General Talks to Community in the Exhibition Hall
+
+2PM EST SWARM talk in USC booth 839 – Pawel Zuk
+2PM EST TBD talk in USC booth 839 – Suman Raj
+Thursday, November 21st:
+Advancing the State of the Art in Distributed Services for HPC
+
+Type: Panel
+Time: 10:30am – 12pm EST
+Location: B310
+Organizers: Daniel Milroy, Rosa M Badia, Ewa Deelman, Todd Gamblin, 
+Andrew Jones, Bill Magro, Bill Seetharami Seelam, Michela Taufer
+
+Description
+
+Distributed services are a pervasive element of large-scale computing: 
+they aggregate system resources, abstract reusable application functionality, 
+and coordinate work among distributed applications. These services form the 
+backbone of data management, scheduling, in situ analytics, performance instrumentation, 
+AI workflow coupling, integrated research infrastructure, and more across cloud, edge, 
+and HPC environments. The goal of this panel is to bring together leading experts to 
+identify fundamental cross-cutting challenges and opportunities for the distributed 
+services community in HPC. What are the technical hurdles, how can services adapt to 
+the increasing scale of systems and applications, what can we learn from other communities,
+and how can we advance the state of the art and adoption of distributed services for HPC?
+
+Doctoral Showcase
+
+4:15PM – 4:30PM (EST): Scalable Planning Platform for Orchestration of Autonomous 
+Systems across Edge-Cloud Continuum in Room B306 – Suman Raj
+Papers
+
+2:00PM – 2:30PM (EST): Computational Efficiency Large Language Models 
+and Learning Techniques for Anomaly Detection in Computational Workflows: 
+from Supervised Fine-Tuning to In-Context Learning in Room B311 – Hongwei Jin, 
+George Papadimitriou, Krishan Raghavan, Pawel Auk, Prasanna Balaprakash, 
+Cong Wang, Anirban Mandal, Ewa Deelman
+
+Exhibitor Booths
+University of Southern California Booth 839
+
+Posters
+
+SWARM: Scientific Workflow Applications on Resilient Metasystem
+ACCESS Pegasus: Bringing Workflows to the ACCESS Masses
+CI Compass: The U.S. National Science Foundation (NSF) Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle
