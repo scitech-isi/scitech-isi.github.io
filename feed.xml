@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://scitech.group/feed.xml" rel="self" type="application/atom+xml" /><link href="https://scitech.group/" rel="alternate" type="text/html" /><updated>2024-12-13T23:08:36+00:00</updated><id>https://scitech.group/feed.xml</id><title type="html">SciTech</title><entry><title type="html">Meet us at SC24</title><link href="https://scitech.group/blog/Meet-Us-At-SC2024/" rel="alternate" type="text/html" title="Meet us at SC24" /><published>2024-10-29T00:00:00+00:00</published><updated>2024-10-29T00:00:00+00:00</updated><id>https://scitech.group/blog/Meet-Us-At-SC2024</id><content type="html" xml:base="https://scitech.group/blog/Meet-Us-At-SC2024/"><![CDATA[<h1 id="meet-us-at-sc24">Meet us at SC24</h1>
+
+<p>The Pegasus (SciTech) group will be actively participating in several events and 
+presenting talks in workshops, panels, and exhibitors booths at SC24. Find below 
+a list of events where you can meet our team.</p>
+
+<p>We look forward to seeing you in Atlanta, Georgia!</p>
+
+<h1 id="monday-november-18th">Monday, November 18th:</h1>
+<p><b><a href="https://sc24.conference-program.com/session/?sess=sess756">19th Workshop on Workflows in Support of Large-Scale Science (WORKS24)</a></b></p>
+
+<p>Time: 9am – 5:30pm EST
+Location: B302
+Session Chairs: Silvina Caino-Lores, Anirban Mandal</p>
+
+<h1 id="tuesday-november-19th">Tuesday, November 19th:</h1>
+<p>General Talks to Community in the Exhibition Hall</p>
+
+<ul>
+  <li>2PM (EST) <b><a href="https://swarm-workflows.org">SWARM</a></b> talk in <b><a href="https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d">RENCI booth 3923</a></b> – Ewa Deelman</li>
+
+<li>3PM (EST) CI Compass in <b><a href="https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d">RENCI booth 3923</a></b> – Anirban Mandal</li>
+
+<li>4PM (EST) <b><a href="https://swarm-workflows.org">SciTech</a></b> overview talk in <b><a href="https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d">USC booth 839</a></b> – Ewa Deelman</li>
+</ul>
+
+<h1 id="posters">Posters</h1>
+
+<ul>
+<li>5:15–7 pm (EST): Scalable Planning Platform for Orchestration of Autonomous Systems 
+across Edge-Cloud Continuum during the <b><a href="https://sc24.supercomputing.org/program/posters/">Poster Reception</a></b> – Suman Raj</li>
+
+<li>5:15–7 pm (EST): <b><a href="https://sc24.conference-program.com/presentation/?id=post169&amp;sess=sess487">SWARM: Scientific Workflow Applications on 
+Resilient Metasystem</a></b> during the <b><a href="https://sc24.supercomputing.org/program/posters/">Poster Reception</a></b> – Pawel Żuk</li>
+</ul>
+
+<h1 id="wednesday-november-20th">Wednesday, November 20th:</h1>
+<p><b><a href="https://sc24.conference-program.com/presentation/?id=bof236&amp;sess=sess586">Converged HPC and Cloud Computing in the Era of Generative Al (WORKS24)</a></b></p>
+
+<p>Type: Birds of a Feather</p>
+
+<p>Time: 5:15pm – 6:45pm EST</p>
+
+<p>Location: B312-B313A</p>
+
+<p>Organizers: Daniel Milroy, Rosa M Badia, Ewa Deelman, Todd Gamblin, 
+Andrew Jones, Bill Magro, Bill Seetharami Seelam, Michela Taufer</p>
+
+<h1 id="description">Description</h1>
+
+<p>Cloud computing technologies such as elastic scaling, application 
+containerization and orchestration are gaining prevalence in HPC due 
+to their benefits of resource dynamism, automation, reproducibility, 
+and resilience. Similarly, HPC technologies are being integrated into 
+cloud infrastructures to enable traditional HPC workloads and emerging 
+GenAI workloads which have HPC characteristics. This trend is leading to 
+converged computing, an environment that combines the best capabilities 
+from both worlds. In this highly interactive BoF, we invite the broader 
+computing community to discuss its experiences with converged computing 
+and share its views on the future considering the astronomical growth of 
+GenAI and resource contention.</p>
+
+<h1 id="general-talks-to-community-in-the-exhibition-hall">General Talks to Community in the Exhibition Hall</h1>
+
+<ul>
+<li>2PM EST <b><a href="https://swarm-workflows.org">SWARM</a></b> talk in <b><a href="https://swarm-workflows.org">SciTech</a></b> overview talk in <b><a href="https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d">USC booth 839</a></b> – Pawel Zuk</li>
+
+<li>2PM EST TBD talk in <b><a href="https://swarm-workflows.org">SciTech</a></b> overview talk in <b><a href="https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d">USC booth 839</a></b> – Suman Raj</li>
+</ul>
+
+<h1 id="thursday-november-21st">Thursday, November 21st:</h1>
+<p><b><a href="https://sc24.conference-program.com/presentation/?id=pan135&amp;sess=sess453">Advancing the State of the Art in Distributed Services for HPC</a></b></p>
+
+<p>Type: Panel</p>
+
+<p>Time: 10:30am – 12pm EST</p>
+
+<p>Location: B310</p>
+
+<p>Organizers: Daniel Milroy, Rosa M Badia, Ewa Deelman, Todd Gamblin, 
+Andrew Jones, Bill Magro, Bill Seetharami Seelam, Michela Taufer</p>
+
+<h1 id="description-1">Description</h1>
+
+<p>Distributed services are a pervasive element of large-scale computing: 
+they aggregate system resources, abstract reusable application functionality, 
+and coordinate work among distributed applications. These services form the 
+backbone of data management, scheduling, in situ analytics, performance instrumentation, 
+AI workflow coupling, integrated research infrastructure, and more across cloud, edge, 
+and HPC environments. The goal of this panel is to bring together leading experts to 
+identify fundamental cross-cutting challenges and opportunities for the distributed 
+services community in HPC. What are the technical hurdles, how can services adapt to 
+the increasing scale of systems and applications, what can we learn from other communities,
+and how can we advance the state of the art and adoption of distributed services for HPC?</p>
+
+<h1 id="doctoral-showcase">Doctoral Showcase</h1>
+
+<ul>
+<li>4:15PM – 4:30PM (EST): Scalable Planning Platform for Orchestration of Autonomous 
+Systems across Edge-Cloud Continuum in Room B306 – Suman Raj</li>
+</ul>
+
+<h1 id="papers">Papers</h1>
+<ul>
+<li>2:00PM – 2:30PM (EST): <b><a href="https://sc24.conference-program.com/presentation/?id=pap575&amp;sess=sess381">Computational Efficiency Large Language Models 
+and Learning Techniques for Anomaly Detection in Computational Workflows: 
+from Supervised Fine-Tuning to In-Context Learning</a></b> in Room B311 – Hongwei Jin, 
+George Papadimitriou, Krishan Raghavan, Pawel Auk, Prasanna Balaprakash, 
+Cong Wang, Anirban Mandal, Ewa Deelman</li>
+
+# Exhibitor Booths
+
+<b><a href="https://hallerickson.ungerboeck.com/prod/app85.cshtml?aat=peuh5vlO6ZHi%2b47qjYZa18Xc2wJidCmeJEqz3QTdp0w%3d">University of Southern California Booth 839</a></b>
+</ul>
+
+<h1 id="posters-1">Posters</h1>
+
+<ul>
+<li>SWARM: Scientific Workflow Applications on Resilient Metasystem</li>
+<li>ACCESS Pegasus: Bringing Workflows to the ACCESS Masses</li>
+<li>CI Compass: The U.S. National Science Foundation (NSF) Cyberinfrastructure (CI) Center of</li> <li>Excellence for Navigating the Major Facilities Data Lifecycle</li>
+</ul>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[Meet us at SC24]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/sc24.png" /><media:content medium="image" url="https://scitech.group/images/news/sc24.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Scitech at X-Cite workshop</title><link href="https://scitech.group/blog/X-Cite-workshop/" rel="alternate" type="text/html" title="Scitech at X-Cite workshop" /><published>2024-06-05T00:00:00+00:00</published><updated>2024-06-05T00:00:00+00:00</updated><id>https://scitech.group/blog/X-Cite-workshop</id><content type="html" xml:base="https://scitech.group/blog/X-Cite-workshop/"><![CDATA[<h1 id="scitech-at-x-cite-workshop">Scitech at X-Cite workshop</h1>
+
+<p>The Pegasus (SciTech) group actively participated in workshop was a training workshop in which we presented in June 2024.</p>
+
+<p>Members of the Scitech team had the oppurtunity to participate in a day-long workshop which addresses the computing
+needs of CHESS players. Anirban Mandal (UNC), Erik Scott(UNC), Sajith Sasidharan (UNC), Karan Vahi (USC) brought expertise in 
+distributed systems and scientific computing.</p>
+
+<p>The aim of the day-long workshop was to address the computing needs of CHESS users — from data collection during beamtime through subsequent data analysis — by leveraging the knowledge, experience, and research expertise of the X-CITE team. Contributing members Anirban Mandal (UNC), Erik Scott(UNC), Sajith Sasidharan (UNC), Karan Vahi (USC) brought expertise in distributed systems, scientific computing, and scientific workflows, while Kelly Nygren (CHESS) and Werner Sun (CLASSE) imparted their institutional know-how to provide a complete and thorough overview of CHESS computing.</p>
+
+<p>Key topics included the basics of the CHESS research workflow, data collection software, the Linux operating system, and Python programming. Participants also received an overview of the cyberinfrastructure resources available at CHESS and beyond</p>
+
+<p>More information can be found here: <a href="[https://duckduckgo.com](https://www.chess.cornell.edu/empowering-researchers-essential-skills-successful-debut-x-cite-workshop-chess)">Empowering Researchers with Essential Skills - Successful Debut for X-CITE Workshop at CHESS</a>.</p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[The Pegasus (SciTech) group actively participated in several events and presented talks in workshops, posters, and presented papers at X-Cite workshop.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/xcite.jpeg" /><media:content medium="image" url="https://scitech.group/images/news/xcite.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">New Hire Spotlight: Paweł Żuk</title><link href="https://scitech.group/blog/postdoctoral-scholar-research-associate-Pawel-Zuk/" rel="alternate" type="text/html" title="New Hire Spotlight: Paweł Żuk" /><published>2024-01-08T00:00:00+00:00</published><updated>2024-01-08T00:00:00+00:00</updated><id>https://scitech.group/blog/postdoctoral-scholar-research-associate-Pawel-Zuk</id><content type="html" xml:base="https://scitech.group/blog/postdoctoral-scholar-research-associate-Pawel-Zuk/"><![CDATA[<h1 id="it-is-our-pleasure-to-introduce-our-new-postdoctoral-scholar-paweł-żuk-to-the-scitech-team">It is our pleasure to introduce our new Postdoctoral Scholar Paweł Żuk to the SciTech team</h1>
+
+<p>Pawel obtained his PhD in Computer Science from the University of Warsaw in 2023.
+His research interests include scheduling, distributed systems and cloud computing.
+Outside his academic work, Pawel enjoys hiking, cycling and playing board games.
+When asked which sport competition he would participate in, he said,
+“I would definitely try the Megavalanche downhill race.”</p>
+
+<p>Welcome to the team, Paweł!</p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[Postdoctoral Scholar-Research Associate, Paweł Żuk, tells the SciTech group a little bit about himself]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/people/zuk.png" /><media:content medium="image" url="https://scitech.group/images/people/zuk.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">SciTech congratulates George Papadimitriou on his successful PhD defense</title><link href="https://scitech.group/blog/George-Congratulations/" rel="alternate" type="text/html" title="SciTech congratulates George Papadimitriou on his successful PhD defense" /><published>2023-11-21T00:00:00+00:00</published><updated>2023-11-21T00:00:00+00:00</updated><id>https://scitech.group/blog/George-Congratulations</id><content type="html" xml:base="https://scitech.group/blog/George-Congratulations/"><![CDATA[]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[SciTech congratulates George Papadimitriou on his successful PhD defense. His thesis...]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/scitech-team-2023.jpg" /><media:content medium="image" url="https://scitech.group/images/news/scitech-team-2023.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Job: Postdoctoral Fellow</title><link href="https://scitech.group/blog/job-Postdoctoral-Fellow/" rel="alternate" type="text/html" title="Job: Postdoctoral Fellow" /><published>2023-08-29T00:00:00+00:00</published><updated>2023-08-29T00:00:00+00:00</updated><id>https://scitech.group/blog/job-Postdoctoral-Fellow</id><content type="html" xml:base="https://scitech.group/blog/job-Postdoctoral-Fellow/"><![CDATA[<p>The USC Information Sciences Institute’s Science Automation Group (SciTech) is seeking to hire a 
+Postdoctoral Fellow with a Ph.D. degree in computer science. The position involves working on 
+projects related to scientific workflow management, distributed systems, and the application of AI 
+technologies and solutions to the management of scientific workflows in distributed environments. 
+The group is led by Professor Ewa Deelman, an international leader in distributed systems, high-
+performance systems, and scientific workflow management systems. Her group conducts research in a 
+number of areas including resource and data management, job scheduling, provenance tracking, and the 
+use of clouds for science. Her group has led the design and development of the Pegasus Workflow 
+Management software, which has been adopted in a number of scientific domains and contributed to the 
+LIGO’s first ever direct detection of gravitational waves.</p>
+
+<p>–
+The PostDoc position involves working on DOE and NSF funded projects, advancing the knowledge about distributed systems, developing novel algorithms for distributed resource and workload management, simulating and emulating systems, as well as experimentation and evaluation at scale. The position involves work in a collaborative environment working with group members as well as researchers at other universities and DOE laboratories.</p>
+
+<p>–
+A successful candidate will have the desire to conduct research, learn new technologies, be able to analyze and interpret results of complex experiments on real systems and to publish these results in peer-reviewed publications.</p>
+
+<p>–
+The ideal candidate will have knowledge of distributed system, data analysis methods, hands-on systems experience, and a publication record at the level of someone with a recent Ph.D. Knowledge of artificial intelligence techniques: deep learning or swarm intelligence is a plus but is not required.</p>
+
+<p>–
+For further information please contact pegasus@isi.edu</p>
+
+<hr />]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[The USC Information Sciences Institute’s Science Automation Group (SciTech) is seeking to hire a Postdoctoral Fellow with a Ph.D. degree in computer science.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/job-graphic.jpg" /><media:content medium="image" url="https://scitech.group/images/news/job-graphic.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seminar: A Federated Learning Framework for IoT: Application to Industry 4.0</title><link href="https://scitech.group/blog/seminar-hamza/" rel="alternate" type="text/html" title="Seminar: A Federated Learning Framework for IoT: Application to Industry 4.0" /><published>2023-04-12T00:00:00+00:00</published><updated>2023-04-12T00:00:00+00:00</updated><id>https://scitech.group/blog/seminar-hamza</id><content type="html" xml:base="https://scitech.group/blog/seminar-hamza/"><![CDATA[<p>Predictive maintenance aims at anticipating the failures of industrial equipment to 
+allow an early scheduling of corrective actions. Such an approach to maintenance is 
+based on a detailed analysis that considers the technical and contextual 
+characteristics of the specific industrial equipment. However, this analysis 
+requires an important period of time to collect a significant quantity of data 
+in order to train a predictive model. Federated learning is a promising approach 
+that allows multiple participants to build collaboratively a global predictive model.
+This approach has been widely explored in generic IoT applications and large-scale 
+architectures. However, implementing FL in real-world environments requires 
+considering several issues to adapt it to existing IoT architectures, 
+including managing/orchestrating federated tasks and dealing with computing 
+resource limitations. Indeed, most current research focuses on aggregating 
+heavyweight deep learning algorithms. In this talk, we present an architecture 
+for FL in the context of IoT, based on the ETSI-standardized 3-layer architecture. 
+We also outline a stacking-based aggregation method to build the global model in a 
+cost-effective manner. Finally, we evaluate the performance and efficiency of 
+this approach on real-world usage scenarios</p>
+
+<ul>
+  <li><strong>When:</strong> Wednesday, April 12, 2023, 11:00am – 12:00pm PDT</li>
+  <li><strong>Where:</strong> MDR #1014 Conference Room</li>
+  <li><em>This event is open to the public.</em></li>
+  <li><strong>Type:</strong> Scientific Computing Seminar</li>
+</ul>
+
+<p>Speaker: Hamza Safari, PhD Student, INRIA Grenoble research center</p>
+
+<h2 id="bio">Bio:</h2>
+
+<p>Hamza Safri is a PhD Student in his second year at the INRIA Grenoble research center in France. 
+He completed his first engineering degree in network and telecommunications at the National School 
+of Applied Sciences in Safi, Morocco, followed by a research master’s degree in IoT at the 
+National Institute of Applied Sciences in Toulouse, France. Hamza’s research interests revolve 
+around federated learning, industrial IoT, edge computing, and predictive maintenance.</p>]]></content><author><name></name></author><category term="seminar" /><summary type="html"><![CDATA[Predictive maintenance aims at anticipating the failures of industrial equipment to allow an early scheduling of corrective actions. Such an approach to maintenance is based on a detailed analysis that considers the technical and contextual characteristics of the specific industrial equipment. However, this analysis requires an important period of time to collect a significant quantity of data in order to train a predictive model. Federated learning is a promising approach that allows multiple participants to build collaboratively a global predictive model. This approach has been widely explored in generic IoT applications and large-scale architectures. However, implementing FL in real-world environments requires considering several issues to adapt it to existing IoT architectures, including managing/orchestrating federated tasks and dealing with computing resource limitations. Indeed, most current research focuses on aggregating heavyweight deep learning algorithms. In this talk, we present an architecture for FL in the context of IoT, based on the ETSI-standardized 3-layer architecture. We also outline a stacking-based aggregation method to build the global model in a cost-effective manner. Finally, we evaluate the performance and efficiency of this approach on real-world usage scenarios.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/hamza-seminar.jpg" /><media:content medium="image" url="https://scitech.group/images/news/hamza-seminar.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Scitech at eScience22</title><link href="https://scitech.group/blog/escience22/" rel="alternate" type="text/html" title="Scitech at eScience22" /><published>2022-09-11T00:00:00+00:00</published><updated>2022-09-11T00:00:00+00:00</updated><id>https://scitech.group/blog/escience22</id><content type="html" xml:base="https://scitech.group/blog/escience22/"><![CDATA[<p>The Pegasus (SciTech) group will be actively participating in several events and presenting talks in workshops, posters, and presenting papers at eScience 2022. Find below a list of events where you can meet our team. We look forward to seeing you!</p>
+
+<p><strong>Monday, October 10th 2022 (1PM-3PM Mountain Time) Zion Bank Classroom A:</strong></p>
+
+<p><strong>Tutorial: Pegasus Workflows with Containers</strong></p>
+
+<p><strong>Presenters: Karan Vahi, Mats Rynge</strong></p>
+
+<p>PRESENTATION: This is a 2 hours hands on tutorial conducted by Pegasus staff members on composing workflows using Pegasus 5.0 and running them in a hosted Jupyter Notebook environment The goal of the tutorial is to introduce the benefits of modeling pipelines in a portable way with use of scientific workflows. We will examine the workflow lifecycle at a high level and issues and challenges associated with various steps in the workflow lifecycle such as creation, execution and monitoring and debugging. Through hands-on exercises in a hosted Jupyter notebook environment, we will describe an application pipeline as a Pegasus workflow using Pegasus Workflow API and execute the pipeline on distributed computing infrastructures. The attendees will leave the tutorial with knowledge on how to model their pipelines in a portable fashion using Pegasus workflow and run them on varied computing environments.</p>
+
+<p>Abstract: Workflows are a key technology for enabling complex scientific computations. They capture the interdependencies between processing steps in data analysis and simulation pipelines as well as the mechanisms to execute those steps reliably and efficiently. Workflows can capture complex processes to promote sharing and reuse, and also provide provenance information necessary for the verification of scientific results and scientific reproducibility. Pegasus (<a href="https://pegasus.isi.edu">https://pegasus.isi.edu</a>) is being used in a number of scientific domains doing production grade science. The goal of the tutorial is to introduce the benefits of modelling pipelines in a portable way with use of scientific workflows. We will examine the workflow lifecycle at a high level and issues and challenges associated with various steps in the workflow lifecycle such as creation, execution and monitoring and debugging. Through hands-on exercises in a hosted Jupyter notebook environment, we will describe an application pipeline as a Pegasus workflow using Pegasus Workflow API and execute the pipeline on distributed computing infrastructures. The attendees will leave the tutorial with knowledge on how to model their pipelines in a portable fashion using Pegasus workflow and run them on varied computing environments.
+<b><a href="https://www.escience-conference.org/2022/tutorials/pegasus_50_workflows/">Tutorial: Pegasus Workflows with Containers</a></b>
+<strong>Presenters: Karan Vahi, Mats Rynge</strong></p>
+
+<p><strong>Wednesday, October 12th 2022 (5PM-7PM Mountain Time) Miller Town Hall:</strong></p>
+
+<p><strong>Posters</strong></p>
+
+<p><strong>Title: Application of Edge-to-Cloud Methods Toward Deep Learning</strong></p>
+
+<p><strong>Authors:</strong> Khushi Choudhary, Nona Nersisyan, Edward Lin, Shobana Chandrasekaran, Rajiv Mayani, Loïc Pottier, Angela Murillo, Nicole Virdone, Kerk Kee, Ewa Deelman</p>
+
+<p><strong>Abstract:</strong> Scientific workflows are important in modern computational science and are a convenient way to represent complex computations, which are often geographically distributed among several computers. In many scientific domains, scientists use sensors (e.g., edge devices) to gather data such as CO2 level or temperature, that are usually sent to a central processing facility (e.g., a cloud). However, these edge devices are often not powerful enough to perform basic computations or machine learning inference computations and thus applications need the power of cloud platforms to generate scientific results.This work explores the execution and deployment of a complex workflow on an edge-to-cloud architecture in a use case of the detection and classification of plankton. In the original application, images were captured by cameras attached to buoys floating in Lake Greifensee (Switzerland). We developed a workflow based on that application. The workflow aims to pre-process images locally on the edge devices (i.e., buoys) then transfer data from each edge device to a cloud platform. Here, we developed a Pegasus workflow that runs using HTCondor and leveraged the Chameleon cloud platform and its recent CHI@Edge feature to mimic such deployment and study its feasibility in terms of performance and deployment.</p>
+
+<p><strong>Thursday, October 13th 2022 (3:30PM-4:30PM Mountain Time) @ Zion Bank Classroom A:</strong></p>
+
+<p><strong>Papers</strong></p>
+
+<p><strong>Session:</strong>FAIR Data</p>
+
+<p><strong>Title:</strong>SIM-SITU: A Framework for the Faithful Simulation of in situ Processing</p>
+
+<p><strong>Authors:</strong>Valentin Honore, Tu Mai Anh Do, Loic Pottier, Rafael Ferreira da Silva, Ewa Deelman, Frederic Suter</p>
+
+<p><strong>Abstract:</strong>The amount of data generated by numerical simulations in various scientific domains led to a fundamental redesign of how the analysis and visualization of simulation outputs are performed. The throughput and capacity of storage subsystems have not evolved as fast as the computing power in extreme-scale supercomputers, making the classical post-hoc approach highly inefficient. In situ processing has then emerged as a solution in which simulation and data analysis/visualization are intertwined for better performance and greater interactivity.
+Determining the best allocation, i.e., how many resources to allocate to simulation and analysis respectively, mapping, i.e., where and at which frequency to run the analysis/visualization, and data transfer mode is a complex task whose performance assessment is crucial to the efficient execution of in situ processing. However, such a performance evaluation of different strategies usually relies either on directly running them on the targeted execution environments, which can rapidly become extremely time- and resource-consuming, or on resorting to simplified models of the components of an in situ application, which can lack of realism. In both cases, the validity of the performance evaluation is limited.
+In this paper, we present SIM-SITU, a simulation-based framework for the faithful performance evaluation of in situ processing strategies. We designed SIM-SITU to reflect the typical features of in situ processing systems. Thanks to its modular design, SIM-SITU has the necessary flexibility to easily and faithfully evaluate the behavior and performance of various allocation, mapping, and data transfer strategies. We illustrate the simulation capabilities of SIM-SITU on a Molecular Dynamics use case. We study the impact of different strategies on performance and show how users can leverage SIM-SITU to determine interesting tradeoffs when adding analysis/visualization components to their application.</p>
+
+<p><strong>Friday, October 14th 2022 (10:30AM-12PM Mountain Time) @ Zion Bank Classroom B:</strong></p>
+
+<p><strong>Session 9:</strong>Study of Molecular Systems</p>
+
+<p><strong>Title:</strong>Molecular Dynamics Workflow Decomposition for Hybrid Classic/Quantum Systems</p>
+
+<p><strong>Author:</strong>Sandeep Suresh Cranganore, Vincenzo De Maio, Tu Mai Anh Do, Ivona Brandic, Ewa Deelman</p>
+
+<p><strong>Abstract:</strong>Since we are entering the Post-Moore Law era and consequently the limit of Von Neumann’s architecture, the scientific community is looking for alternatives to satisfy the growing computing power demands of scientific applications.
+Quantum computing promises to achieve a computational advantage over the classic Von Neumann architecture. However, the limited capabilities of current noisy intermediate-scale quantum (NISQ) devices require quantum computers to interoperate with classic systems, forming the so-called hybrid quantum systems. Research on hybrid quantum systems led to the design of Variational Quantum Algorithms, currently the most promising way to move towards quantum advantage.
+However, execution time and accuracy of variational quantum algorithms are affected by different hyperparameters, including selected cost functions and parametrized quantum circuits. Consequently, providing developers with methods to select the right set of parameters is of paramount importance.
+In this work, we provide a formal method for the selection of hyperparameters in variational quantum algorithms, which will support quantum algorithms developers in the design of quantum applications, and evaluate it on a real-world scientific application, showing a reduction of error up to 31%.</p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[The Pegasus (SciTech) group actively participated in several events and presented talks in workshops, posters, and presented papers at eScience 2022.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/escience22.png" /><media:content medium="image" url="https://scitech.group/images/news/escience22.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">New Hire Spotlight: Zaiyan Alam</title><link href="https://scitech.group/blog/associate-engineer-Zaiyan/" rel="alternate" type="text/html" title="New Hire Spotlight: Zaiyan Alam" /><published>2022-05-18T00:00:00+00:00</published><updated>2022-05-18T00:00:00+00:00</updated><id>https://scitech.group/blog/associate-engineer-Zaiyan</id><content type="html" xml:base="https://scitech.group/blog/associate-engineer-Zaiyan/"><![CDATA[<h1 id="it-is-our-pleasure-to-introduce-our-new-research-engineer-mohammad-zaiyan-alam-to-the-scitech-team">It is our pleasure to introduce our new Research Engineer Mohammad Zaiyan Alam to the SciTech team</h1>
+
+<p>Zaiyan obtained his MS in Computer Science from USC in 2021. He is interested
+in Machine Learning, Distributed Systems and Computer Vision. Outside of research,
+Zaiyan enjoys calligraphy and playing soccer. When asked what Olympic sport he
+would compete in, if given the chance, he said, “I would choose the 100m dash!”</p>
+
+<p>Welcome to the team, Zaiyan!</p>
+
+<p>Examples of Zaiyan’s calligraphy</p>
+
+<p><img src="/images/news/alam.happybirthday.jpg" alt="plots" />
+<img src="/images/news/alam.harrypotter.jpg" alt="plots" /></p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[Fall 2021 USC Computer Science Masters graduate, Zaiyan Alam tells the SciTech Group a little bit about himself]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/alam1.jpg" /><media:content medium="image" url="https://scitech.group/images/news/alam1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">New Hire Spotlight: Shobana Chandrasekaran</title><link href="https://scitech.group/blog/graduate-student-researcher-shobana/" rel="alternate" type="text/html" title="New Hire Spotlight: Shobana Chandrasekaran" /><published>2022-05-16T00:00:00+00:00</published><updated>2022-05-16T00:00:00+00:00</updated><id>https://scitech.group/blog/graduate-student-researcher-shobana</id><content type="html" xml:base="https://scitech.group/blog/graduate-student-researcher-shobana/"><![CDATA[<h1 id="it-is-our-pleasure-to-introduce-graduate-student-researcher-shobana-chandrasekaran-of-the-scitech-team">It is our pleasure to introduce Graduate Student Researcher Shobana Chandrasekaran of the SciTech team.</h1>
+
+<p>Shobana is getting her MS in Computer Science at USC. She is interested in distributed systems, cloud computing and security, and computer networks. 
+Outside of research, Shobana enjoys going on treks, playing table tennis, and trying new things. When asked which superpower she would like to have, 
+she said, “the ability to control and bend time.”</p>
+
+<p>Welcome to the team, Shobana!</p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[Graduate Student Researcher Shobana Chandrasekaran, intoduction to the SciTech Group]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/Chandrasekaran2.jpg" /><media:content medium="image" url="https://scitech.group/images/news/Chandrasekaran2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Student Researcher Spotlight: Shubham Nagarkar</title><link href="https://scitech.group/blog/student-worker-shubham/" rel="alternate" type="text/html" title="Student Researcher Spotlight: Shubham Nagarkar" /><published>2022-01-05T00:00:00+00:00</published><updated>2022-01-05T00:00:00+00:00</updated><id>https://scitech.group/blog/student-worker-shubham</id><content type="html" xml:base="https://scitech.group/blog/student-worker-shubham/"><![CDATA[<h1 id="tell-us-a-bit-about-yourself-and-your-research-interests">Tell us a bit about yourself and your research interests.</h1>
+
+<p>I am Shubham Nagarkar from Pune, Maharashtra, India, and I am pursuing a Masters 
+of Science in Computer Science at the University of Southern California with 
+an emphasis on Artificial Intelligence and Machine Learning. My whole USC 
+programme is a fantastic representation of my research interests in Computer 
+Vision and Deep Learning. I’ve always been interested in applying artificial 
+intelligence to address challenging issues in a variety of sectors, and I believe 
+in AI for Social Good.</p>
+
+<h1 id="during-your-time-as-a-student-researcher-here-in-the-scitech-group-what-kind-of-projects-did-you-have-the-opportunity-to-work-on">During your time as a student researcher here in the SciTech group, what kind of projects did you have the opportunity to work on?</h1>
+
+<p>During my time as a student researcher at the SciTech group, I was given the 
+chance to work on a variety of projects related to my areas of interest. 
+Initially, I worked on the Crisis Computing Workflow, which entails applying 
+deep learning algorithms to filter out useful information from the massive 
+amounts of data accessible on social media during catastrophic events and 
+natural disasters. This data provides essential information on the magnitude of 
+the events, victims, and infrastructure damage, which may offer local government 
+organizations with a large picture knowledge of the crisis and allow them to 
+prepare a prompt response.</p>
+
+<p><img src="/images/news/shubham-research-photo-1.png" alt="twitter posts" /></p>
+
+<p>In addition, I worked on Gantt Charts Workflow, where we employed an unique 
+computer vision method to detect anomalies in Gantt Charts and published a 
+paper on the subject. In the paper, we suggest a novel approach to tackle the 
+problem of anomaly detection by applying Convolutional Neural Network (CNN) 
+classification methods to high-resolution visualizations that capture the 
+end-to-end workflow execution timeline. We explored various CNN architectures 
+like AlexNet, VGG-16, ResNet-18 and a simple CNN from scratch to tackle this 
+problem. The following plot shows the performance of all our different CNN 
+architectures.</p>
+
+<p><img src="/images/news/shubham-research-photo-2.png" alt="plots" /></p>
+
+<p>Apart from these projects, more recently, I have also been collaborating on a 
+paper that entails the needs of supervised machine learning workflows in Science.</p>
+
+<h1 id="what-are-some-of-the-new-skills-that-you-have-acquired-while-working-here-how-have-these-skills-helped-you-in-your-academic-or-professional-endeavors">What are some of the new skills that you have acquired while working here? How have these skills helped you in your academic or professional endeavors?</h1>
+
+<p>While working at SciTech group on various projects, I got a great insight into 
+<a href="https://pegasus.isi.edu/">Pegasus Workflow Management System</a>. I learned how various workflows are 
+processed and executed on a distributed system. I was also introduced to great 
+Machine Learning practices and tools like using <a href="https://mlflow.org/">MLFlow</a> to track and document 
+all the experiments and their results, and using <a href="https://optuna.org/">Optuna</a> for Bayesian 
+hyper-parameter optimization. These technologies are presently being utilised 
+in industries as an essential component of Machine Learning Pipelines. I also 
+improved my ability to work and research individually while simultaneously 
+contributing to a team. This research experience has taught me to be more 
+structured and analytical in my problem-solving approach. All these skills along 
+with the research experience have helped me secure a great internship and a 
+full-time job in the domain of deep learning.</p>
+
+<h1 id="after-graduation-what-career-plans-do-you-have-next">After graduation, what career plans do you have next?</h1>
+
+<p>Post graduation, I will be joining <a href="https://pressroom.grainger.com/home/default.aspx">W. W. Grainger</a> as a Data Scientist in Computer 
+Vision and Natural Language Processing where I will be working on interesting 
+applications of 3D vision and self-supervised learning.</p>
+
+<h1 id="what-is-some-advice-that-you-can-give-to-incoming-students">What is some advice that you can give to incoming students?</h1>
+
+<p>My advice to the incoming students would be to make the most of this wonderful 
+opportunity. Working at the SciTech lab is in itself a great learning experience 
+academically and personally, as you are constantly challenged with new projects. 
+In my opinion, one should always retain an open mind and a desire to learn, 
+since there are many possibilities at SciTech to execute cutting-edge machine 
+learning projects or collaborate on a research publication. Given that masters 
+coursework is already extremely demanding, it is critical to organize your time 
+so that you may work hard and play hard. Displaying leadership, being passionate 
+about learning new skills, always being curious, thinking outside the box, as 
+well as taking on challenges with a calm mind, are some of the factors that 
+helped me succeed not only at the SciTech lab, but also in obtaining an 
+internship and a full-time job.</p>]]></content><author><name></name></author><category term="news" /><summary type="html"><![CDATA[Fall 2021 USC Computer Science Masters graduate, Shubham Nagarkar talks about his experiences as a student researcher in the SciTech Group.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://scitech.group/images/news/shubham-research.png" /><media:content medium="image" url="https://scitech.group/images/news/shubham-research.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
