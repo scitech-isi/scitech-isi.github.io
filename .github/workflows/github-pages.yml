@@ -9,7 +9,6 @@ jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
-      - run: bundle update
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
         with:
