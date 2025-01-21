@@ -15,3 +15,5 @@ end
 gem "webrick", "~> 1.7"
 
 gem "ffi", "= 1.16.3"
+
+gem 'uri', '= 1.0.2.'
