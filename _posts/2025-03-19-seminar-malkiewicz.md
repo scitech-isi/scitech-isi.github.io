@@ -40,13 +40,12 @@ AI applications like large language models require significant computing resourc
   on the scientific showcases and achievements will be presented. These include, for example, contributions 
   to the Destination Earth initiative, work on large language models and breakthroughs from extreme-scale computing 
   capabilities in many fields of science.
-  
-<b><a href="https://www.youtube.com/watch?v=5ljHrAnAyz8">Youtube</a></b>
 
 - **When:** Wednesday, March 19, 2025, 11:00am – 12:00pm PDT
 - **Where:** MDR #1137 Conference Room
 - _This event is open to the public._
 - **Type:** Scientific Computing Seminar
+- <img src="images/smallyoutubelogo.jpg"><a href="https://www.youtube.com/watch?v=5ljHrAnAyz8">Recording of seminar</a>
 
 Speaker: Tomasz Malkiewicz, CSC - IT Center for Science in Finland 
 
