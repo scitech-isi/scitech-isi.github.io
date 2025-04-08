@@ -45,7 +45,7 @@ AI applications like large language models require significant computing resourc
 - **Where:** MDR #1137 Conference Room
 - _This event is open to the public._
 - **Type:** Scientific Computing Seminar
-- <img src="/images/smallyoutubelogo.png"><a href="https://www.youtube.com/watch?v=5ljHrAnAyz8">Recording of seminar</a>
+- <img src="/images/smallyoutubelogo.png"><a href="https://www.youtube.com/watch?v=5ljHrAnAyz8">  Recording of seminar</a>
 
 Speaker: Tomasz Malkiewicz, CSC - IT Center for Science in Finland 
 
