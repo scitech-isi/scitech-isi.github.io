@@ -24,6 +24,8 @@ categories:
   - seminar
 ---
 
+<b><a href="https://www.youtube.com/watch?v=5ljHrAnAyz8">Youtube</a></b>
+
 Youtube: https://www.youtube.com/watch?v=5ljHrAnAyz8
 
 - **When:** Wednesday, March 19, 2025, 11:00am – 12:00pm PDT
