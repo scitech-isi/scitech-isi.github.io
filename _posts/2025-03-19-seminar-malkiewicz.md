@@ -26,8 +26,6 @@ categories:
 
 <b><a href="https://www.youtube.com/watch?v=5ljHrAnAyz8">Youtube</a></b>
 
-Youtube: https://www.youtube.com/watch?v=5ljHrAnAyz8
-
 - **When:** Wednesday, March 19, 2025, 11:00am – 12:00pm PDT
 - **Where:** MDR #1137 Conference Room
 - _This event is open to the public._
