@@ -24,7 +24,7 @@ categories:
   - seminar
 ---
 
-[![image: /images/news/youtube-malkiewicz-seminar.jpg](https://img.youtube.com/vi/watch?v=5ljHrAnAyz8/0.jpg)](https://www.youtube.com/watch?v=5ljHrAnAyz8)
+YOUTUBE: (https://www.youtube.com/watch?v=5ljHrAnAyz8)
 
 - **When:** Wednesday, March 19, 2025, 11:00am – 12:00pm PDT
 - **Where:** MDR #1137 Conference Room
