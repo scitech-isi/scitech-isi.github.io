@@ -2,10 +2,13 @@
 title: "Supporting Research Infrastructure Communities Through LUMI AI and AI Factories, Nordic and European Perspective"
 image: /images/news/malkiewicz-seminar.jpg
 description: |
-  AI applications like large language models require significant computing resources. LUMI, Europe’s third most powerful   supercomputer, is already one of the world’s most powerful AI platforms for science, playing important role in           supporting European RI community.
+  AI applications like large language models require significant computing resources. LUMI, Europe’s third most powerful
+  supercomputer, is already one of the world’s most powerful AI platforms for science, playing important role in
+  supporting European RI community.
 
   The EuroHPC Joint Undertaking (JU) has selected the hosting sites of the next EuroHPC supercomputers and AI Factories. 
-  One of the chosen hosting sites is Finland, led by CSC – IT Center for Science, together with a LUMI AI Factory          consortium of five other countries: the Czech Republic, Denmark, Estonia, Norway and Poland.
+  One of the chosen hosting sites is Finland, led by CSC – IT Center for Science, together with a LUMI AI Factory consortium of five other countries: 
+  the Czech Republic, Denmark, Estonia, Norway and Poland.
 
   An AI Factory is an ecosystem that enables AI researchers and developers to have one-stop access to 
   the high-performance computing (HPC), data sets and skills they need. The aim is to make it as easy 
