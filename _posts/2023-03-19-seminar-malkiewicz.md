@@ -2,23 +2,20 @@
 title: "Supporting Research Infrastructure Communities Through LUMI AI and AI Factories, Nordic and European Perspective"
 image: /images/news/malkiewicz-seminar.jpg
 description: |
-  AI applications like large language models require significant computing resources. LUMI, Europe’s third most powerful supercomputer, 
-  is already one of the world’s most powerful AI platforms for science, playing important role in supporting European RI community.
+  AI applications like large language models require significant computing resources. LUMI, Europe’s third most powerful   supercomputer, is already one of the world’s most powerful AI platforms for science, playing important role in           supporting European RI community.
 
-The EuroHPC Joint Undertaking (JU) has selected the hosting sites of the next EuroHPC supercomputers and AI Factories. 
-One of the chosen hosting sites is Finland, led by CSC – IT Center for Science, together with a LUMI AI Factory consortium 
-of five other countries: the Czech Republic, Denmark, Estonia, Norway and Poland.
+  The EuroHPC Joint Undertaking (JU) has selected the hosting sites of the next EuroHPC supercomputers and AI Factories. 
+  One of the chosen hosting sites is Finland, led by CSC – IT Center for Science, together with a LUMI AI Factory          consortium of five other countries: the Czech Republic, Denmark, Estonia, Norway and Poland.
 
-An AI Factory is an ecosystem that enables AI researchers and developers to have one-stop access to 
-the high-performance computing (HPC), data sets and skills they need. The aim is to make it as easy 
-as possible for both scientific researchers and industrial innovators to adopt AI methods on a large scale.
+  An AI Factory is an ecosystem that enables AI researchers and developers to have one-stop access to 
+  the high-performance computing (HPC), data sets and skills they need. The aim is to make it as easy 
+  as possible for both scientific researchers and industrial innovators to adopt AI methods on a large scale.
 
-In this talk, I will present the architecture of the LUMI infrastructure and its status, together with 
-plans and ambitions for the near future. Then, an overview of how LUMI AI supports RI communities based 
-on the scientific showcases and achievements will be presented. These include, for example, contributions 
-to the Destination Earth initiative, work on large language models and breakthroughs from extreme-scale computing 
-capabilities in many fields of science.
-
+  In this talk, I will present the architecture of the LUMI infrastructure and its status, together with 
+  plans and ambitions for the near future. Then, an overview of how LUMI AI supports RI communities based 
+  on the scientific showcases and achievements will be presented. These include, for example, contributions 
+  to the Destination Earth initiative, work on large language models and breakthroughs from extreme-scale computing 
+  capabilities in many fields of science.
 date: 19 March 2025
 layout: post
 categories:
