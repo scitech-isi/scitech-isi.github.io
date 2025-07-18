@@ -4,7 +4,21 @@
   month: March
   year: 2025
   file: 2025-cloudwalkers-pegasus-final.pdf
-  
+
+- title: "ACCESS Pegasus: Bringing Workflows to the ACCESS Community"
+  author: Mats Rynge, Karan Vahi, Rajiv Mayani, Ewa Deelman, Todd Miller, Miron Livny, Shelly Knuth, Alana Romanella, James Griffioen, John Goodhue, David Hudak, Andrew Pasquale, Lissie Fein
+  description: USC Booth, SC 24, Atlanta, Georgia
+  month: November
+  year: 2024
+  file: sc24-access-pegasus-poster.pdf
+
+- title: "ACCESS Pegasus: Bringing Workflows to the ACCESS Community"
+  author: Ewa Deelman, Shelley L. Knuth, Joel C. Adams, Alan Chalker, Layla Freeborn, Vikram Gazula, John Goodhue, James Griffioen, David Hudak, Andrew Pasquale, Alana Romanella, Mats Rynge, Karan Vahi
+  description: ISC 2024, Hamburg, Germany
+  month: June
+  year: 2024
+  file: isc24-match-poster.pdf
+
 - title: "Lessons Learned from Reproducing Images from the First M87 Event Horizon Telescope (EHT)"
   author: C. Ketron, J. Leonard, B. Roachell, R. Patel, R. White, S. Caino-Lores, N. Tan, P. Miles, K. Vahi, E. Deelman, D. Brown, M. Taufer
   description: eScience 2021 
