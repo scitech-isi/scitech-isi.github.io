@@ -1,27 +1,44 @@
+- title: "Impact of Cyberinfrastructure Fellowship Program for Undergraduates"
+  author: Angela Murillo, Don Brower, Nicole Virdone, Sajith Sasidharan, Sarowar Hossain, Jaya Bharti, Ewa Deelman
+  description: Practice and Experience in Advanced Research Computing 2025 (PEARC '25) , Columbus, OH, 20-24, July, 2025
+  month: July
+  year: 2025
+  file: PEARC25_CICF.pdf
+  
 - title: "FAIR Data Implementation at NSF Major Facilities"
   author: Charles Vardeman, Don Brower, Jose Cordova, Angela Murillo, Ewa Deelman
-  description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024  month: June
-  year: 2023
+  description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024  
+  month: March
+  year: 2024
   file: Poster-RIW_2024-FAIR Data.pdf
+
+- title: "Building a Community of Practice for "Big Science" Organizations"
+  author: Mahedi Hasan, Kerk Kee, Ewa Deelman
+  description: Organizational Communication Mini Conference (OCMC) , Northwestern University, Evanston, IL, 27-29 September 2024 (Session I)
+  month: September 
+  year: 2024
+  file: OCMC -research-poster.pdf
+
+- title: "FAIR Data Implementation at NSF Major Facilities"
+  author: Charles Vardeman, Don Brower, Jose Cordova, Angela Murillo, Ewa Deelman
+  description: 2023 Research Infrastructure Workshop (RIW) , Washington, D.C., 27-30 June 2023 
+  month: June
+  year: 2023
+  file: Poster-RIW_2023-FAIR Data.pptx.pdf
 
 - title: "CI Compass: The NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle"
   author: Ewa Deelman, Anirban Mandal, Jarek Nabrzyski, Angela Murillo, Valerio Pascucci, Kerk Kee, Ciji Davis, Rajiv Mayani, Mats Rynge, Karan Vahi, Nicole Virdone, Ilya Baldin, Erik Scott, Charles Vardeman, Christina Clark, Don Brower, Joanne Fahey, Jose Cordova, Sarowar Hossain, Steve Petruzza, Giorgio Scorzelli, Robert Ricci, Mahedi Hasan, Chaitra Kulkarni, Oluwabusayo Okunloye
-  description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024  month: June
+  description: 2023 Research Infrastructure Workshop (RIW) , Washington, D.C., 27-30 June 2023
+  month: June
   year: 2023
   file: Poster-RIW_2024-CICompass-Overview.pdf
 
 - title: "Building the Next Generation of Cyberinfrastructure Professionals"
   author: Angela Murillo, Don Brower, Sarowar Hossain, Kerk Kee, Anirban Mandal, Jarek Nabrzyski, Erik Scott, Nicole Virdone, Ewa Deelman
-  description: 2023 Research Infrastructure Workshop (RIW) , Washington, D.C., 27-30 June 2023  month: June
+  description: 2023 Research Infrastructure Workshop (RIW) , Washington, D.C., 27-30 June 2023  
+  month: June
   year: 2023
   file: Poster-RIW_2023-CICF Program.pdf
-
-- title: "Tech Notes: Tracking community access to Data Lifecycle data using Knowledge Graphs"
-  author: Don Brower, Rodney Ewing
-  description: CI Compass, the NSF Cyberinfrastructure Center of Excellence
-  month: August
-  year: 2022
-  file: PEARC25_CICF.pdf
   
 - title: "ACCESS Pegasus: Bringing Workflows to the ACCESS Community"
   author: Mats Rynge, Karan Vahi, Rajiv Mayani, Ewa Deelman, Todd Miller, Miron Livny, Shelly Knuth, Alana Romanella, James Griffioen, John Goodhue, David Hudak, Andrew Pasquale, Lissie Fein
@@ -36,6 +53,13 @@
   month: June
   year: 2024
   file: isc24-match-poster.pdf
+
+- title: "The CI Compass Fellowship Program (CICF)"
+  author: Angela Murillo, Don Brower, Sarowar Hossain, Erik Scott, Nicole Virdone, Ewa Deelman
+  description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024  
+  month: March
+  year: 2024
+  file: Poster-RIW_2024-CICF - Poster.pdf
 
 - title: "Leveraging National Cyberinfrastructure for Earth Science"
   author: Ewa Deelman, Shelley L. Knuth, Joel C. Adams, Alan Chalker, Layla Freeborn, Vikram Gazula, John Goodhue, James Griffioen, David Hudak, Andrew Pasquale, Alana Romanella, Mats Rynge, Karan Vahi
