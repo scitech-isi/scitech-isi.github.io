@@ -76,6 +76,76 @@
   year: 2024
   file: Poster-RIW_2024-FAIR Data.pdf
 
+- title: "The CI Compass Fellowship Program (CICF)"
+  author: Angela Murillo, Don Brower, Sarowar Hossain, Erik Scott, Nicole Virdone, Ewa Deelman 
+  description: XXXXXX
+  month: March
+  year: 2024
+  file: Poster-RIW_2024-CICF - Poster.pdf
+
+- title: "Tech Notes: Facilitating Connections: The CI Compass FAIR Data Topical Working Group"
+  author: Angela Murillo, Don Brower, Charles F Vardeman II
+  description: XXXXXX
+  month: March
+  year: 2024
+  file: TechNotes_CI Compass FAIR TWG.pdf
+
+- title: "NSF Major Facilities Cloud Use Cases and Considerations"
+  author: Bruce Berriman G., Brian Dobbins, Jeremy Fischer, Bob Flynn, Jeffrey Glatstein, Rajiv Mayani, Loïc Pottier, Craig Risien, Benedikt Riedel, Mats Rynge, Erik Scott, Tyson Swetnam, Amanda Tan, Chad Trabant, Karan Vahi, Don Brower, Charles Vardeman
+  description: XXXXXX
+  month: January
+  year: 2024
+  file: MajorFacilities-Cloud-UseCases-Considerations-2024.pdf
+
+- title: "FAIR Data Implementation at NSF Major Facilities"
+  author: Charles Vardeman, Don Brower, Jose Cordova, Angela Murillo, Ewa Deelman
+  description: XXXXXX
+  month: June
+  year: 2023
+  file: Poster-RIW_2023-FAIR Data.pptx.pdf
+
+- title: "CI Compass: The NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle"
+  author: Ewa Deelman, Anirban Mandal, Jarek Nabrzyski, Angela Murillo, Valerio Pascucci, Kerk Kee, Ciji Davis, Rajiv Mayani, Mats Rynge, Karan Vahi, Nicole Virdone, Ilya Baldin, Erik Scott, Charles Vardeman, Christina Clark, Don Brower, Joanne Fahey, Jose Cordova, Sarowar Hossain, Steve Petruzza, Giorgio Scorzelli, Robert Ricci, Mahedi Hasan, Chaitra Kulkarni, Oluwabusayo Okunloye
+  description: XXXXXX
+  month: June
+  year: 2023
+  file: Poster-RIW_2023-CICompass-Overview.pdf
+
+- title: "Building the Next Generation of Cyberinfrastructure Professionals"
+  author: Angela Murillo, Don Brower, Sarowar Hossain, Kerk Kee, Anirban Mandal, Jarek Nabrzyski, Erik Scott, Nicole Virdone, Ewa Deelman
+  description: XXXXXX
+  month: June
+  year: 2023
+  file: Poster-RIW_2023-CICF Program.pdf
+
+- title: "Tech Notes: Building the Next Generation of Cyberinfrastructure Professionals"
+  author: Angela Murillo
+  description: XXXXXX
+  month: April
+  year: 2023
+  file: Tech Notes_Building the Next Generation of CI Professionals.pdf
+
+- title: "Application of Edge-to-Cloud Methods Towards Deep Learning"
+  author: Khushi Choudhary, Nona Nersisyan, Edward Lin, Shobana Chandrasekaran, Rajiv Mayani, Loïc Pottier, Angela P Murillo, Nicole K. Virdone, Kerk Kee, Ewa Deelman
+  description: XXXXXX
+  month: October
+  year: 2022
+  file: Poster_CICF_eScience_2022.pdf
+
+- title: "Tech Notes: Visualizing Major Facility data with web-compatible technologies: Data Visualization for Jupyter Notebooks and Web Dashboards"
+  author: Valerio Pascucci, Giorgio Scorzelli, Steve Petruzza
+  description: XXXXXX
+  month: September
+  year: 2022
+  file: Visualizing Major Facility data with web-compatible technologies.pdf
+
+- title: "Tech Notes: Tracking community access to Data Lifecycle data using Knowledge Graphs"
+  author: Don Brower, Rodney Ewing
+  description: XXXXXX
+  month: August
+  year: 2022
+  file: Tech Notes_Tracking community access to Data Lifecycle.pdf
+  
 - title: "ACCESS Pegasus: Bringing Workflows to the ACCESS Community"
   author: Mats Rynge, Karan Vahi, Rajiv Mayani, Ewa Deelman, Todd Miller, Miron Livny, Shelly Knuth, Alana Romanella, James Griffioen, John Goodhue, David Hudak, Andrew Pasquale, Lissie Fein
   description: USC Booth, SC 24, Atlanta, Georgia
