@@ -3,21 +3,21 @@
   description: XXXXXX
   month: June
   year: 2025
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: Tech Notes_LIGO Data Streaming - Final.pdf
 
 - title: "Cloud Adoption Survey in Major Facilities and Mid Scale Institutes"
   author: Bruce Berriman, Bob Flynn, Rajiv Mayani, Benedikt Reidel, Mats Rynge, Tyson Swetnam, Amanda Tan, Karan Vahi
   description: XXXXXX
   month: April
   year: 2025
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: CI-Compass-Cloud-Survey-Report-2024 (1).pdf
 
 - title: "Tech Notes: Advancing Safe and Trustworthy AI for Science: Understanding and Mitigating Threats to AI Data, Models, and Processes"
   author: Prasanna Balaprakash, Jarek Nabrzyski, Christina Clark
   description: XXXXXX
   month: April
   year: 2025
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: Tech Note - P. Balaprakash Advancing Safe and Trustworthy AI (1).pdf
 
 
 - title: "Pegasus: Distributed Workflow Management Research and Software in Support of Science"
@@ -32,49 +32,49 @@
   description: XXXXXX
   month: October
   year: 2024
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: TechNotes_Community Building Survey Results.pdf
 
 - title: "Building a Community of Practice for "Big Science" Organizations"
   author: Mahedi Hasan, Kerk Kee, Ewa Deelman
   description: XXXXXX
   month: September
   year: 2024
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: OCMC -research-poster.pdf
 
 - title: "Network for Advanced NMR Use Cases"
   author: Chris Bontempi
   description: XXXXXX
   month: August
   year: 2024
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: NAN Case Study for Open Data.pdf
 
 - title: "2024 Cyberinfrastructure for U.S. NSF Major Facilities Workshop Report"
   author: Ilya Baldin, Don Brower, David Butcher, Rob Casey, Christina Clark, Ewa Deelman, Bob Flynn, Mahedi Hasan, Kerk Kee, Miron Livny, Anirban Mandal, Angela Murillo, Jarek Nabrzyski, Valerio Pascucci, Steve Petruzza, Chris Romsos, Dan Stanzione, Karan Vahi, Nicole Virdone
   description: XXXXXX
   month: June
   year: 2024
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: CI4MF 2024 Workshop Report - Version 1.pdf
 
 - title: "Tech Notes: A Review of Streaming Systems and Architectures"
   author: Erik Scott, Steve Petruzza, 
   description: XXXXXX
   month: April
   year: 2024
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: Tech Notes_Review of Streaming Systems and Architectures.pdf
 
 - title: "CI Compass: The NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle"
   author:  Charles Vardeman II, Don Brower, Angela Murillo, Ewa Deelman
   description: XXXXXX
   month: March
   year: 2024
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: Poster-RIW_2024-CICompass-Overview.pdf
 
 - title: "FAIR Data Implementation at NSF Major Facilities"
   author: Ewa Deelman, Anirban Mandal, Jarek Nabrzyski, Angela Murillo, Valerio Pascucci, Kerk Kee, Ciji Davis, Rajiv Mayani, Mats Rynge, Karan Vahi, Nicole Virdone, Erik Scott, Charles Vardeman II, Christina Clark, Don Brower, Joanne Fahey, Sarowar Hossain, Steve Petruzza, Giorgio Scorzelli, Robert Ricci, Mahedi Hasan, Chaitra Kulkarni, Oluwabusayo Okunloye
   description: XXXXXX
   month: March
   year: 2024
-  file: 2025-cloudwalkers-pegasus-final.pdf
+  file: Poster-RIW_2024-FAIR Data.pdf
 
 - title: "ACCESS Pegasus: Bringing Workflows to the ACCESS Community"
   author: Mats Rynge, Karan Vahi, Rajiv Mayani, Ewa Deelman, Todd Miller, Miron Livny, Shelly Knuth, Alana Romanella, James Griffioen, John Goodhue, David Hudak, Andrew Pasquale, Lissie Fein
