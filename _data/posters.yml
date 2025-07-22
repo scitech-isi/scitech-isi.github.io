@@ -19,6 +19,40 @@
   year: 2025
   file: Tech Note - P. Balaprakash Advancing Safe and Trustworthy AI (1).pdf
 
+- title: "The Major Facilities Data Lifecycle in a Nutshell"
+  author: Laura Christopherson
+  description: XXXXXX
+  month: October
+  year: 2021
+  file: CICompass-DLCNutshell.pdf
+
+- title: "2022 Cyberinfrastructure for NSF Major Facilities Workshop Report"
+  author: Ewa Deelman, Ilya Baldin, Steve Barnet, G. B. Berriman, Don Brower, Robert Casey, Shafaq Chaudhry, Laura Christopherson, Christina Clark, Brian Dobbins, Mary Gohsman, Kerk Kee, Miron Livny, Anirban Mandal, Rajiv Mayani, Angela Murillo, Jarek Nabrzyski, Alex Olshansky, Valerio Pascucci, Steve Petruzza, Loïc Pottier, Chris Romsos, Mats Rynge, Eirk Scott, Adam Shepherd, Jennifer Schopf, Karan Vahi, Charles Vardeman, Nicole Virdone, John West 
+  description: XXXXXX
+  month: June
+  year: 2022
+  file: MF4CI_report_final.pdf
+
+- title: "The Federated Identity Management Cookbook"
+  author: Eirk Scott, Josh Drake 
+  description: XXXXXX
+  month: July
+  year: 2022
+  file: idm cookbook final.pdf
+
+- title: "CI Compass Best Practices for Cloud Provider Analysis"
+  author: Ewa Deelman, Jarek Nabrzyski, Karan Vahi, Rick Benson
+  description: XXXXXX
+  month: April
+  year: 2022
+  file: Best Practice for Cloud Provider Analysis.pdf
+
+- title: "Tech Notes: Making the Major Facilities Data Lifecycle FAIR"
+  author: Charles Vardeman
+  description: XXXXXX
+  month: January 
+  year: 2022
+  file: Tech Notes_ Making the Major Facilities Data Lifecycle FAIR by Charles Vardeman.pdf
 
 - title: "Pegasus: Distributed Workflow Management Research and Software in Support of Science"
   author: Ewa Deelman, Karan Vahi, Mats Rynge, Rajiv Mayani
