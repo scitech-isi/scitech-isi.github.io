@@ -1,184 +1,27 @@
-- title: "Tech Notes: Evaluation of Scalable Solutions for Time Series Database Streaming"
-  author: Valerio Pascucci, Giorgio Scorzelli, Steve Petruzza, Erik Scott, Jarek Nabrzyski, Anirban Mandal, Jameson Rollins, Patrick Godwin, Jonathan Hanks, Martin Beroiz, 
-  description: XXXXXX
-  month: June
-  year: 2025
-  file: Tech Notes_LIGO Data Streaming - Final.pdf
-
-- title: "Cloud Adoption Survey in Major Facilities and Mid Scale Institutes"
-  author: Bruce Berriman, Bob Flynn, Rajiv Mayani, Benedikt Reidel, Mats Rynge, Tyson Swetnam, Amanda Tan, Karan Vahi
-  description: XXXXXX
-  month: April
-  year: 2025
-  file: CI-Compass-Cloud-Survey-Report-2024 (1).pdf
-
-- title: "Tech Notes: Advancing Safe and Trustworthy AI for Science: Understanding and Mitigating Threats to AI Data, Models, and Processes"
-  author: Prasanna Balaprakash, Jarek Nabrzyski, Christina Clark
-  description: XXXXXX
-  month: April
-  year: 2025
-  file: Tech Note - P. Balaprakash Advancing Safe and Trustworthy AI (1).pdf
-
-- title: "The Major Facilities Data Lifecycle in a Nutshell"
-  author: Laura Christopherson
-  description: XXXXXX
-  month: October
-  year: 2021
-  file: CICompass-DLCNutshell.pdf
-
-- title: "2022 Cyberinfrastructure for NSF Major Facilities Workshop Report"
-  author: Ewa Deelman, Ilya Baldin, Steve Barnet, G. B. Berriman, Don Brower, Robert Casey, Shafaq Chaudhry, Laura Christopherson, Christina Clark, Brian Dobbins, Mary Gohsman, Kerk Kee, Miron Livny, Anirban Mandal, Rajiv Mayani, Angela Murillo, Jarek Nabrzyski, Alex Olshansky, Valerio Pascucci, Steve Petruzza, Loïc Pottier, Chris Romsos, Mats Rynge, Eirk Scott, Adam Shepherd, Jennifer Schopf, Karan Vahi, Charles Vardeman, Nicole Virdone, John West 
-  description: XXXXXX
-  month: June
-  year: 2022
-  file: MF4CI_report_final.pdf
-
-- title: "The Federated Identity Management Cookbook"
-  author: Eirk Scott, Josh Drake 
-  description: XXXXXX
-  month: July
-  year: 2022
-  file: idm cookbook final.pdf
-
-- title: "CI Compass Best Practices for Cloud Provider Analysis"
-  author: Ewa Deelman, Jarek Nabrzyski, Karan Vahi, Rick Benson
-  description: XXXXXX
-  month: April
-  year: 2022
-  file: Best Practice for Cloud Provider Analysis.pdf
-
-- title: "Tech Notes: Making the Major Facilities Data Lifecycle FAIR"
-  author: Charles Vardeman
-  description: XXXXXX
-  month: January 
-  year: 2022
-  file: Tech Notes_ Making the Major Facilities Data Lifecycle FAIR by Charles Vardeman.pdf
-
-- title: "Pegasus: Distributed Workflow Management Research and Software in Support of Science"
-  author: Ewa Deelman, Karan Vahi, Mats Rynge, Rajiv Mayani
-  description: Cloudwalkers Screening, USC 2025
-  month: March
-  year: 2025
-  file: 2025-cloudwalkers-pegasus-final.pdf
-
-- title: "Tech Notes: Building a Community of Practice for Major and Mid-scale Facilities"
-  author: Kerk Kee, Mahedi Hasan
-  description: XXXXXX
-  month: October
-  year: 2024
-  file: TechNotes_Community Building Survey Results.pdf
-
-- title: "Building a Community of Practice for \"Big Science\" Organizations"
-  author: Mahedi Hasan, Kerk Kee, Ewa Deelman
-  description: XXXXXX
-  month: September
-  year: 2024
-  file: OCMC -research-poster.pdf
-
-- title: "Network for Advanced NMR Use Cases"
-  author: Chris Bontempi
-  description: XXXXXX
-  month: August
-  year: 2024
-  file: NAN Case Study for Open Data.pdf
-
-- title: "2024 Cyberinfrastructure for U.S. NSF Major Facilities Workshop Report"
-  author: Ilya Baldin, Don Brower, David Butcher, Rob Casey, Christina Clark, Ewa Deelman, Bob Flynn, Mahedi Hasan, Kerk Kee, Miron Livny, Anirban Mandal, Angela Murillo, Jarek Nabrzyski, Valerio Pascucci, Steve Petruzza, Chris Romsos, Dan Stanzione, Karan Vahi, Nicole Virdone
-  description: XXXXXX
-  month: June
-  year: 2024
-  file: CI4MF 2024 Workshop Report - Version 1.pdf
-
-- title: "Tech Notes: A Review of Streaming Systems and Architectures"
-  author: Erik Scott, Steve Petruzza, 
-  description: XXXXXX
-  month: April
-  year: 2024
-  file: Tech Notes_Review of Streaming Systems and Architectures.pdf
-
-- title: "CI Compass: The NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle"
-  author:  Charles Vardeman II, Don Brower, Angela Murillo, Ewa Deelman
-  description: XXXXXX
-  month: March
-  year: 2024
-  file: Poster-RIW_2024-CICompass-Overview.pdf
-
-- title: "FAIR Data Implementation at NSF Major Facilities"
-  author: Ewa Deelman, Anirban Mandal, Jarek Nabrzyski, Angela Murillo, Valerio Pascucci, Kerk Kee, Ciji Davis, Rajiv Mayani, Mats Rynge, Karan Vahi, Nicole Virdone, Erik Scott, Charles Vardeman II, Christina Clark, Don Brower, Joanne Fahey, Sarowar Hossain, Steve Petruzza, Giorgio Scorzelli, Robert Ricci, Mahedi Hasan, Chaitra Kulkarni, Oluwabusayo Okunloye
-  description: XXXXXX
-  month: March
-  year: 2024
-  file: Poster-RIW_2024-FAIR Data.pdf
-
-- title: "The CI Compass Fellowship Program (CICF)"
-  author: Angela Murillo, Don Brower, Sarowar Hossain, Erik Scott, Nicole Virdone, Ewa Deelman 
-  description: XXXXXX
-  month: March
-  year: 2024
-  file: Poster-RIW_2024-CICF - Poster.pdf
-
-- title: "Tech Notes: Facilitating Connections: The CI Compass FAIR Data Topical Working Group"
-  author: Angela Murillo, Don Brower, Charles F Vardeman II
-  description: XXXXXX
-  month: March
-  year: 2024
-  file: TechNotes_CI Compass FAIR TWG.pdf
-
-- title: "NSF Major Facilities Cloud Use Cases and Considerations"
-  author: Bruce Berriman G., Brian Dobbins, Jeremy Fischer, Bob Flynn, Jeffrey Glatstein, Rajiv Mayani, Loïc Pottier, Craig Risien, Benedikt Riedel, Mats Rynge, Erik Scott, Tyson Swetnam, Amanda Tan, Chad Trabant, Karan Vahi, Don Brower, Charles Vardeman
-  description: XXXXXX
-  month: January
-  year: 2024
-  file: MajorFacilities-Cloud-UseCases-Considerations-2024.pdf
-
 - title: "FAIR Data Implementation at NSF Major Facilities"
   author: Charles Vardeman, Don Brower, Jose Cordova, Angela Murillo, Ewa Deelman
-  description: XXXXXX
-  month: June
+  description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024  month: June
   year: 2023
-  file: Poster-RIW_2023-FAIR Data.pptx.pdf
+  file: Poster-RIW_2024-FAIR Data.pdf
 
 - title: "CI Compass: The NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle"
   author: Ewa Deelman, Anirban Mandal, Jarek Nabrzyski, Angela Murillo, Valerio Pascucci, Kerk Kee, Ciji Davis, Rajiv Mayani, Mats Rynge, Karan Vahi, Nicole Virdone, Ilya Baldin, Erik Scott, Charles Vardeman, Christina Clark, Don Brower, Joanne Fahey, Jose Cordova, Sarowar Hossain, Steve Petruzza, Giorgio Scorzelli, Robert Ricci, Mahedi Hasan, Chaitra Kulkarni, Oluwabusayo Okunloye
-  description: XXXXXX
-  month: June
+  description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024  month: June
   year: 2023
-  file: Poster-RIW_2023-CICompass-Overview.pdf
+  file: Poster-RIW_2024-CICompass-Overview.pdf
 
 - title: "Building the Next Generation of Cyberinfrastructure Professionals"
   author: Angela Murillo, Don Brower, Sarowar Hossain, Kerk Kee, Anirban Mandal, Jarek Nabrzyski, Erik Scott, Nicole Virdone, Ewa Deelman
-  description: XXXXXX
-  month: June
+  description: 2023 Research Infrastructure Workshop (RIW) , Washington, D.C., 27-30 June 2023  month: June
   year: 2023
   file: Poster-RIW_2023-CICF Program.pdf
 
-- title: "Tech Notes: Building the Next Generation of Cyberinfrastructure Professionals"
-  author: Angela Murillo
-  description: XXXXXX
-  month: April
-  year: 2023
-  file: Tech Notes_Building the Next Generation of CI Professionals.pdf
-
-- title: "Application of Edge-to-Cloud Methods Towards Deep Learning"
-  author: Khushi Choudhary, Nona Nersisyan, Edward Lin, Shobana Chandrasekaran, Rajiv Mayani, Loïc Pottier, Angela P Murillo, Nicole K. Virdone, Kerk Kee, Ewa Deelman
-  description: XXXXXX
-  month: October
-  year: 2022
-  file: Poster_CICF_eScience_2022.pdf
-
-- title: "Tech Notes: Visualizing Major Facility data with web-compatible technologies: Data Visualization for Jupyter Notebooks and Web Dashboards"
-  author: Valerio Pascucci, Giorgio Scorzelli, Steve Petruzza
-  description: XXXXXX
-  month: September
-  year: 2022
-  file: Visualizing Major Facility data with web-compatible technologies.pdf
-
 - title: "Tech Notes: Tracking community access to Data Lifecycle data using Knowledge Graphs"
   author: Don Brower, Rodney Ewing
-  description: XXXXXX
+  description: CI Compass, the NSF Cyberinfrastructure Center of Excellence
   month: August
   year: 2022
-  file: Tech Notes_Tracking community access to Data Lifecycle.pdf
+  file: PEARC25_CICF.pdf
   
 - title: "ACCESS Pegasus: Bringing Workflows to the ACCESS Community"
   author: Mats Rynge, Karan Vahi, Rajiv Mayani, Ewa Deelman, Todd Miller, Miron Livny, Shelly Knuth, Alana Romanella, James Griffioen, John Goodhue, David Hudak, Andrew Pasquale, Lissie Fein
