@@ -4,7 +4,15 @@
   month: July
   year: 2025
   file: PEARC25_CICF.pdf
-  
+
+- title: "Pegasus: Distributed Workflow Management Research and Software in Support of Science"
+  author: Ewa Deelman, Karan Vahi, Mats Rynge, Rajiv Mayani
+  description: Cloudwalkers Screening, USC 2025
+  month: March
+  year: 2025
+  file: 2025-cloudwalkers-pegasus-final.pdf
+
+
 - title: "FAIR Data Implementation at NSF Major Facilities"
   author: Charles Vardeman, Don Brower, Jose Cordova, Angela Murillo, Ewa Deelman
   description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024  
