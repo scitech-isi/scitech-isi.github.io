@@ -19,6 +19,13 @@
   year: 2024
   file: OCMC -research-poster.pdf
 
+- title: "CI Compass: The NSF Cyberinfrastructure (CI) Center of Excellence for Navigating the Major Facilities Data Lifecycle"
+  author:  Charles Vardeman II, Don Brower, Angela Murillo, Ewa Deelman
+  description: 2024 Research Infrastructure Workshop (RIW) , Tucson, AZ, 26-29 March 2024
+  month: March
+  year: 2024
+  file: Poster-RIW_2024-CICompass-Overview.pdf
+
 - title: "FAIR Data Implementation at NSF Major Facilities"
   author: Charles Vardeman, Don Brower, Jose Cordova, Angela Murillo, Ewa Deelman
   description: 2023 Research Infrastructure Workshop (RIW) , Washington, D.C., 27-30 June 2023 
