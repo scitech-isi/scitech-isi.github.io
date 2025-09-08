@@ -1,3 +1,16 @@
+- title: 'Kiso: Edge to Cloud Workflows: Advancing Workflow Management in the Computing Continuum.'
+  description: 'Kiso is an experiment management platform to enable the execution of experiments defined as Pegasus workflows on a variety of computing infrastructures.'
+  image: kiso.png
+  funding: NSF
+  website: http://kiso.readthedocs.org/
+  award: 2403051
+  active: true
+  featured: true
+  colors:
+    r: 247
+    g: 247
+    b: 242
+
 - title: 'PosEiDon: Platform for Explainable Distributed Infrastructure'
   description: 'PosEiDon aims to advance the knowledge of how simulation and machine learning (ML) methodologies can be harnessed and amplified to improve DOE’s computational and data science.'
   image: poseidon.png
@@ -51,7 +64,7 @@
     r: 70
     g: 154
     b: 152
-    
+
 - title: 'ACCESS Support - Customized Multi-tier Assistance, Training, and Computational Help (MATCH) for End User ACCESS to CI'
   description: 'MATCH is the award for ACCESS Track 2 - support. The MATCH project develops new approaches, content, services, technologies, and expertise to make it easier for NSF CI users to find and utilize the specific level and type of support needed to effectively carry out their research.'
   image: access.png
@@ -59,7 +72,7 @@
   website: https://support.access-ci.org/
   award: 2138286
   active: true
-  
+
 - title: 'PATh: Partnership to Advance Throughput Computing'
   description: The Partnership to Advance Throughput Computing (PATh) is a project funded by NSF’s OAC Campus Cyberinfrastructure (CC*) program in order to address the needs of the rapidly growing community of faculty and students who are embracing Distributed High Throughput Computing (dHTC) technologies and services to advance their research. Across the science and engineering community, a growing number of single-PI groups are joining the cohort of international physical science collaborations who have depended on the dHTC paradigm for decades.
   image: path.png
@@ -98,7 +111,7 @@
   period: 2017-2021
   featured: true
 
-    
+
 - title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
   image: wrench.png
@@ -145,7 +158,7 @@
     r: 0
     g: 0
     b: 0
-    
+
 - title: 'Analytics4MD: In Situ Data Analytics for Next Generation Molecular Dynamics Workflows'
   description: This interdisciplinary project tackles the data challenge of data analysis of molecular dynamics simulations on the next-generation supercomputers. Specifically, this effort combines machine learning and data analytics approaches, workflow management methods, and high performancecomputing techniques to analyze molecular dynamics data as it is generated.
   image: analytics4md.png
@@ -157,7 +170,7 @@
     r: 216
     g: 76
     b: 39
-    
+
 - title: 'eduWRENCH: Integrating core CI literacy and skills into university curricula via simulation-driven activities'
   description: eduWRENCH provides a set of pedagogic modules that includes simulation-driven activities for students to experience relevant application and platform scenarios hands-on.
   image: wrench.png
@@ -170,14 +183,14 @@
     r: 224
     g: 110
     b: 56
-    
+
 - title: 'IRIS: Integrity Introspection for Scientific Workflows'
   description: The IRIS project develops an appropriate threat model and incorporate it in an integrity introspection, correlation and analysis framework that collects application and infrastructure data and uses statistical and machine learning (ML) algorithms to perform the needed analysis.
   funding: NSF
   website: http://nrig.renci.org/project/iris-integrity-introspection-for-scientific-workflows/
   award: 1839900
   active: false
-  
+
 - title: 'CI4Resilience: Leveraging Advanced Cyberinfrastructure and Developing Organizational Resilience for NSF Large Facilities in the Pandemic Era'
   description: 'This study comprises three main research questions related to NSF large facilities and CI during the pandemic: (a) What types of research activities remain "business as usual" and what types of activities must adapt or stop completely under pandemic conditions (b) If facilities could turn back time, what would they have done to better prepare, dnd (c) What lessons are facilities learning from the current disruptions, and how can these be best disseminated to the facility, CI, and research communities?'
   image: ci4resilience.png
@@ -189,7 +202,7 @@
     r: 92
     g: 167
     b: 194
-    
+
 - title: 'WRENCH: Simulation-driven Evaluation of Cyberinfrastructure Systems'
   description: WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators.
   image: wrench.png
@@ -212,7 +225,7 @@
   award: 1826997
   featured: false
   active: false
-    
+
 - title: 'workflowsRI: Infrastructure for Enabling Systematic Development and Research of Workflow Management Systems'
   description: The goal of the workflowsRI project is to engage with representatives from the workflows community – including researchers, developers, science and engineering users, and cyberinfrastructure experts.
   image: workflowsri.png
