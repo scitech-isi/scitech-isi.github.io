@@ -2,7 +2,12 @@
 title: "Autonomous Decision-Making for Services in the Compute Continuum"
 image: /images/news/Moreno-seminar.jpg
 description: |
-  The Compute Continuum has emerged as a new distributed computing paradigm that extends traditional centralized cloud environments with dynamic and heterogeneous resources, ranging from IoT devices to HPC centers. The heterogeneity and dynamicity of the Continuum is pushing computer scientists to rethink how services are defined, deployed, and coordinated in these new environments. Advancing this field enables applications with societal impact, such as urgent computing, precision agriculture, and resilient energy grids.
+  The Compute Continuum has emerged as a new distributed computing paradigm that extends traditional
+  centralized cloud environments with dynamic and heterogeneous resources, ranging from IoT devices to HPC
+  centers. The heterogeneity and dynamicity of the Continuum is pushing computer scientists to rethink how
+  services are defined, deployed, and coordinated in these new environments. Advancing this field enables
+  applications with societal impact, such as urgent computing, precision agriculture, and resilient energy
+  grids.
 
 This paradigm shift is reshaping middleware design, moving away from centralized orchestrators toward dynamic, decentralized, peer-to-peer platforms. In this talk, I will present my work at the Workflows and Distributed Computing group at the Barcelona Supercomputing Center, where we are developing a programming environment for defining, deploying and operating services in the Continuum. Our approach implements concepts from swarm computing and multi-agent systems, enabling devices to act as autonomous agents that make coordinated decisions to collectively meet quality of service demands.
 
