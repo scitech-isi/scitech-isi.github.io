@@ -8,10 +8,18 @@ description: |
   services are defined, deployed, and coordinated in these new environments. Advancing this field enables
   applications with societal impact, such as urgent computing, precision agriculture, and resilient energy
   grids.
-
-This paradigm shift is reshaping middleware design, moving away from centralized orchestrators toward dynamic, decentralized, peer-to-peer platforms. In this talk, I will present my work at the Workflows and Distributed Computing group at the Barcelona Supercomputing Center, where we are developing a programming environment for defining, deploying and operating services in the Continuum. Our approach implements concepts from swarm computing and multi-agent systems, enabling devices to act as autonomous agents that make coordinated decisions to collectively meet quality of service demands.
-
-Particularly, I will introduce ongoing work on decision-making strategies for the Continuum, with a focus on applying and extending the greedy consensus algorithm developed by Prof. Ewa Deelman’s group. Originally applied to decentralize workflow management systems, we are exploring how this algorithm can be integrated into our environment to enable adaptive, self-managing services across the Continuum.
+  
+  This paradigm shift is reshaping middleware design, moving away from centralized orchestrators toward
+  dynamic, decentralized, peer-to-peer platforms. In this talk, I will present my work at the Workflows
+  and Distributed Computing group at the Barcelona Supercomputing Center, where we are developing a
+  programming environment for defining, deploying and operating services in the Continuum. Our approach
+  implements concepts from swarm computing and multi-agent systems, enabling devices to act as autonomous
+  agents that make coordinated decisions to collectively meet quality of service demands.
+  
+  Particularly, I will introduce ongoing work on decision-making strategies for the Continuum, with a
+  focus on applying and extending the greedy consensus algorithm developed by Prof. Ewa Deelman’s group.
+  Originally applied to decentralize workflow management systems, we are exploring how this algorithm can
+  be integrated into our environment to enable adaptive, self-managing services across the Continuum.
 
 date: 17 October 2025
 layout: post
