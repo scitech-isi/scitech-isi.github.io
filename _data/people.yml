@@ -353,6 +353,7 @@
 - name: Atul Kumar
   position: Student Worker (M.S.) 
   photo: nophoto.png
+  linkedin: https://www.linkedin.com/in/atulcst/
   alumni: true
 
 - name: Raphael Bolze
@@ -410,5 +411,5 @@
 - name: Sonal Patil
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/sonal-patil-/
-  photo: khurana.jpeg
+  photo: patil.jpeg
   alumni: true
