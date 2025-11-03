@@ -334,19 +334,20 @@
 
 - name: Erin Griffiths
   position: Student Worker (B.S.)
-  photo: nophoto.png
+  linkedin: https://www.linkedin.com/in/erin-griffiths-01123088/
+  photo: griffiths.jpeg
   alumni: true
 
 - name: Karan Seth
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/karan-seth-81326426/
-  photo: nophoto.png
+  photo: kseth.jpeg
   alumni: true
 
 - name: Jay Pavagadhi
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/jay-pavagadhi/
-  photo: nophoto.png
+  photo: pavagadhi.jpeg
   alumni: true
 
 - name: Atul Kumar
@@ -385,7 +386,7 @@
 - name: Arun Ramakrishnan
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/aramakrishnan/
-  photo: nophoto.png
+  photo: ramakrishnan.jpeg
   alumni: true
 
 - name: Tsai Ming Tseng
@@ -396,16 +397,17 @@
 - name: Saurabh Khurana
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/saurabh-khurana-459787/
-  photo: nophoto.png
+  photo: khurana.jpeg
   alumni: true
 
 - name: Jaskaran Singh
   position: Student Worker (M.S.)
   linkedin: https://www.linkedin.com/in/jaskaransingh/
-  photo: nophoto.png
+  photo: jsingh.jpeg
   alumni: true
 
 - name: Sonal Patil
   position: Student Worker (M.S.)
-  photo: nophoto.png
+  linkedin: https://www.linkedin.com/in/sonal-patil-/
+  photo: khurana.jpeg
   alumni: true
