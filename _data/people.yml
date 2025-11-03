@@ -391,7 +391,8 @@
 
 - name: Tsai Ming Tseng
   position: Student Worker (M.S.)
-  photo: nophoto.png
+  linkedin: https://www.linkedin.com/in/tmtseng/
+  photo: tsgeng.jpeg
   alumni: true
 
 - name: Saurabh Khurana
