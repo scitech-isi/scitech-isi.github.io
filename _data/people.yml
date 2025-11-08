@@ -30,12 +30,17 @@
   position: Program Administrator
   linkedin: https://www.linkedin.com/in/nicolevirdone/
   photo: virdone.jpg
+
+- name: Peter Zamar
+  position: Project Specialist
+  photo: zamar.jpg
   
 - name: Ciji Davis
   degree: M.S., PMP
   position: Project Specialist
   linkedin: https://www.linkedin.com/in/cijidavis/
   photo: davis.jpg
+  alumni: true
 
 - name: Suman Raj
   position: Visiting Ph.D. Student
