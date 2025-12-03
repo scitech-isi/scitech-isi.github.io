@@ -1,4 +1,10 @@
-
+- title: From Scripts to Workflows: Orchestrating Science with Pegasus
+  author: Ewa Deelman
+  description: Computational Cove, the Inaugural SoCal Research Computing & Data Symposium
+  month: October
+  year: 2025
+  file: deelman-comp-cove-2025.pdf
+  
 - title: USC Bootcamp 2023 - Pegasus
   author: Karan Vahi, Mats Rynge
   description: 3 day virtual HPC bootcamp hosted by USC CARC
