@@ -11,7 +11,7 @@ categories:
 
 # It is our pleasure to introduce our new Postdoctoral Scholar Hamza Safri to the SciTech team
 
-Pawel obtained his PhD in Computer Science from the University of Grenoble in 2025.
+Hamza obtained his PhD in Computer Science from the University of Grenoble in 2025.
 
 His research interests includes federated and machine learning, MLOps, DevOps, CI/CD and IoT (Internet of Things) 
 
