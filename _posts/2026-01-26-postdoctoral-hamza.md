@@ -1,6 +1,6 @@
 ---
 title: "New Hire Spotlight: Hamza Safri"
-image: /images/people/safri.jpg
+image: /images/people/safri-postdoc.png 
 description: "The SciTech group welcome's Hamza Safri"
 description: "Postdoctoral Scholar-Research Associate, Hamza Safri, tells the SciTech group a little bit about himself"
 date: 2026-01-26
