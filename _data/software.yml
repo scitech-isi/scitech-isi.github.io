@@ -1,3 +1,11 @@
+- name: Kiso
+  description: 'Kiso is an experiment management platform to enable the execution of experiments defined as Pegasus workflows on a variety of computing infrastructures.'
+  website: https://kiso.scitech.group
+  github: https://github.com/pegasus-isi/kiso
+  logo: kiso.png
+  leader: Rajiv Mayani
+  photo: mayani.jpg
+
 - name: Pegasus Workflow Management System
   description: 'The Pegasus project encompasses a set of technologies that help workflow-based applications execute in a number of different environments including desktops, campus clusters, clouds, and national cyberinfrastructures including grids and supercomputers. Scientific workflows allow users to easily express multi-step computations, for example retrieve data from a database, reformat the data, and run an analysis. Once an application is formalized as a workflow the Pegasus Workflow Management Service can map it onto available compute resources and execute the steps in appropriate order. Pegasus can easily handle workflows with several million computational tasks.'
   website: https://pegasus.isi.edu
@@ -5,7 +13,7 @@
   logo: pegasus.png
   leader: Karan Vahi
   photo: vahi.jpg
-
+  
 - name: 'WRENCH: Workflow Management System Simulation Workbench'
   description: 'WRENCH enables novel avenues for scientific workflow use, research, development, and education in the context of large-scale scientific computations and data analyses. WRENCH is an open-source library for developing simulators. WRENCH exposes several high-level simulation abstractions to provide high-level building blocks for developing custom simulators. WRENCH is an original creation of Dr Rafael Ferreira da Silva.'
   website: https://wrench-project.org
