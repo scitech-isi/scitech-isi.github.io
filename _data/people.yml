@@ -31,6 +31,11 @@
   linkedin: https://www.linkedin.com/in/nicolevirdone/
   photo: virdone.jpg
 
+- name: Hamza Safri
+  position: Visiting Ph.D. Student
+  linkedin: https://www.linkedin.com/in/hamzasafri/?originalSubdomain=fr
+  photo: safri.jpg
+
 - name: Peter Zamar
   position: Project Specialist
   photo: zamar.jpg
@@ -63,12 +68,6 @@
   photo: papadimitriou.png
   alumni: true
   
-- name: Hamza Safri
-  position: Visiting Ph.D. Student
-  linkedin: https://www.linkedin.com/in/hamzasafri/?originalSubdomain=fr
-  photo: safri.jpg
-  alumni: true
-
 - name: Zaiyan Alam
   degree: M.S.
   position: Associate Research Engineer
