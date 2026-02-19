@@ -21,7 +21,7 @@ Quantum computers promise transformative performance for certain classes of scie
 - **Where:** MDR #1014 Conference Room
 - _This event is open to the public._
 - **Type:** Scientific Computing Seminar
-- <img src="/images/smallyoutubelogo.png"><a href="https://www.youtube.com/watch?v=8bX9YGHSWnc">Recording of seminar</a>
+- Recording of Seminar: <a href="https://www.youtube.com/watch?v=8bX9YGHSWnc"><img src="./images/youtube-icon.png"/></a>
 
 Speaker: Vincenzo De Maio, TU Wien
 
