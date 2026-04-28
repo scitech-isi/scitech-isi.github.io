@@ -30,8 +30,8 @@
   funding: DOE
   website: http://poseidon-workflows.org/
   award: DE-SC0022328
-  active: true
-  featured: true
+  active: false
+  featured: false
   colors:
     r: 92
     g: 167
@@ -71,8 +71,8 @@
   website: https://pegasus.isi.edu
   youtube: https://www.youtube.com/channel/UCwJQln1CqBvTJqiNr9X9F1Q
   award: 1664162
-  active: true
-  featured: true
+  active: false
+  featured: false
   colors:
     r: 70
     g: 154
@@ -258,7 +258,7 @@
   description: The project provides the astrophysics community with a transformative building block to a roadmap for reproducible open science. Findings about the reproducibility process of the EHT and NICER results are captured and disseminated through documentation, data products, and methods used.
   funding: NSF
   award: 2041901
-  active: true
+  active: false
 
 - title: 'Reproducibility and Cyberinfrastructure for Computational and Data-Enabled Science'
   description: This project seeks to improve understanding of how the scientific community can adapt to the increasing use of computing and large-scale data resources. One challenge is ensuring that computational results -such as those from simulations- are "reproducible", that is, the same results areobtained when one re-uses the same input data, methods, software and analysis conditions. In 2019, the National Academies of Science, Engineering, and Medicine (NASEM) issued a report on "Reproducibility and Replication in Science" with a series of recommendations. The project will assess the implications of these recommendations on the scientific discovery process for computationally and data-enabled research.
@@ -314,7 +314,8 @@
   image: cgsmd.png
   funding: NIH
   website: https://www.nimhgenetics.org
-  active: true
+  active: false
+  featured: false
   colors:
     r: 218
     g: 150
@@ -326,7 +327,8 @@
   funding: NSF
   website: https://simcenter.designsafe-ci.org
   award: 1612843
-  active: true
+  active: false
+  featured: false
   colors:
     r: 166
     g: 69
