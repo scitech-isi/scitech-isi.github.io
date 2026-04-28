@@ -52,6 +52,19 @@
     g: 247
     b: 242
 
+- title: 'Collaborative Research: CyberTraining: Implementation: Medium: CyberInfrastructure Training and Education for Synchrotron X-Ray Science (X-CITE)'
+  description: 'X-CITE (CyberInfrastructure Training and Education for Synchrotron X-Ray Science) develops training materials for the community of scientists and researchers using the CHESS synchrotron X-ray facility and similar light sources.'
+  image: xcite.png
+  funding: NSF
+  website: https://xcitecourse.org
+  award: 2320375
+  active: true
+  featured: true
+  colors:
+    r: 247
+    g: 247
+    b: 242
+
 - title: 'PosEiDon: Platform for Explainable Distributed Infrastructure'
   description: 'PosEiDon aims to advance the knowledge of how simulation and machine learning (ML) methodologies can be harnessed and amplified to improve DOE’s computational and data science.'
   image: poseidon.png
