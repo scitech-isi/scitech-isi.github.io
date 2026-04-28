@@ -155,6 +155,21 @@
     g: 69
     b: 62
 
+- title: 'Collaborative Research: SHF: Small: Model-driven Design and Optimization of Dataflows for Scientific Applications'
+  description: 'This project addresses the critical challenges using dataflows in scientific domains such as chemistry, materials sciences, molecular biology, and drug design by developing solutions to optimize dataflow pipelines across heterogeneous resources.'
+  image: nsf.png
+  funding: NSF
+  website: https://www.nsf.gov/awardsearch/show-award?AWD_ID=2331153
+  award: 2331153
+  active: true
+  featured: true
+  colors:
+    r: 0
+    g: 119
+    b: 255
+
+
+
 - title: 'CI CoE: Pilot Study for a Cyberinfrastructure Center of Excellence'
   description: CI CoE provides expertise and active support to cyberinfrastructure practitioners at NSF Major Facilities in order to accelerate the data lifecycle and ensure the integrity and effectiveness of the cyberinfrastructure upon which research and discovery depends.
   image: cicoe.png
