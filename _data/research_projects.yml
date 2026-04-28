@@ -1,3 +1,16 @@
+- title: 'Collaborative Research: CyberTraining: Implementation: Medium: Cyberinfrastructure Training and Education for Leveraging Advanced Electron Microscopy in Materials Science.'
+  description: 'CITEAM brings together PIs with expertise in CI as well as in imaging-enabled materials science to develop an innovative cybertraining program targeting the materials science community that relies on advanced microscopes (e.g., Transmission Electron Microscopes (TEM)) for research.'
+  image: citeam.jpg
+  funding: NSF
+  website: https://citeamcourse.org
+  award: 2519467
+  active: true
+  featured: true
+  colors:
+    r: 243
+    g: 242
+    b: 247
+
 - title: 'Kiso: Edge to Cloud Workflows: Advancing Workflow Management in the Computing Continuum.'
   description: 'Kiso is an experiment management platform to enable the execution of experiments defined as Pegasus workflows on a variety of computing infrastructures.'
   image: kiso.png
