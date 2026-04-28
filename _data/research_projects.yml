@@ -61,9 +61,9 @@
   active: true
   featured: true
   colors:
-    r: 247
-    g: 247
-    b: 242
+    r: 65
+    g: 107
+    b: 89
 
 - title: 'PosEiDon: Platform for Explainable Distributed Infrastructure'
   description: 'PosEiDon aims to advance the knowledge of how simulation and machine learning (ML) methodologies can be harnessed and amplified to improve DOE’s computational and data science.'
