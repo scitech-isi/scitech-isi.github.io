@@ -1,5 +1,20 @@
+
+- title: 'Collaborative Research: Cross-Cutting Improvements: Open Science Roadmap for Research Infrastructures'
+  description: 'This project studies data management practices at user facilities with the goal of improving how research data is organized, stored, and shared. '
+  image: nsf.png
+  funding: NSF
+  website: https://www.nsf.gov/awardsearch/show-award?AWD_ID=2531702
+  award: 2531702
+  active: true
+  featured: true
+  colors:
+    r: 0
+    g: 119
+    b: 255
+
+
 - title: 'CSSI: Frameworks: Applying Artificial Intelligence Advances to the Next Generation of Workflow Management on Modern Cyberinfrastructure'
-  description: 'The project designs and implements PegasusAI, an open, modular workflow management framework that integrates AI across the entire workflow lifecycle'
+  description: 'This project designs and implements PegasusAI, an open, modular workflow management framework that integrates AI across the entire workflow lifecycle'
   image: pegasusai.png
   funding: NSF
   website: https://pegasus-ai.org/
@@ -35,9 +50,9 @@
   active: true
   featured: true
   colors:
-    r: 243
-    g: 242
-    b: 247
+    r: 227
+    g: 226
+    b: 5
 
 - title: 'Kiso: Edge to Cloud Workflows: Advancing Workflow Management in the Computing Continuum.'
   description: 'Kiso is an experiment management platform to enable the execution of experiments defined as Pegasus workflows on a variety of computing infrastructures.'
