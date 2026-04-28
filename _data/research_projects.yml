@@ -11,6 +11,20 @@
     g: 119
     b: 255
 
+- title: 'CICI:TCR:SAFARI: Scientific Analytics, Forensics, and Reproducibility for Workflows in CI'
+  description: 'The SAFARI project (Scientific Analytics, Forensics, and Reproducibility for Workflows in CI) advances scientific research by integrating forensic data analytics into the workflows used for large-scale data analyses. These analytics (i.e., tools that track the origin, processing, and reliability of data) are directly incorporated into the workflow systems used by researchers in Earth science and related field'
+  image: safari.png
+  funding: NSF
+  website: https://globalcomputing.group/safari/
+  award: 2530461
+  active: true
+  featured: true
+  colors:
+    r: 0
+    g: 119
+    b: 255
+
+
 
 - title: 'Collaborative Research: CyberTraining: Implementation: Medium: Cyberinfrastructure Training and Education for Leveraging Advanced Electron Microscopy in Materials Science.'
   description: 'CITEAM brings together PIs with expertise in CI as well as in imaging-enabled materials science to develop an innovative cybertraining program targeting the materials science community that relies on advanced microscopes (e.g., Transmission Electron Microscopes (TEM)) for research.'
