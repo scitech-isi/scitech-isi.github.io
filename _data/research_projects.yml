@@ -1,3 +1,17 @@
+- title: 'CSSI: Frameworks: Applying Artificial Intelligence Advances to the Next Generation of Workflow Management on Modern Cyberinfrastructure'
+  description: 'The project designs and implements PegasusAI, an open, modular workflow management framework that integrates AI across the entire workflow lifecycle'
+  image: pegasusai.jpg
+  funding: NSF
+  website: https://pegasus-ai.org/
+  award: 2513101
+  active: true
+  featured: true
+  colors:
+    r: 0
+    g: 119
+    b: 255
+
+
 - title: 'Collaborative Research: CyberTraining: Implementation: Medium: Cyberinfrastructure Training and Education for Leveraging Advanced Electron Microscopy in Materials Science.'
   description: 'CITEAM brings together PIs with expertise in CI as well as in imaging-enabled materials science to develop an innovative cybertraining program targeting the materials science community that relies on advanced microscopes (e.g., Transmission Electron Microscopes (TEM)) for research.'
   image: citeam.jpg
