@@ -10,7 +10,8 @@ url = {https://doi.org/10.1145/3785462.3815874},
 abstract = {AlphaFold&nbsp;3 (AF3) enables atomic-resolution prediction of biomolecular complexes, driving rapidly growing demand across the life sciences. However, its ∼ 750,GB reference database has effectively confined production deployments to systems with shared parallel filesystems, creating a major barrier for scalability. Distributed high-throughput computing (dHTC) platforms offer vast, heterogeneous compute capacity, but fundamentally lack the shared data infrastructure assumed by AF3. We present a data-aware deployment of AF3 for dHTC, implemented on the Center for High Throughput Computing (CHTC) and the Open Science Pool (OSPool). The workflow is decomposed into a CPU-bound data pipeline that executes on nodes with locally staged, scheduler-advertised databases, and a GPU-bound inference pipeline that opportunistically scales across distributed resources. Using CUDA Unified Virtual Memory (UVM), we extend inference beyond physical GPU limits, enabling predictions of ultra-large complexes that exceed device vRAM. By elevating dataset locality to a schedulable resource via HTCondor ClassAds, we eliminate prohibitive per-job data transfers and enable efficient, federated execution. Beyond scaling throughput, we demonstrate that dHTC can support previously infeasible workloads. Together, these results establish dHTC as a viable—and in some regimes superior— execution model for data-intensive structural biology workflows and provide a general blueprint for deploying large, data-intensive applications on distributed cyberinfrastructure.},
 booktitle = {Proceedings of the Practice and Experience in Advanced Research Computing 2026: Resilient Roots + Empowered Communities},
 articleno = {34},
-numpages = {5}
+numpages = {5},
+note = {Funding Acknowledgements: }
 }
 
 @inbook{sperhac-pearc-2026,
@@ -24,7 +25,8 @@ url = {https://doi.org/10.1145/3785462.3815799},
 abstract = {Advancements in Artificial Intelligence (AI) continue to propel a revolution in academic research computing. As academics turn to AI to make fundamental strides in their research, they refine and expand existing techniques to create new models and algorithms, AI-ready datasets, AI-relevant cyberinfrastructure, and more. However, with AI techniques and computing resources evolving rapidly, both academia and industry must ensure that a trained workforce of capable researchers is poised to make continued advancements in the AI sphere. The NSF Center of Excellence for Science Gateways (SGX3) convened an initiative called the AI Blueprint Factory to ascertain the AI needs of research communities that use national-scale computing infrastructure, and to make 5 to 10 year forecasts of needed features and resources. Its study team interviewed researchers across disciplines and seniority levels to determine perceived needs, opportunities, and gaps in AI research support. With this study, SGX3 seeks to identify the evolving scientific needs for AI capabilities, in order to foster the utilization of AI techniques in domain science research. In this paper, we describe the study’s conclusions, including concerns and recommendations, relating to workforce development for AI in scientific research.},
 booktitle = {Proceedings of the Practice and Experience in Advanced Research Computing 2026: Resilient Roots + Empowered Communities},
 articleno = {19},
-numpages = {8}
+numpages = {8},
+note = {Funding Acknowledgements: NSF Grant #NSF 2127548}
 }
 
 @inbook{murillo-pearc-2026,
@@ -38,7 +40,8 @@ url = {https://doi.org/10.1145/3785462.3815822},
 abstract = {Abstract: The U.S. National Science Foundation (NSF) CI Compass Fellowship Program (CICF) is a specialized training initiative designed to address the persistent workforce gap in cyberinfrastructure (CI) research, development, and operations. Over five years, the program has mentored eighty undergraduate students from forty-eight institutions, bridging the gap between technical foundations and the operational contexts of NSF Major Facilities (MFs). This article details the program's structure, its rapid growth into a selective national fellowship, and its measurable impact on student technical proficiency and career trajectories.},
 booktitle = {Proceedings of the Practice and Experience in Advanced Research Computing 2026: Resilient Roots + Empowered Communities},
 articleno = {71},
-numpages = {4}
+numpages = {4},
+note = {Funding Acknowledgements: NSF Grant #2127548}
 }
 
 @inproceedings{hasan-icrcc-2026,
@@ -48,6 +51,7 @@ journal = "International Crisis and Risk Communication Association Reports",
 volume  =  14,
 number  =  1,
 year    =  2026,
+note = {Funding Acknowledgements: NSF Grant #OAC-2042055 and #2127548 }
 }
 
 @InProceedings{kaczmarski-iccs-2026,
@@ -67,17 +71,19 @@ publisher="Springer Nature Switzerland",
 address="Cham",
 pages="573--587",
 abstract="We present a unified integer-only kernel for hyperbolic functions tanh(x) and sigmoid(x), designed for embedded RISC-V platforms without floating-point units. The kernel combines LUT anchoring, CORDIC microrotations, and linear correction in Q20 arithmetic, producing outputs directly in Q1.16 format suitable for ML inference. Exhaustive evaluation across the entire 17-bit input space demonstrates deterministic accuracy better than 1 ULP in Q1.16, with maximum absolute errors below {\$}{\$}1.5 {\backslash}times 10^{\{}-5{\}}{\$}{\$}1.5{\texttimes}10-5. Compared to software-emulated floating-point implementations, our approach achieves significant speedup while reducing hardware complexity by unifying multiple activation functions in a single IP block. This makes the method highly relevant for efficient deployment of neural networks on resource-constrained RISC-V microcontrollers.",
-isbn="978-3-032-29915-4"
+isbn="978-3-032-29915-4",
+note = {Funding Acknowledgements: }
 }
 
 @misc{thareja-spec-2026,
-      title={From Specification to Execution: AI Assisted Scientific Workflow Management}, 
+      title={Complexity and Scale in AI-Assisted Workflow Management: A Federated Learning Case Study}, 
       author={Komal Thareja and Hamza Safri and Rajiv Mayani and Anirban Mandal and Ewa Deelman},
       year={2026},
       eprint={2606.18425},
       archivePrefix={arXiv},
       primaryClass={cs.SE},
-      url={https://arxiv.org/abs/2606.18425}, 
+      url={https://arxiv.org/abs/2606.18425},
+      note = {Funding Acknowledgements: NSF grant #2513101}
 }
 
 @article{poczekajlo-jocs-2026,
@@ -91,7 +97,8 @@ doi = {https://doi.org/10.1016/j.jocs.2026.102933},
 url = {https://www.sciencedirect.com/science/article/pii/S1877750326001511},
 author = {Pawel Poczekajlo and Ewa Deelman and Michela Taufer and Pawel Gepner and Leonid Moroz and Jerzy Krawiec and Andrzej Przybyl},
 keywords = {CORDIC, Algorithm, Recoded, FPGA, Latency},
-abstract = {CORDIC-based architectures remain a key building block for implementing elementary transcendental functions on resource-constrained FPGAs. However, classical CORDIC suffers from long latencies, irregular iteration patterns in hyperbolic mode, and non-trivial scale-factor compensation. This work builds on a low-latency recoding CORDIC for trigonometric functions based on look up tables anchoring, angle recoding and linear interpolation. It extends that framework to support the hyperbolic mode and the exponential function exp(x), and validates it across two FPGA families (Intel/Altera Cyclone IV and AMD/Xilinx Spartan-7). The proposed recoded hyperbolic kernel uses a monotonic shift schedule, eliminates runtime direction computation, and leverages a bit-accurate fixed-point model to derive all constants and interpolation coefficients. Experimental evaluation with 16-bit fixed-point operands compares the proposed design with vendor CORDIC and exp IP cores. For exp(x), the framework achieves a latency reduction of about 36% on the Spartan-7 device relative to the AMD IP core, while using a similar number of LUTs; on Cyclone IV it reduces logic consumption by around 10% and nearly halves the latency with respect to the Intel exp IP core. For sine and cosine, the recoded architecture requires substantially fewer LUTs than vendor CORDIC blocks while preserving numerical accuracy. Overall, the extended framework provides a unified, portable and low-latency solution for trigonometric and exponential computations on FPGAs, suitable for edge and embedded environments.}
+abstract = {CORDIC-based architectures remain a key building block for implementing elementary transcendental functions on resource-constrained FPGAs. However, classical CORDIC suffers from long latencies, irregular iteration patterns in hyperbolic mode, and non-trivial scale-factor compensation. This work builds on a low-latency recoding CORDIC for trigonometric functions based on look up tables anchoring, angle recoding and linear interpolation. It extends that framework to support the hyperbolic mode and the exponential function exp(x), and validates it across two FPGA families (Intel/Altera Cyclone IV and AMD/Xilinx Spartan-7). The proposed recoded hyperbolic kernel uses a monotonic shift schedule, eliminates runtime direction computation, and leverages a bit-accurate fixed-point model to derive all constants and interpolation coefficients. Experimental evaluation with 16-bit fixed-point operands compares the proposed design with vendor CORDIC and exp IP cores. For exp(x), the framework achieves a latency reduction of about 36% on the Spartan-7 device relative to the AMD IP core, while using a similar number of LUTs; on Cyclone IV it reduces logic consumption by around 10% and nearly halves the latency with respect to the Intel exp IP core. For sine and cosine, the recoded architecture requires substantially fewer LUTs than vendor CORDIC blocks while preserving numerical accuracy. Overall, the extended framework provides a unified, portable and low-latency solution for trigonometric and exponential computations on FPGAs, suitable for edge and embedded environments.},
+note = {Funding Acknowledgements: NSF Grant #2331153 }
 }
 
 @misc{thareja-sensors-2026,
@@ -101,7 +108,8 @@ abstract = {CORDIC-based architectures remain a key building block for implement
       eprint={2605.02859},
       archivePrefix={arXiv},
       primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2605.02859}, 
+      url={https://arxiv.org/abs/2605.02859},
+      note = {Funding Acknowledgements: }
 }
 
 @article{kee-mcq-2026,
@@ -116,7 +124,8 @@ doi = {10.1177/08933189261439761},
 URL = {https://doi.org/10.1177/08933189261439761},
 eprint = { https://doi.org/10.1177/08933189261439761   
 },
-abstract = { This qualitative study grounded in phronetic iterative analysis examines how big science organizations adapted to the COVID-19 pandemic while sustaining their scientific missions. Using the communication theory of resilience (CTR) as a guiding framework, infused with the literature on high-reliability organizations (HRO), the analysis draws from 56 semi-structured interviews across three phases (2020–2023) to identify 10 adaptive strategies linked to four of CTR’s five core processes. The fifth—affirming identity anchors—did not surface as an explicit strategy but operated implicitly, suggesting that when organizational identity aligns with crisis demands, explicit identity work may be unnecessary. Flexibility emerged as a central meta-process that shaped how strategies were implemented in context. Key strategies included adjusting work expectations, focusing on outcomes over time/place, and leveraging peer networks. This study contributes to CTR and HRO scholarship by emphasizing the contextual, communicative, and identity-sensitive nature of adaptive resilience during systemic disruption. }
+abstract = { This qualitative study grounded in phronetic iterative analysis examines how big science organizations adapted to the COVID-19 pandemic while sustaining their scientific missions. Using the communication theory of resilience (CTR) as a guiding framework, infused with the literature on high-reliability organizations (HRO), the analysis draws from 56 semi-structured interviews across three phases (2020–2023) to identify 10 adaptive strategies linked to four of CTR’s five core processes. The fifth—affirming identity anchors—did not surface as an explicit strategy but operated implicitly, suggesting that when organizational identity aligns with crisis demands, explicit identity work may be unnecessary. Flexibility emerged as a central meta-process that shaped how strategies were implemented in context. Key strategies included adjusting work expectations, focusing on outcomes over time/place, and leveraging peer networks. This study contributes to CTR and HRO scholarship by emphasizing the contextual, communicative, and identity-sensitive nature of adaptive resilience during systemic disruption. },
+note = {Funding Acknowledgements: NSF Grant #2127548 }
 }
 
 @article{wyrzykowski-fgcs-2026,
@@ -130,7 +139,8 @@ doi = {https://doi.org/10.1016/j.future.2026.108508},
 url = {https://www.sciencedirect.com/science/article/pii/S0167739X26001421},
 author = {Roman Wyrzykowski and Ewa Deelman},
 keywords = {HPC systems, Parallel computing, Algorithms, Models, HPC applications, AI/ML},
-abstract = {The landscape of high-performance computing (HPC) systems keeps expanding with new technologies and increased system complexity. In hardware, this trend is driven by technological innovations providing increasing computing power and storage capabilities while taming cost and power metrics. For software, we are witnessing a steady increase in the complexity of algorithms, in data sizes, and in processing requirements. Successfully handling this expansion and maintaining performance and efficiency at adequate levels requires the existing and emerging hardware, middleware, and application aspects and concerns to be re-examined and adapted to the evolving and new paradigms. The goal of this Special Issue is to provide insights into recent advances in innovative technologies and models, algorithms, and software tools that facilitate efficient and convenient use of emerging HPC platforms and enable large-scale applications, including techniques based on artificial intelligence and machine learning. Particular attention is paid to the future of computing beyond Moore’s Law.}
+abstract = {The landscape of high-performance computing (HPC) systems keeps expanding with new technologies and increased system complexity. In hardware, this trend is driven by technological innovations providing increasing computing power and storage capabilities while taming cost and power metrics. For software, we are witnessing a steady increase in the complexity of algorithms, in data sizes, and in processing requirements. Successfully handling this expansion and maintaining performance and efficiency at adequate levels requires the existing and emerging hardware, middleware, and application aspects and concerns to be re-examined and adapted to the evolving and new paradigms. The goal of this Special Issue is to provide insights into recent advances in innovative technologies and models, algorithms, and software tools that facilitate efficient and convenient use of emerging HPC platforms and enable large-scale applications, including techniques based on artificial intelligence and machine learning. Particular attention is paid to the future of computing beyond Moore’s Law.},
+note = {Funding Acknowledgements:  }
 }
 
 @misc{thareja-swarmplus-2026,
@@ -140,13 +150,13 @@ abstract = {The landscape of high-performance computing (HPC) systems keeps expa
       eprint={2603.19431},
       archivePrefix={arXiv},
       primaryClass={cs.DC},
-      url={https://arxiv.org/abs/2603.19431}, 
+      url={https://arxiv.org/abs/2603.19431},
+      note = {Funding Acknowledgements: DOE Award #DE-SC0024387 }
 }
 
 @article{wyrzykowski-ijhpca-2026,
 author = {Roman Wyrzykowski and Ewa Deelman},
 title ={Guest editor’s note: Special issue on system-level innovations for performance and fairness at scale: From interconnects to schedulers},
-
 journal = {The International Journal of High Performance Computing Applications},
 volume = {40},
 number = {2},
@@ -154,7 +164,8 @@ pages = {217-218},
 year = {2026},
 doi = {10.1177/10943420261430558},
 URL = {https://doi.org/10.1177/10943420261430558},
-eprint = {  https://doi.org/10.1177/10943420261430558}
+eprint = {  https://doi.org/10.1177/10943420261430558},
+note = {Funding Acknowledgements: }
 }
 
 @INPROCEEDINGS{mahmud-bbrv3-2026,
@@ -166,7 +177,8 @@ eprint = {  https://doi.org/10.1177/10943420261430558}
   number={},
   pages={716-722},
   keywords={Measurement;Protocols;Bandwidth;Fabrics;Resource management;Indexes;BBR;congestion control;fairness;RTT fairness;network protocols;high-bandwidth networks},
-  doi={10.1109/ICNC68183.2026.11416923}
+  doi={10.1109/ICNC68183.2026.11416923},
+  note = {Funding Acknowledgements: DOE Award #DE-SC0022328}
 }
 
 @INPROCEEDINGS{race-agu-2026,
@@ -178,7 +190,8 @@ eprint = {  https://doi.org/10.1177/10943420261430558}
           eid = {DO44B-1846},
         pages = {DO44B-1846},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2026AGUOSMD44B1846R},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+      note = {Funding Acknowledgements: }
 }
 
 @ARTICLE{deelman-spm-2026,
@@ -190,7 +203,8 @@ eprint = {  https://doi.org/10.1177/10943420261430558}
   number={6},
   pages={110-120},
   keywords={Program processors;Signal processing algorithms;Approximation algorithms;Real-time systems;Polynomials;Computational efficiency;Sensors;Resource management;Error analysis;Internet of Things;Taylor series},
-  doi={10.1109/MSP.2025.3636383}
+  doi={10.1109/MSP.2025.3636383},
+  note = {Funding Acknowledgements: NSF grant #2331153}
 }
 
 @article{kiso,
@@ -202,7 +216,8 @@ YEAR={2026},
 URL={https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2026.1800335},
 DOI={10.3389/fcpxs.2026.1800335},
 ISSN={2813-6187},
-ABSTRACT={Experimentation on distributed, heterogeneous computing environments—from edge devices to large-scale cloud platforms—demands orchestration technologies that are both flexible and extensible. Kiso is an open-source framework designed to provision resources and manage complex scientific workflows across the edge-to-cloud continuum. Its architecture unifies infrastructure provisioning, experiment configuration, and reproducible execution, enabling researchers to compose and monitor experiments that span geographically dispersed sites and variable network conditions. Although Kiso was conceived for workflow management—coordinating data-intensive tasks and ensuring reproducibility across dynamic infrastructures—its modular design makes it equally promising for providing reproducible environments for deploying and studying emerging agentic frameworks, where autonomous AI agents require consistent resource provisioning, cross-site communication, and result collection. We describe Kiso’s core capabilities for resource orchestration, experiment lifecycle management, and integration with containerized services, and we outline how these capabilities can support distributed multi-agent systems. In particular, we discuss how its declarative provisioning, extensible task abstractions, and built-in monitoring and output collection provide a natural foundation for experiments in which reasoning agents plan, negotiate, and adapt in real time. This study situates Kiso at the intersection of scientific workflow management and complex, agent-based computing, highlighting its potential to accelerate research on adaptive, self-organizing cyber-physical systems—an emerging frontier in complex systems science.}
+ABSTRACT={Experimentation on distributed, heterogeneous computing environments—from edge devices to large-scale cloud platforms—demands orchestration technologies that are both flexible and extensible. Kiso is an open-source framework designed to provision resources and manage complex scientific workflows across the edge-to-cloud continuum. Its architecture unifies infrastructure provisioning, experiment configuration, and reproducible execution, enabling researchers to compose and monitor experiments that span geographically dispersed sites and variable network conditions. Although Kiso was conceived for workflow management—coordinating data-intensive tasks and ensuring reproducibility across dynamic infrastructures—its modular design makes it equally promising for providing reproducible environments for deploying and studying emerging agentic frameworks, where autonomous AI agents require consistent resource provisioning, cross-site communication, and result collection. We describe Kiso’s core capabilities for resource orchestration, experiment lifecycle management, and integration with containerized services, and we outline how these capabilities can support distributed multi-agent systems. In particular, we discuss how its declarative provisioning, extensible task abstractions, and built-in monitoring and output collection provide a natural foundation for experiments in which reasoning agents plan, negotiate, and adapt in real time. This study situates Kiso at the intersection of scientific workflow management and complex, agent-based computing, highlighting its potential to accelerate research on adaptive, self-organizing cyber-physical systems—an emerging frontier in complex systems science.},
+note = {Funding Acknowledgements: NSF grant #2403051 and DOE Award #DE-SC0024387}
 }
 
 @article{RAJ2026108579,
@@ -216,7 +231,8 @@ doi = {https://doi.org/10.1016/j.future.2026.108579},
 url = {https://www.sciencedirect.com/science/article/pii/S0167739X2600213X},
 author = {Suman Raj and Radhika Mittal and Rajiv Mayani and Pawel Zuk and Anirban Mandal and Michael Zink and Yogesh Simmhan and Ewa Deelman},
 keywords = {Unmanned Aerial Vehicles, Edge computing, Wildfire rescue management, DNN inferencing, Resilient algorithms},
-abstract = {Drone fleets equipped with onboard cameras, computer vision, and Deep Neural Network (DNN) models offer a powerful solution for diverse spatio-temporal applications. In the context of wildfire response, drones can play a critical role in monitoring fire spread, assisting firefighters in suppression efforts, and facilitating safe evacuation. In this paper, we introduce AeroResQ, an edge-accelerated Unmanned Aerial Vehicle (UAV) framework for scalable, resilient, and collaborative escape route planning in dynamic wildfire scenarios. AeroResQ introduces service drones (SDs) and coordinator drones (CDs), each with specialized roles. SDs survey fire-affected areas, detect stranded individuals using onboard edge accelerators running fire detection and human pose identification DNN models, and issue assistance requests. CDs, equipped with lightweight data stores such as Apache IoTDB (Database for Internet of Things), dynamically generate optimal ground escape routes and monitor firefighter movements along these routes. AeroResQ employs a collaborative path-planning approach using a weighted A* search algorithm based on terrain constraints, fire spread, and evacuees’ positions. AeroResQ’s workflows incorporate intelligent load-balancing and resilience strategies: CD failures trigger automated data redistribution across IoTDB replicas, while SD failures prompt spatial re-partitioning of the fire region and reallocation of these partitions to existing SDs. We evaluate AeroResQ on an emulated version of the 2025 Southern California wildfires, analyzing escape route generation time, firefighter coordination efficiency, and system responsiveness. Our results indicate that AeroResQ achieves a median end-to-end latency of ≤500ms for different fleet configurations, fire regions, and experiment durations of up to 180 minutes, demonstrating its feasibility for real-time deployment in emergency response.}
+abstract = {Drone fleets equipped with onboard cameras, computer vision, and Deep Neural Network (DNN) models offer a powerful solution for diverse spatio-temporal applications. In the context of wildfire response, drones can play a critical role in monitoring fire spread, assisting firefighters in suppression efforts, and facilitating safe evacuation. In this paper, we introduce AeroResQ, an edge-accelerated Unmanned Aerial Vehicle (UAV) framework for scalable, resilient, and collaborative escape route planning in dynamic wildfire scenarios. AeroResQ introduces service drones (SDs) and coordinator drones (CDs), each with specialized roles. SDs survey fire-affected areas, detect stranded individuals using onboard edge accelerators running fire detection and human pose identification DNN models, and issue assistance requests. CDs, equipped with lightweight data stores such as Apache IoTDB (Database for Internet of Things), dynamically generate optimal ground escape routes and monitor firefighter movements along these routes. AeroResQ employs a collaborative path-planning approach using a weighted A* search algorithm based on terrain constraints, fire spread, and evacuees’ positions. AeroResQ’s workflows incorporate intelligent load-balancing and resilience strategies: CD failures trigger automated data redistribution across IoTDB replicas, while SD failures prompt spatial re-partitioning of the fire region and reallocation of these partitions to existing SDs. We evaluate AeroResQ on an emulated version of the 2025 Southern California wildfires, analyzing escape route generation time, firefighter coordination efficiency, and system responsiveness. Our results indicate that AeroResQ achieves a median end-to-end latency of ≤500ms for different fleet configurations, fire regions, and experiment durations of up to 180 minutes, demonstrating its feasibility for real-time deployment in emergency response.},
+note = {Funding Acknowledgements: NSF Grant # 2018074, #2403051 and DOE award #DE-SC0024387}
 }
 
 @ARTICLE{10.3389/fcpxs.2026.1800101,
@@ -228,7 +244,8 @@ YEAR={2026},
 URL={https://www.frontiersin.org/journals/complex-systems/articles/10.3389/fcpxs.2026.1800101},
 DOI={10.3389/fcpxs.2026.1800101},
 ISSN={2813-6187},
-ABSTRACT={The Compute Continuum—spanning IoT, Edge, Cloud, and HPC resources—is reshaping how hyper-distributed applications are designed and orchestrated. Traditional service orchestrators and workload management systems rely on centralized runtimes; however, the emerging paradigm requires decentralized coordination, where autonomous agents cooperate to achieve common goals and dynamically distribute workloads. Consensus algorithms play a crucial role in multi-agent systems (MAS), as they enable agents to reach agreement on how to coordinate and execute functionalities in a cooperative manner. While consensus has previously been applied to distributed job selection, here we extend its use to swarm environments. In this setting, agents autonomously decide which service functionalities (i.e., roles) to execute based on their capabilities and the real-time quality of service (QoS). Functionalities can be elastically activated or terminated as application needs evolve. To support this model, we leverage the COLMENA framework, a programming environment for defining and managing such dynamic services. We apply a greedy consensus-based approach to modern power systems, which are increasingly decentralized due to the large-scale integration of renewable energy sources. Centralized power plants are giving way to distributed, intermittent resources that require decentralized control paradigms. To demonstrate this, we simulate the Northeastern Power Coordinating Council’s (NPCC) 140-bus grid using the ANDES simulator in conjunction with the COLMENA middleware. We deploy this use case across six different sites in the FABRIC testbed, using up to 60 different nodes. Our results show that, under contingency scenarios such as load and generator disconnections, agents self-organize, elect local leaders, and execute optimization algorithms to stabilize grid frequency. Detection and organization times remain below 10s across all experiments, even as the number of agents per area scales from 3 to 10. Stability is restored within approximately 27s and 40s for the respective cases. Resource overhead is minimal, with CPU and memory usage remaining below 7.5% and 2%, respectively. Experiment automation and reproducibility are ensured through Kiso. These findings indicate that role-based programming models complement traditional workflows and that consensus-driven coordination can effectively decentralize decision-making in swarm environments. This approach represents a step toward enabling resilient, decentralized power systems.}}
+ABSTRACT={The Compute Continuum—spanning IoT, Edge, Cloud, and HPC resources—is reshaping how hyper-distributed applications are designed and orchestrated. Traditional service orchestrators and workload management systems rely on centralized runtimes; however, the emerging paradigm requires decentralized coordination, where autonomous agents cooperate to achieve common goals and dynamically distribute workloads. Consensus algorithms play a crucial role in multi-agent systems (MAS), as they enable agents to reach agreement on how to coordinate and execute functionalities in a cooperative manner. While consensus has previously been applied to distributed job selection, here we extend its use to swarm environments. In this setting, agents autonomously decide which service functionalities (i.e., roles) to execute based on their capabilities and the real-time quality of service (QoS). Functionalities can be elastically activated or terminated as application needs evolve. To support this model, we leverage the COLMENA framework, a programming environment for defining and managing such dynamic services. We apply a greedy consensus-based approach to modern power systems, which are increasingly decentralized due to the large-scale integration of renewable energy sources. Centralized power plants are giving way to distributed, intermittent resources that require decentralized control paradigms. To demonstrate this, we simulate the Northeastern Power Coordinating Council’s (NPCC) 140-bus grid using the ANDES simulator in conjunction with the COLMENA middleware. We deploy this use case across six different sites in the FABRIC testbed, using up to 60 different nodes. Our results show that, under contingency scenarios such as load and generator disconnections, agents self-organize, elect local leaders, and execute optimization algorithms to stabilize grid frequency. Detection and organization times remain below 10s across all experiments, even as the number of agents per area scales from 3 to 10. Stability is restored within approximately 27s and 40s for the respective cases. Resource overhead is minimal, with CPU and memory usage remaining below 7.5% and 2%, respectively. Experiment automation and reproducibility are ensured through Kiso. These findings indicate that role-based programming models complement traditional workflows and that consensus-driven coordination can effectively decentralize decision-making in swarm environments. This approach represents a step toward enabling resilient, decentralized power systems.}},
+note = {Funding Acknowledgements: DOE award #DE-SC0024387}
 
 @InProceedings{badia-isc-2026,
 author="Taufer, Michela
