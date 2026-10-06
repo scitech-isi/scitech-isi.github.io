@@ -1,3 +1,17 @@
+- title: AI Workflows on Laguna using Pegasus
+  author: Karan Vahi
+  description: Research Showcase at Computational Cove 2026 -  SoCal Research Computing & Data Symposium, USC
+  month: October
+  year: 2026
+  file: vahi-comp-cove-2026.pdf
+
+- title: Scientific Workflows with Pegasus on NERSC Resources using SFAPI
+  author: Karan Vahi
+  description: NERSC Users Group Meeting 2026
+  month: September
+  year: 2026
+  file: vahi-pegasus-nug-2026.pdf
+  
 - title: Abstraction and Automation - From Workflows to Intelligent Systems and the Future of Scientific Discovery
   author: Ewa Deelman
   description: Sidney Fernbach Memorial Award Talk, SC 25
