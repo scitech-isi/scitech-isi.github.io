@@ -1,9 +1,19 @@
+
+
+
 - title: "Pegasus Studio:  Artificial Intelligence Assisted Workflow Management on National Cyberinfrastructure"
   author: Mats Rynge, Komal Thareja, Karan Vahi
   description: Computational Cove 2026 - the SoCal Research Computing & Data Symposium, USC, Los Angeles, CA, 2, Oct 2026
   month: October
   year: 2026
   file: pegasus-studio-comp-cove-2026.pdf
+  
+  - title: "PegasusAI:Next-Generation AI-Driven Scientific Workflow Management"
+  author: Ewa Deelman, Anirban Mandal, Sai Swaminathan, Michela Taufer, Michael Zink
+  description:  
+  month: September
+  year: 2026
+  file: PegasusAI-CSSI-PImeeting-2026.pptx-3.pdf
 
 - title: "Impact of Cyberinfrastructure Fellowship Program for Undergraduates"
   author: Angela Murillo, Don Brower, Nicole Virdone, Sajith Sasidharan, Sarowar Hossain, Jaya Bharti, Ewa Deelman
